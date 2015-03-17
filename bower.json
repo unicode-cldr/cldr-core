@@ -4,5 +4,9 @@
   "main": [
     "availableLocales.json",
     "supplemental/*.json"
+  ],
+  "ignore": [
+    ".gitattributes",
+    "README.md"
   ]
 }
