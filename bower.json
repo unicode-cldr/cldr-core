@@ -1,6 +1,6 @@
 {
   "name": "cldr-core",
-  "version": "27.0.1",
+  "version": "27.0.3",
   "main": [
     "availableLocales.json",
     "defaultContent.json",
