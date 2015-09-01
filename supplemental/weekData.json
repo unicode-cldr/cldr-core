@@ -1,11 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_unicodeVersion": "7.0.0",
-      "_number": "$Revision: 11318 $"
-    },
-    "generation": {
-      "_date": "$Date: 2015-02-25 23:47:56 -0600 (Wed, 25 Feb 2015) $"
+      "_cldrVersion": "28",
+      "_unicodeVersion": "8.0.0",
+      "_number": "$Revision: 11969 $"
     },
     "weekData": {
       "minDays": {
@@ -59,6 +57,8 @@
         "VA": "4"
       },
       "firstDay": {
+        "BD": "fri",
+        "MV": "fri",
         "001": "mon",
         "AD": "mon",
         "AI": "mon",
@@ -164,7 +164,12 @@
         "CO": "sun",
         "DM": "sun",
         "DO": "sun",
-        "ET": "sun",
+        "ET": "sun"
+      },
+      "firstDay-alt-variant": {
+        "GB": "sun"
+      },
+      "firstDay": {
         "GT": "sun",
         "GU": "sun",
         "HK": "sun",
@@ -208,15 +213,9 @@
         "WS": "sun",
         "YE": "sun",
         "ZA": "sun",
-        "ZW": "sun",
-        "BD": "fri",
-        "MV": "fri"
-      },
-      "firstDay-alt-variant": {
-        "GB": "sun"
+        "ZW": "sun"
       },
       "weekendStart": {
-        "001": "sat",
         "AE": "fri",
         "BH": "fri",
         "DZ": "fri",
@@ -235,11 +234,13 @@
         "SY": "fri",
         "TN": "fri",
         "YE": "fri",
-        "AF": "thu",
-        "IN": "sun"
+        "001": "sat",
+        "IN": "sun",
+        "AF": "thu"
       },
       "weekendEnd": {
-        "001": "sun",
+        "AF": "fri",
+        "IR": "fri",
         "AE": "sat",
         "BH": "sat",
         "DZ": "sat",
@@ -257,8 +258,7 @@
         "SY": "sat",
         "TN": "sat",
         "YE": "sat",
-        "AF": "fri",
-        "IR": "fri"
+        "001": "sun"
       }
     }
   }
