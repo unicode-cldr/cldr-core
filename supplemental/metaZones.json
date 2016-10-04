@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 12348 $",
-      "_unicodeVersion": "8.0.0",
-      "_cldrVersion": "29"
+      "_number": "$Revision: 13016 $",
+      "_unicodeVersion": "9.0.0",
+      "_cldrVersion": "30"
     },
     "metaZones": {
       "metazoneInfo": {
@@ -2479,13 +2479,13 @@
               {
                 "usesMetazone": {
                   "_mzone": "Almaty",
-                  "_to": "2005-03-14 18:00"
+                  "_to": "2004-10-30 20:00"
                 }
               },
               {
                 "usesMetazone": {
                   "_mzone": "Kazakhstan_Eastern",
-                  "_from": "2005-03-14 18:00"
+                  "_from": "2004-10-30 20:00"
                 }
               }
             ],
@@ -2506,7 +2506,14 @@
               {
                 "usesMetazone": {
                   "_mzone": "Magadan",
-                  "_from": "2010-03-27 14:00"
+                  "_from": "2010-03-27 14:00",
+                  "_to": "2014-10-25 14:00"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "Anadyr",
+                  "_from": "2014-10-25 14:00"
                 }
               }
             ],
@@ -2521,13 +2528,13 @@
                 "usesMetazone": {
                   "_mzone": "Aqtau",
                   "_from": "1991-12-15 19:00",
-                  "_to": "2005-03-14 20:00"
+                  "_to": "2004-10-30 22:00"
                 }
               },
               {
                 "usesMetazone": {
                   "_mzone": "Kazakhstan_Western",
-                  "_from": "2005-03-14 20:00"
+                  "_from": "2004-10-30 22:00"
                 }
               }
             ],
@@ -2542,13 +2549,13 @@
                 "usesMetazone": {
                   "_mzone": "Aqtobe",
                   "_from": "1991-12-15 19:00",
-                  "_to": "2005-03-14 19:00"
+                  "_to": "2004-10-30 21:00"
                 }
               },
               {
                 "usesMetazone": {
                   "_mzone": "Kazakhstan_Western",
-                  "_from": "2005-03-14 19:00"
+                  "_from": "2005-10-30 21:00"
                 }
               }
             ],
@@ -3025,13 +3032,13 @@
                 "usesMetazone": {
                   "_mzone": "Oral",
                   "_from": "1991-12-15 20:00",
-                  "_to": "2005-03-14 20:00"
+                  "_to": "2004-10-30 22:00"
                 }
               },
               {
                 "usesMetazone": {
                   "_mzone": "Kazakhstan_Western",
-                  "_from": "2005-03-14 20:00"
+                  "_from": "2004-10-30 22:00"
                 }
               }
             ],
@@ -3095,13 +3102,13 @@
                 "usesMetazone": {
                   "_mzone": "Qyzylorda",
                   "_from": "1991-12-15 19:00",
-                  "_to": "2005-03-14 18:00"
+                  "_to": "2004-10-30 21:00"
                 }
               },
               {
                 "usesMetazone": {
                   "_mzone": "Kazakhstan_Eastern",
-                  "_from": "2005-03-14 18:00"
+                  "_from": "2004-10-30 21:00"
                 }
               }
             ],
@@ -3547,6 +3554,15 @@
                 }
               }
             ],
+            "Astrakhan": [
+              {
+                "usesMetazone": {
+                  "_mzone": "Moscow",
+                  "_from": "1992-03-28 22:00",
+                  "_to": "2016-03-26 23:00"
+                }
+              }
+            ],
             "Athens": [
               {
                 "usesMetazone": {
@@ -3697,7 +3713,14 @@
               {
                 "usesMetazone": {
                   "_mzone": "Europe_Eastern",
-                  "_from": "1985-04-19 21:00"
+                  "_from": "1985-04-19 21:00",
+                  "_to": "2016-09-06 21:00"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "Turkey",
+                  "_from": "2016-09-06 21:00"
                 }
               }
             ],
@@ -3719,13 +3742,13 @@
               {
                 "usesMetazone": {
                   "_mzone": "Moscow",
-                  "_to": "1991-03-30 23:00"
+                  "_to": "1989-03-25 23:00"
                 }
               },
               {
                 "usesMetazone": {
                   "_mzone": "Europe_Eastern",
-                  "_from": "1991-03-30 23:00",
+                  "_from": "1989-03-25 23:00",
                   "_to": "2011-03-27 00:00"
                 }
               },
@@ -3851,7 +3874,14 @@
               {
                 "usesMetazone": {
                   "_mzone": "Europe_Further_Eastern",
-                  "_from": "2011-03-27 00:00"
+                  "_from": "2011-03-27 00:00",
+                  "_to": "2014-10-26 22:00"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "Moscow",
+                  "_from": "2014-10-26 22:00"
                 }
               }
             ],
@@ -3955,15 +3985,8 @@
               },
               {
                 "usesMetazone": {
-                  "_mzone": "Kuybyshev",
-                  "_from": "1991-09-29 00:00",
-                  "_to": "1991-10-20 00:00"
-                }
-              },
-              {
-                "usesMetazone": {
                   "_mzone": "Samara",
-                  "_from": "1991-10-20 00:00"
+                  "_from": "1991-09-29 00:00"
                 }
               }
             ],
@@ -4058,6 +4081,15 @@
                 }
               }
             ],
+            "Ulyanovsk": [
+              {
+                "usesMetazone": {
+                  "_mzone": "Moscow",
+                  "_from": "1992-01-19 00:00",
+                  "_to": "2016-03-26 23:00"
+                }
+              }
+            ],
             "Uzhgorod": [
               {
                 "usesMetazone": {
@@ -4104,13 +4136,13 @@
               {
                 "usesMetazone": {
                   "_mzone": "Moscow",
-                  "_to": "1991-03-30 23:00"
+                  "_to": "1989-03-25 23:00"
                 }
               },
               {
                 "usesMetazone": {
                   "_mzone": "Europe_Eastern",
-                  "_from": "1991-03-30 23:00",
+                  "_from": "1989-03-25 23:00",
                   "_to": "1998-03-29 01:00"
                 }
               },
@@ -6263,13 +6295,6 @@
             "_other": "Korea",
             "_type": "Asia/Seoul",
             "_territory": "001"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Korea",
-            "_type": "Asia/Pyongyang",
-            "_territory": "KP"
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "scriptMetadata": {
     "Adlm": {
-      "rank": 134,
+      "rank": 33,
       "age": {
         "m_version_": 150994944
       },
@@ -17,7 +17,7 @@
       "likelyLanguage": "ff"
     },
     "Aghb": {
-      "rank": 105,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -33,7 +33,7 @@
       "likelyLanguage": "lez"
     },
     "Ahom": {
-      "rank": 128,
+      "rank": 33,
       "age": {
         "m_version_": 134217728
       },
@@ -65,7 +65,7 @@
       "likelyLanguage": "ar"
     },
     "Armi": {
-      "rank": 75,
+      "rank": 33,
       "age": {
         "m_version_": 84017152
       },
@@ -97,7 +97,7 @@
       "likelyLanguage": "hy"
     },
     "Avst": {
-      "rank": 64,
+      "rank": 33,
       "age": {
         "m_version_": 84017152
       },
@@ -113,7 +113,7 @@
       "likelyLanguage": "ae"
     },
     "Bali": {
-      "rank": 44,
+      "rank": 33,
       "age": {
         "m_version_": 83886080
       },
@@ -129,7 +129,7 @@
       "likelyLanguage": "ban"
     },
     "Bamu": {
-      "rank": 46,
+      "rank": 33,
       "age": {
         "m_version_": 84017152
       },
@@ -145,7 +145,7 @@
       "likelyLanguage": "bax"
     },
     "Bass": {
-      "rank": 106,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -161,7 +161,7 @@
       "likelyLanguage": "bsq"
     },
     "Batk": {
-      "rank": 47,
+      "rank": 33,
       "age": {
         "m_version_": 100663296
       },
@@ -193,7 +193,7 @@
       "likelyLanguage": "bn"
     },
     "Bhks": {
-      "rank": 135,
+      "rank": 33,
       "age": {
         "m_version_": 150994944
       },
@@ -209,7 +209,7 @@
       "likelyLanguage": "sa"
     },
     "Bopo": {
-      "rank": 35,
+      "rank": 33,
       "age": {
         "m_version_": 16842752
       },
@@ -225,7 +225,7 @@
       "likelyLanguage": "zh"
     },
     "Brah": {
-      "rank": 65,
+      "rank": 33,
       "age": {
         "m_version_": 100663296
       },
@@ -241,7 +241,7 @@
       "likelyLanguage": "pka"
     },
     "Brai": {
-      "rank": 104,
+      "rank": 33,
       "age": {
         "m_version_": 50331648
       },
@@ -257,7 +257,7 @@
       "likelyLanguage": "und"
     },
     "Bugi": {
-      "rank": 66,
+      "rank": 33,
       "age": {
         "m_version_": 67174400
       },
@@ -273,7 +273,7 @@
       "likelyLanguage": "bug"
     },
     "Buhd": {
-      "rank": 67,
+      "rank": 33,
       "age": {
         "m_version_": 50462720
       },
@@ -289,7 +289,7 @@
       "likelyLanguage": "bku"
     },
     "Cakm": {
-      "rank": 97,
+      "rank": 33,
       "age": {
         "m_version_": 100728832
       },
@@ -321,7 +321,7 @@
       "likelyLanguage": "cr"
     },
     "Cari": {
-      "rank": 68,
+      "rank": 33,
       "age": {
         "m_version_": 83951616
       },
@@ -337,7 +337,7 @@
       "likelyLanguage": "xcr"
     },
     "Cham": {
-      "rank": 48,
+      "rank": 33,
       "age": {
         "m_version_": 83951616
       },
@@ -353,7 +353,7 @@
       "likelyLanguage": "cjm"
     },
     "Cher": {
-      "rank": 37,
+      "rank": 33,
       "age": {
         "m_version_": 50331648
       },
@@ -369,7 +369,7 @@
       "likelyLanguage": "chr"
     },
     "Copt": {
-      "rank": 40,
+      "rank": 33,
       "age": {
         "m_version_": 16842752
       },
@@ -385,7 +385,7 @@
       "likelyLanguage": "cop"
     },
     "Cprt": {
-      "rank": 70,
+      "rank": 33,
       "age": {
         "m_version_": 67108864
       },
@@ -433,7 +433,7 @@
       "likelyLanguage": "hi"
     },
     "Dsrt": {
-      "rank": 71,
+      "rank": 33,
       "age": {
         "m_version_": 50397184
       },
@@ -449,7 +449,7 @@
       "likelyLanguage": "en"
     },
     "Dupl": {
-      "rank": 107,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -465,7 +465,7 @@
       "likelyLanguage": "fr"
     },
     "Egyp": {
-      "rank": 72,
+      "rank": 33,
       "age": {
         "m_version_": 84017152
       },
@@ -481,7 +481,7 @@
       "likelyLanguage": "egy"
     },
     "Elba": {
-      "rank": 108,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -529,7 +529,7 @@
       "likelyLanguage": "ka"
     },
     "Glag": {
-      "rank": 42,
+      "rank": 33,
       "age": {
         "m_version_": 67174400
       },
@@ -545,7 +545,7 @@
       "likelyLanguage": "cu"
     },
     "Goth": {
-      "rank": 73,
+      "rank": 33,
       "age": {
         "m_version_": 50397184
       },
@@ -561,7 +561,7 @@
       "likelyLanguage": "got"
     },
     "Gran": {
-      "rank": 109,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -673,7 +673,7 @@
       "likelyLanguage": "zh"
     },
     "Hano": {
-      "rank": 74,
+      "rank": 33,
       "age": {
         "m_version_": 50462720
       },
@@ -721,7 +721,7 @@
       "likelyLanguage": "zh"
     },
     "Hatr": {
-      "rank": 130,
+      "rank": 33,
       "age": {
         "m_version_": 134217728
       },
@@ -769,7 +769,7 @@
       "likelyLanguage": "ja"
     },
     "Hluw": {
-      "rank": 129,
+      "rank": 33,
       "age": {
         "m_version_": 134217728
       },
@@ -785,7 +785,7 @@
       "likelyLanguage": "hlu"
     },
     "Hmng": {
-      "rank": 110,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -801,7 +801,7 @@
       "likelyLanguage": "hnj"
     },
     "Hung": {
-      "rank": 132,
+      "rank": 33,
       "age": {
         "m_version_": 134217728
       },
@@ -817,7 +817,7 @@
       "likelyLanguage": "hu"
     },
     "Ital": {
-      "rank": 84,
+      "rank": 33,
       "age": {
         "m_version_": 50397184
       },
@@ -849,7 +849,7 @@
       "likelyLanguage": "ko"
     },
     "Java": {
-      "rank": 49,
+      "rank": 33,
       "age": {
         "m_version_": 84017152
       },
@@ -881,7 +881,7 @@
       "likelyLanguage": "ja"
     },
     "Kali": {
-      "rank": 50,
+      "rank": 33,
       "age": {
         "m_version_": 83951616
       },
@@ -913,7 +913,7 @@
       "likelyLanguage": "ja"
     },
     "Khar": {
-      "rank": 79,
+      "rank": 33,
       "age": {
         "m_version_": 67174400
       },
@@ -945,7 +945,7 @@
       "likelyLanguage": "km"
     },
     "Khoj": {
-      "rank": 111,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -993,7 +993,7 @@
       "likelyLanguage": "ko"
     },
     "Kthi": {
-      "rank": 78,
+      "rank": 33,
       "age": {
         "m_version_": 84017152
       },
@@ -1009,7 +1009,7 @@
       "likelyLanguage": "bho"
     },
     "Lana": {
-      "rank": 62,
+      "rank": 33,
       "age": {
         "m_version_": 84017152
       },
@@ -1057,7 +1057,7 @@
       "likelyLanguage": "en"
     },
     "Lepc": {
-      "rank": 51,
+      "rank": 33,
       "age": {
         "m_version_": 83951616
       },
@@ -1073,7 +1073,7 @@
       "likelyLanguage": "lep"
     },
     "Limb": {
-      "rank": 52,
+      "rank": 33,
       "age": {
         "m_version_": 67108864
       },
@@ -1089,7 +1089,7 @@
       "likelyLanguage": "lif"
     },
     "Lina": {
-      "rank": 112,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -1105,7 +1105,7 @@
       "likelyLanguage": "lab"
     },
     "Linb": {
-      "rank": 80,
+      "rank": 33,
       "age": {
         "m_version_": 67108864
       },
@@ -1121,7 +1121,7 @@
       "likelyLanguage": "grc"
     },
     "Lisu": {
-      "rank": 53,
+      "rank": 33,
       "age": {
         "m_version_": 84017152
       },
@@ -1137,7 +1137,7 @@
       "likelyLanguage": "lis"
     },
     "Lyci": {
-      "rank": 81,
+      "rank": 33,
       "age": {
         "m_version_": 83951616
       },
@@ -1153,7 +1153,7 @@
       "likelyLanguage": "xlc"
     },
     "Lydi": {
-      "rank": 82,
+      "rank": 33,
       "age": {
         "m_version_": 83951616
       },
@@ -1169,7 +1169,7 @@
       "likelyLanguage": "xld"
     },
     "Mahj": {
-      "rank": 113,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -1185,7 +1185,7 @@
       "likelyLanguage": "hi"
     },
     "Mand": {
-      "rank": 54,
+      "rank": 33,
       "age": {
         "m_version_": 100663296
       },
@@ -1201,7 +1201,7 @@
       "likelyLanguage": "myz"
     },
     "Mani": {
-      "rank": 114,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -1217,7 +1217,7 @@
       "likelyLanguage": "xmn"
     },
     "Marc": {
-      "rank": 136,
+      "rank": 33,
       "age": {
         "m_version_": 150994944
       },
@@ -1233,7 +1233,7 @@
       "likelyLanguage": "bo"
     },
     "Mend": {
-      "rank": 115,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -1249,7 +1249,7 @@
       "likelyLanguage": "men"
     },
     "Merc": {
-      "rank": 98,
+      "rank": 33,
       "age": {
         "m_version_": 100728832
       },
@@ -1265,7 +1265,7 @@
       "likelyLanguage": "xmr"
     },
     "Mero": {
-      "rank": 99,
+      "rank": 33,
       "age": {
         "m_version_": 100728832
       },
@@ -1297,7 +1297,7 @@
       "likelyLanguage": "ml"
     },
     "Modi": {
-      "rank": 116,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -1313,7 +1313,7 @@
       "likelyLanguage": "mr"
     },
     "Mong": {
-      "rank": 41,
+      "rank": 33,
       "age": {
         "m_version_": 50331648
       },
@@ -1329,7 +1329,7 @@
       "likelyLanguage": "mn"
     },
     "Mroo": {
-      "rank": 117,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -1345,7 +1345,7 @@
       "likelyLanguage": "mro"
     },
     "Mtei": {
-      "rank": 55,
+      "rank": 33,
       "age": {
         "m_version_": 84017152
       },
@@ -1361,7 +1361,7 @@
       "likelyLanguage": "mni"
     },
     "Mult": {
-      "rank": 131,
+      "rank": 33,
       "age": {
         "m_version_": 134217728
       },
@@ -1393,7 +1393,7 @@
       "likelyLanguage": "my"
     },
     "Narb": {
-      "rank": 118,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -1409,7 +1409,7 @@
       "likelyLanguage": "xna"
     },
     "Nbat": {
-      "rank": 119,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -1425,7 +1425,7 @@
       "likelyLanguage": "arc"
     },
     "Newa": {
-      "rank": 139,
+      "rank": 33,
       "age": {
         "m_version_": 150994944
       },
@@ -1441,7 +1441,7 @@
       "likelyLanguage": "new"
     },
     "Nkoo": {
-      "rank": 36,
+      "rank": 33,
       "age": {
         "m_version_": 83886080
       },
@@ -1457,7 +1457,7 @@
       "likelyLanguage": "man"
     },
     "Ogam": {
-      "rank": 83,
+      "rank": 33,
       "age": {
         "m_version_": 50331648
       },
@@ -1473,7 +1473,7 @@
       "likelyLanguage": "sga"
     },
     "Olck": {
-      "rank": 57,
+      "rank": 33,
       "age": {
         "m_version_": 83951616
       },
@@ -1489,7 +1489,7 @@
       "likelyLanguage": "sat"
     },
     "Orkh": {
-      "rank": 87,
+      "rank": 33,
       "age": {
         "m_version_": 84017152
       },
@@ -1521,7 +1521,7 @@
       "likelyLanguage": "or"
     },
     "Osge": {
-      "rank": 137,
+      "rank": 33,
       "age": {
         "m_version_": 150994944
       },
@@ -1537,7 +1537,7 @@
       "likelyLanguage": "osa"
     },
     "Osma": {
-      "rank": 88,
+      "rank": 33,
       "age": {
         "m_version_": 67108864
       },
@@ -1553,7 +1553,7 @@
       "likelyLanguage": "so"
     },
     "Palm": {
-      "rank": 120,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -1569,7 +1569,7 @@
       "likelyLanguage": "arc"
     },
     "Pauc": {
-      "rank": 121,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -1585,7 +1585,7 @@
       "likelyLanguage": "ctd"
     },
     "Perm": {
-      "rank": 122,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -1601,7 +1601,7 @@
       "likelyLanguage": "kv"
     },
     "Phag": {
-      "rank": 89,
+      "rank": 33,
       "age": {
         "m_version_": 83886080
       },
@@ -1617,7 +1617,7 @@
       "likelyLanguage": "lzh"
     },
     "Phli": {
-      "rank": 76,
+      "rank": 33,
       "age": {
         "m_version_": 84017152
       },
@@ -1633,7 +1633,7 @@
       "likelyLanguage": "pal"
     },
     "Phlp": {
-      "rank": 123,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -1649,7 +1649,7 @@
       "likelyLanguage": "pal"
     },
     "Phnx": {
-      "rank": 90,
+      "rank": 33,
       "age": {
         "m_version_": 83886080
       },
@@ -1665,7 +1665,7 @@
       "likelyLanguage": "phn"
     },
     "Plrd": {
-      "rank": 100,
+      "rank": 33,
       "age": {
         "m_version_": 100728832
       },
@@ -1681,7 +1681,7 @@
       "likelyLanguage": "hmd"
     },
     "Prti": {
-      "rank": 77,
+      "rank": 33,
       "age": {
         "m_version_": 84017152
       },
@@ -1697,7 +1697,7 @@
       "likelyLanguage": "xpr"
     },
     "Rjng": {
-      "rank": 91,
+      "rank": 33,
       "age": {
         "m_version_": 83951616
       },
@@ -1713,7 +1713,7 @@
       "likelyLanguage": "rej"
     },
     "Runr": {
-      "rank": 92,
+      "rank": 33,
       "age": {
         "m_version_": 50331648
       },
@@ -1729,7 +1729,7 @@
       "likelyLanguage": "non"
     },
     "Samr": {
-      "rank": 39,
+      "rank": 33,
       "age": {
         "m_version_": 84017152
       },
@@ -1745,7 +1745,7 @@
       "likelyLanguage": "smp"
     },
     "Sarb": {
-      "rank": 86,
+      "rank": 33,
       "age": {
         "m_version_": 84017152
       },
@@ -1761,7 +1761,7 @@
       "likelyLanguage": "xsa"
     },
     "Saur": {
-      "rank": 58,
+      "rank": 33,
       "age": {
         "m_version_": 83951616
       },
@@ -1777,7 +1777,7 @@
       "likelyLanguage": "saz"
     },
     "Sgnw": {
-      "rank": 133,
+      "rank": 33,
       "age": {
         "m_version_": 134217728
       },
@@ -1793,7 +1793,7 @@
       "likelyLanguage": "ase"
     },
     "Shaw": {
-      "rank": 93,
+      "rank": 33,
       "age": {
         "m_version_": 67108864
       },
@@ -1809,7 +1809,7 @@
       "likelyLanguage": "en"
     },
     "Shrd": {
-      "rank": 101,
+      "rank": 33,
       "age": {
         "m_version_": 100728832
       },
@@ -1825,7 +1825,7 @@
       "likelyLanguage": "sa"
     },
     "Sidd": {
-      "rank": 124,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -1841,7 +1841,7 @@
       "likelyLanguage": "sa"
     },
     "Sind": {
-      "rank": 125,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -1873,7 +1873,7 @@
       "likelyLanguage": "si"
     },
     "Sora": {
-      "rank": 102,
+      "rank": 33,
       "age": {
         "m_version_": 100728832
       },
@@ -1889,7 +1889,7 @@
       "likelyLanguage": "srb"
     },
     "Sund": {
-      "rank": 59,
+      "rank": 33,
       "age": {
         "m_version_": 83951616
       },
@@ -1905,7 +1905,7 @@
       "likelyLanguage": "su"
     },
     "Sylo": {
-      "rank": 60,
+      "rank": 33,
       "age": {
         "m_version_": 67174400
       },
@@ -1921,7 +1921,7 @@
       "likelyLanguage": "syl"
     },
     "Syrc": {
-      "rank": 34,
+      "rank": 33,
       "age": {
         "m_version_": 50331648
       },
@@ -1937,7 +1937,7 @@
       "likelyLanguage": "syr"
     },
     "Tagb": {
-      "rank": 95,
+      "rank": 33,
       "age": {
         "m_version_": 50462720
       },
@@ -1953,7 +1953,7 @@
       "likelyLanguage": "tbw"
     },
     "Takr": {
-      "rank": 103,
+      "rank": 33,
       "age": {
         "m_version_": 100728832
       },
@@ -1969,7 +1969,7 @@
       "likelyLanguage": "doi"
     },
     "Tale": {
-      "rank": 61,
+      "rank": 33,
       "age": {
         "m_version_": 67108864
       },
@@ -1985,7 +1985,7 @@
       "likelyLanguage": "tdd"
     },
     "Talu": {
-      "rank": 56,
+      "rank": 33,
       "age": {
         "m_version_": 67174400
       },
@@ -2017,7 +2017,7 @@
       "likelyLanguage": "ta"
     },
     "Tang": {
-      "rank": 138,
+      "rank": 33,
       "age": {
         "m_version_": 150994944
       },
@@ -2033,7 +2033,7 @@
       "likelyLanguage": "txg"
     },
     "Tavt": {
-      "rank": 63,
+      "rank": 33,
       "age": {
         "m_version_": 84017152
       },
@@ -2065,7 +2065,7 @@
       "likelyLanguage": "te"
     },
     "Tfng": {
-      "rank": 45,
+      "rank": 33,
       "age": {
         "m_version_": 67174400
       },
@@ -2081,7 +2081,7 @@
       "likelyLanguage": "zgh"
     },
     "Tglg": {
-      "rank": 94,
+      "rank": 33,
       "age": {
         "m_version_": 50462720
       },
@@ -2145,7 +2145,7 @@
       "likelyLanguage": "bo"
     },
     "Tirh": {
-      "rank": 126,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -2161,7 +2161,7 @@
       "likelyLanguage": "mai"
     },
     "Ugar": {
-      "rank": 96,
+      "rank": 33,
       "age": {
         "m_version_": 67108864
       },
@@ -2177,7 +2177,7 @@
       "likelyLanguage": "uga"
     },
     "Vaii": {
-      "rank": 43,
+      "rank": 33,
       "age": {
         "m_version_": 83951616
       },
@@ -2193,7 +2193,7 @@
       "likelyLanguage": "vai"
     },
     "Wara": {
-      "rank": 127,
+      "rank": 33,
       "age": {
         "m_version_": 117440512
       },
@@ -2209,7 +2209,7 @@
       "likelyLanguage": "hoc"
     },
     "Xpeo": {
-      "rank": 85,
+      "rank": 33,
       "age": {
         "m_version_": 67174400
       },
@@ -2225,7 +2225,7 @@
       "likelyLanguage": "peo"
     },
     "Xsux": {
-      "rank": 69,
+      "rank": 33,
       "age": {
         "m_version_": 83886080
       },
@@ -2241,7 +2241,7 @@
       "likelyLanguage": "akk"
     },
     "Yiii": {
-      "rank": 38,
+      "rank": 33,
       "age": {
         "m_version_": 50331648
       },

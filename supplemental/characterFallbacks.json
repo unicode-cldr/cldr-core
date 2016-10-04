@@ -2,8 +2,8 @@
   "supplemental": {
     "version": {
       "_number": "$Revision: 11914 $",
-      "_unicodeVersion": "8.0.0",
-      "_cldrVersion": "29"
+      "_unicodeVersion": "9.0.0",
+      "_cldrVersion": "30"
     },
     "characters": {
       "character-fallback": {

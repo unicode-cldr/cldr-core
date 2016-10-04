@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 12348 $",
-      "_unicodeVersion": "8.0.0",
-      "_cldrVersion": "29"
+      "_number": "$Revision: 12941 $",
+      "_unicodeVersion": "9.0.0",
+      "_cldrVersion": "30"
     },
     "windowsZones": {
       "mapTimezones": [
@@ -33,6 +33,34 @@
             "_other": "Alaskan Standard Time",
             "_type": "America/Anchorage America/Juneau America/Metlakatla America/Nome America/Sitka America/Yakutat",
             "_territory": "US"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Aleutian Standard Time",
+            "_type": "America/Adak",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Aleutian Standard Time",
+            "_type": "America/Adak",
+            "_territory": "US"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Altai Standard Time",
+            "_type": "Asia/Barnaul",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Altai Standard Time",
+            "_type": "Asia/Barnaul",
+            "_territory": "RU"
           }
         },
         {
@@ -135,6 +163,20 @@
         },
         {
           "mapZone": {
+            "_other": "Astrakhan Standard Time",
+            "_type": "Europe/Astrakhan",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Astrakhan Standard Time",
+            "_type": "Europe/Astrakhan Europe/Ulyanovsk",
+            "_territory": "RU"
+          }
+        },
+        {
+          "mapZone": {
             "_other": "Atlantic Standard Time",
             "_type": "America/Halifax",
             "_territory": "001"
@@ -172,6 +214,20 @@
           "mapZone": {
             "_other": "AUS Central Standard Time",
             "_type": "Australia/Darwin",
+            "_territory": "AU"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Aus Central W. Standard Time",
+            "_type": "Australia/Eucla",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Aus Central W. Standard Time",
+            "_type": "Australia/Eucla",
             "_territory": "AU"
           }
         },
@@ -271,6 +327,20 @@
             "_other": "Belarus Standard Time",
             "_type": "Europe/Minsk",
             "_territory": "BY"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Bougainville Standard Time",
+            "_type": "Pacific/Bougainville",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Bougainville Standard Time",
+            "_type": "Pacific/Bougainville",
+            "_territory": "PG"
           }
         },
         {
@@ -584,20 +654,6 @@
         {
           "mapZone": {
             "_other": "Central Pacific Standard Time",
-            "_type": "Pacific/Norfolk",
-            "_territory": "NF"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Central Pacific Standard Time",
-            "_type": "Pacific/Bougainville",
-            "_territory": "PG"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Central Pacific Standard Time",
             "_type": "Pacific/Guadalcanal",
             "_territory": "SB"
           }
@@ -667,6 +723,20 @@
         },
         {
           "mapZone": {
+            "_other": "Chatham Islands Standard Time",
+            "_type": "Pacific/Chatham",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Chatham Islands Standard Time",
+            "_type": "Pacific/Chatham",
+            "_territory": "NZ"
+          }
+        },
+        {
+          "mapZone": {
             "_other": "China Standard Time",
             "_type": "Asia/Shanghai",
             "_territory": "001"
@@ -691,6 +761,20 @@
             "_other": "China Standard Time",
             "_type": "Asia/Macau",
             "_territory": "MO"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Cuba Standard Time",
+            "_type": "America/Havana",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Cuba Standard Time",
+            "_type": "America/Havana",
+            "_territory": "CU"
           }
         },
         {
@@ -856,6 +940,20 @@
         },
         {
           "mapZone": {
+            "_other": "Easter Island Standard Time",
+            "_type": "Pacific/Easter",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Easter Island Standard Time",
+            "_type": "Pacific/Easter",
+            "_territory": "CL"
+          }
+        },
+        {
+          "mapZone": {
             "_other": "Eastern Standard Time",
             "_type": "America/New_York",
             "_territory": "001"
@@ -873,20 +971,6 @@
             "_other": "Eastern Standard Time",
             "_type": "America/Toronto America/Iqaluit America/Montreal America/Nipigon America/Pangnirtung America/Thunder_Bay",
             "_territory": "CA"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Eastern Standard Time",
-            "_type": "America/Havana",
-            "_territory": "CU"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Eastern Standard Time",
-            "_type": "America/Port-au-Prince",
-            "_territory": "HT"
           }
         },
         {
@@ -1248,6 +1332,20 @@
         },
         {
           "mapZone": {
+            "_other": "Haiti Standard Time",
+            "_type": "America/Port-au-Prince",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Haiti Standard Time",
+            "_type": "America/Port-au-Prince",
+            "_territory": "HT"
+          }
+        },
+        {
+          "mapZone": {
             "_other": "Hawaiian Standard Time",
             "_type": "Pacific/Honolulu",
             "_territory": "001"
@@ -1409,6 +1507,20 @@
         },
         {
           "mapZone": {
+            "_other": "Lord Howe Standard Time",
+            "_type": "Australia/Lord_Howe",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Lord Howe Standard Time",
+            "_type": "Australia/Lord_Howe",
+            "_territory": "AU"
+          }
+        },
+        {
+          "mapZone": {
             "_other": "Magadan Standard Time",
             "_type": "Asia/Magadan",
             "_territory": "001"
@@ -1419,6 +1531,20 @@
             "_other": "Magadan Standard Time",
             "_type": "Asia/Magadan",
             "_territory": "RU"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Marquesas Standard Time",
+            "_type": "Pacific/Marquesas",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Marquesas Standard Time",
+            "_type": "Pacific/Marquesas",
+            "_territory": "PF"
           }
         },
         {
@@ -1647,6 +1773,20 @@
         },
         {
           "mapZone": {
+            "_other": "Norfolk Standard Time",
+            "_type": "Pacific/Norfolk",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Norfolk Standard Time",
+            "_type": "Pacific/Norfolk",
+            "_territory": "NF"
+          }
+        },
+        {
+          "mapZone": {
             "_other": "North Asia East Standard Time",
             "_type": "Asia/Irkutsk",
             "_territory": "001"
@@ -1725,13 +1865,6 @@
         {
           "mapZone": {
             "_other": "Pacific Standard Time",
-            "_type": "America/Tijuana America/Santa_Isabel",
-            "_territory": "MX"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Pacific Standard Time",
             "_type": "America/Los_Angeles",
             "_territory": "US"
           }
@@ -1741,6 +1874,20 @@
             "_other": "Pacific Standard Time",
             "_type": "PST8PDT",
             "_territory": "ZZ"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Pacific Standard Time (Mexico)",
+            "_type": "America/Tijuana",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Pacific Standard Time (Mexico)",
+            "_type": "America/Tijuana America/Santa_Isabel",
+            "_territory": "MX"
           }
         },
         {
@@ -1858,7 +2005,7 @@
         {
           "mapZone": {
             "_other": "Russian Standard Time",
-            "_type": "Europe/Moscow Europe/Simferopol Europe/Volgograd",
+            "_type": "Europe/Moscow Europe/Kirov Europe/Simferopol Europe/Volgograd",
             "_territory": "RU"
           }
         },
@@ -1879,7 +2026,7 @@
         {
           "mapZone": {
             "_other": "SA Eastern Standard Time",
-            "_type": "America/Fortaleza America/Araguaina America/Belem America/Maceio America/Recife America/Santarem",
+            "_type": "America/Fortaleza America/Belem America/Maceio America/Recife America/Santarem",
             "_territory": "BR"
           }
         },
@@ -1930,13 +2077,6 @@
             "_other": "SA Pacific Standard Time",
             "_type": "America/Coral_Harbour",
             "_territory": "CA"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "SA Pacific Standard Time",
-            "_type": "Pacific/Easter",
-            "_territory": "CL"
           }
         },
         {
@@ -2152,13 +2292,6 @@
         {
           "mapZone": {
             "_other": "SA Western Standard Time",
-            "_type": "America/Grand_Turk",
-            "_territory": "TC"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "SA Western Standard Time",
             "_type": "America/Port_of_Spain",
             "_territory": "TT"
           }
@@ -2189,6 +2322,34 @@
             "_other": "SA Western Standard Time",
             "_type": "Etc/GMT+4",
             "_territory": "ZZ"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Saint Pierre Standard Time",
+            "_type": "America/Miquelon",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Saint Pierre Standard Time",
+            "_type": "America/Miquelon",
+            "_territory": "PM"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Sakhalin Standard Time",
+            "_type": "Asia/Sakhalin",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Sakhalin Standard Time",
+            "_type": "Asia/Sakhalin",
+            "_territory": "RU"
           }
         },
         {
@@ -2466,6 +2627,20 @@
         },
         {
           "mapZone": {
+            "_other": "Tocantins Standard Time",
+            "_type": "America/Araguaina",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Tocantins Standard Time",
+            "_type": "America/Araguaina",
+            "_territory": "BR"
+          }
+        },
+        {
+          "mapZone": {
             "_other": "Tokyo Standard Time",
             "_type": "Asia/Tokyo",
             "_territory": "001"
@@ -2508,6 +2683,20 @@
         },
         {
           "mapZone": {
+            "_other": "Tomsk Standard Time",
+            "_type": "Asia/Tomsk",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Tomsk Standard Time",
+            "_type": "Asia/Tomsk",
+            "_territory": "RU"
+          }
+        },
+        {
+          "mapZone": {
             "_other": "Tonga Standard Time",
             "_type": "Pacific/Tongatapu",
             "_territory": "001"
@@ -2543,6 +2732,20 @@
         },
         {
           "mapZone": {
+            "_other": "Transbaikal Standard Time",
+            "_type": "Asia/Chita",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Transbaikal Standard Time",
+            "_type": "Asia/Chita",
+            "_territory": "RU"
+          }
+        },
+        {
+          "mapZone": {
             "_other": "Turkey Standard Time",
             "_type": "Europe/Istanbul",
             "_territory": "001"
@@ -2553,6 +2756,20 @@
             "_other": "Turkey Standard Time",
             "_type": "Europe/Istanbul",
             "_territory": "TR"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Turks And Caicos Standard Time",
+            "_type": "America/Grand_Turk",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Turks And Caicos Standard Time",
+            "_type": "America/Grand_Turk",
+            "_territory": "TC"
           }
         },
         {
@@ -2664,6 +2881,48 @@
           "mapZone": {
             "_other": "UTC-02",
             "_type": "Etc/GMT+2",
+            "_territory": "ZZ"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "UTC-08",
+            "_type": "Etc/GMT+8",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "UTC-08",
+            "_type": "Pacific/Pitcairn",
+            "_territory": "PN"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "UTC-08",
+            "_type": "Etc/GMT+8",
+            "_territory": "ZZ"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "UTC-09",
+            "_type": "Etc/GMT+9",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "UTC-09",
+            "_type": "Pacific/Gambier",
+            "_territory": "PF"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "UTC-09",
+            "_type": "Etc/GMT+9",
             "_territory": "ZZ"
           }
         },
@@ -2782,7 +3041,7 @@
         {
           "mapZone": {
             "_other": "Vladivostok Standard Time",
-            "_type": "Asia/Vladivostok Asia/Sakhalin Asia/Ust-Nera",
+            "_type": "Asia/Vladivostok Asia/Ust-Nera",
             "_territory": "RU"
           }
         },
@@ -3033,6 +3292,20 @@
         },
         {
           "mapZone": {
+            "_other": "W. Mongolia Standard Time",
+            "_type": "Asia/Hovd",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "W. Mongolia Standard Time",
+            "_type": "Asia/Hovd",
+            "_territory": "MN"
+          }
+        },
+        {
+          "mapZone": {
             "_other": "West Asia Standard Time",
             "_type": "Asia/Tashkent",
             "_territory": "001"
@@ -3096,6 +3369,20 @@
         },
         {
           "mapZone": {
+            "_other": "West Bank Standard Time",
+            "_type": "Asia/Hebron",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "West Bank Standard Time",
+            "_type": "Asia/Hebron Asia/Gaza",
+            "_territory": "PS"
+          }
+        },
+        {
+          "mapZone": {
             "_other": "West Pacific Standard Time",
             "_type": "Pacific/Port_Moresby",
             "_territory": "001"
@@ -3153,7 +3440,7 @@
         {
           "mapZone": {
             "_other": "Yakutsk Standard Time",
-            "_type": "Asia/Yakutsk Asia/Chita Asia/Khandyga",
+            "_type": "Asia/Yakutsk Asia/Khandyga",
             "_territory": "RU"
           }
         }

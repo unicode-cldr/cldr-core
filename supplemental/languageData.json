@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 12447 $",
-      "_unicodeVersion": "8.0.0",
-      "_cldrVersion": "29"
+      "_number": "$Revision: 12891 $",
+      "_unicodeVersion": "9.0.0",
+      "_cldrVersion": "30"
     },
     "languageData": {
       "aa": {
@@ -1116,6 +1116,11 @@
           "Latn"
         ]
       },
+      "cs-alt-secondary": {
+        "_territories": [
+          "SK"
+        ]
+      },
       "csb-alt-secondary": {
         "_territories": [
           "PL"
@@ -1203,6 +1208,7 @@
           "BE",
           "CH",
           "DE",
+          "IT",
           "LI",
           "LU"
         ],
@@ -1213,10 +1219,16 @@
       "de-alt-secondary": {
         "_territories": [
           "BR",
+          "CZ",
           "DK",
+          "FR",
+          "GB",
+          "HU",
           "KZ",
           "NL",
           "PL",
+          "SI",
+          "SK",
           "US"
         ],
         "_scripts": [
@@ -1518,6 +1530,7 @@
           "DE",
           "DK",
           "DZ",
+          "EE",
           "EG",
           "ES",
           "ET",
@@ -1534,6 +1547,8 @@
           "LB",
           "LK",
           "LT",
+          "LU",
+          "LV",
           "MA",
           "MX",
           "MY",
@@ -1599,8 +1614,11 @@
           "AD",
           "BZ",
           "DE",
+          "FR",
           "GI",
           "PH",
+          "PT",
+          "RO",
           "US"
         ]
       },
@@ -1703,6 +1721,7 @@
       },
       "fi-alt-secondary": {
         "_territories": [
+          "EE",
           "SE"
         ]
       },
@@ -1813,8 +1832,11 @@
       "fr-alt-secondary": {
         "_territories": [
           "DE",
+          "GB",
           "IT",
           "NL",
+          "PT",
+          "RO",
           "TF",
           "US"
         ],
@@ -2133,6 +2155,11 @@
           "Latn"
         ]
       },
+      "gsw-alt-secondary": {
+        "_territories": [
+          "DE"
+        ]
+      },
       "gu": {
         "_scripts": [
           "Gujr"
@@ -2385,7 +2412,8 @@
       "hr-alt-secondary": {
         "_territories": [
           "AT",
-          "RS"
+          "RS",
+          "SI"
         ]
       },
       "hsb": {
@@ -2567,6 +2595,7 @@
           "DE",
           "FR",
           "HR",
+          "MT",
           "US",
           "VA"
         ]
@@ -4489,11 +4518,6 @@
           "Latn"
         ]
       },
-      "prs": {
-        "_scripts": [
-          "Arab"
-        ]
-      },
       "ps": {
         "_territories": [
           "AF"
@@ -4738,9 +4762,12 @@
       },
       "ru-alt-secondary": {
         "_territories": [
+          "BG",
           "DE",
           "EE",
+          "LT",
           "LV",
+          "PL",
           "SJ",
           "UZ"
         ]
@@ -5055,6 +5082,7 @@
       },
       "sk-alt-secondary": {
         "_territories": [
+          "CZ",
           "RS"
         ]
       },
@@ -5349,16 +5377,6 @@
         ],
         "_scripts": [
           "Latn"
-        ]
-      },
-      "swc": {
-        "_scripts": [
-          "Latn"
-        ]
-      },
-      "swc-alt-secondary": {
-        "_territories": [
-          "CD"
         ]
       },
       "swg": {

@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 12447 $",
-      "_unicodeVersion": "8.0.0",
-      "_cldrVersion": "29"
+      "_number": "$Revision: 12891 $",
+      "_unicodeVersion": "9.0.0",
+      "_cldrVersion": "30"
     },
     "weekData": {
       "minDays": {
@@ -255,6 +255,66 @@
         "SY": "sat",
         "TN": "sat",
         "YE": "sat"
+      },
+      "af": {
+        "_ordering": "weekOfDate weekOfInterval weekOfMonth"
+      },
+      "am az bs cs cy da el et hi ky lt mk sk ta th": {
+        "_ordering": "weekOfYear weekOfMonth"
+      },
+      "ar fil gu hu hy id kk ko": {
+        "_ordering": "weekOfMonth"
+      },
+      "be ro ru": {
+        "_ordering": "weekOfInterval weekOfMonth"
+      },
+      "bg de iw pt ur zh": {
+        "_ordering": "weekOfDate weekOfMonth weekOfInterval"
+      },
+      "ca es fr gl": {
+        "_ordering": "weekOfDate"
+      },
+      "en bn ja ka": {
+        "_ordering": "weekOfDate weekOfMonth"
+      },
+      "eu": {
+        "_ordering": "weekOfMonth weekOfDate"
+      },
+      "fa hr it lv pl si sr uk uz": {
+        "_ordering": "weekOfMonth weekOfInterval"
+      },
+      "fi zh-TW": {
+        "_ordering": "weekOfYear weekOfDate weekOfMonth"
+      },
+      "is mn no sv vi": {
+        "_ordering": "weekOfYear weekOfMonth weekOfInterval"
+      },
+      "km mr": {
+        "_ordering": "weekOfMonth weekOfYear"
+      },
+      "kn ml pa": {
+        "_ordering": "weekOfMonth weekOfDate weekOfYear"
+      },
+      "lo sq": {
+        "_ordering": "weekOfMonth weekOfInterval weekOfDate weekOfYear"
+      },
+      "ms tr": {
+        "_ordering": "weekOfMonth weekOfYear weekOfInterval weekOfDate"
+      },
+      "nl": {
+        "_ordering": "weekOfDate weekOfYear weekOfMonth"
+      },
+      "sl": {
+        "_ordering": "weekOfInterval"
+      },
+      "sw te": {
+        "_ordering": "weekOfMonth weekOfInterval weekOfYear"
+      },
+      "und": {
+        "_ordering": "weekOfYear"
+      },
+      "zu": {
+        "_ordering": "weekOfYear weekOfInterval"
       }
     }
   }

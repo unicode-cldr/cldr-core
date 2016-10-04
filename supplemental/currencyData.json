@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 12447 $",
-      "_unicodeVersion": "8.0.0",
-      "_cldrVersion": "29"
+      "_number": "$Revision: 12891 $",
+      "_unicodeVersion": "9.0.0",
+      "_cldrVersion": "30"
     },
     "currencyData": {
       "fractions": {
@@ -30,6 +30,10 @@
         "BIF": {
           "_rounding": "0",
           "_digits": "0"
+        },
+        "BYN": {
+          "_rounding": "0",
+          "_digits": "2"
         },
         "BYR": {
           "_rounding": "0",
@@ -59,7 +63,9 @@
         },
         "CRC": {
           "_rounding": "0",
-          "_digits": "0"
+          "_digits": "2",
+          "_cashRounding": "0",
+          "_cashDigits": "0"
         },
         "CZK": {
           "_rounding": "0",
@@ -850,7 +856,13 @@
           },
           {
             "BYR": {
-              "_from": "2000-01-01"
+              "_from": "2000-01-01",
+              "_to": "2017-01-01"
+            }
+          },
+          {
+            "BYN": {
+              "_from": "2016-07-01"
             }
           }
         ],

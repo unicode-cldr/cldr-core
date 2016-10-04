@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 12447 $",
-      "_unicodeVersion": "8.0.0",
-      "_cldrVersion": "29"
+      "_number": "$Revision: 12891 $",
+      "_unicodeVersion": "9.0.0",
+      "_cldrVersion": "30"
     },
     "timeData": {
       "AX": {
@@ -118,10 +118,6 @@
         "_allowed": "h H",
         "_preferred": "h"
       },
-      "ZW": {
-        "_allowed": "h H",
-        "_preferred": "h"
-      },
       "001": {
         "_allowed": "H h",
         "_preferred": "H"
@@ -186,10 +182,6 @@
         "_allowed": "h H hb hB",
         "_preferred": "h"
       },
-      "af_ZA": {
-        "_allowed": "h H hB hb",
-        "_preferred": "h"
-      },
       "CO": {
         "_allowed": "h H hB hb",
         "_preferred": "h"
@@ -227,6 +219,10 @@
         "_preferred": "H"
       },
       "AI": {
+        "_allowed": "H h hb hB",
+        "_preferred": "H"
+      },
+      "BW": {
         "_allowed": "H h hb hB",
         "_preferred": "H"
       },
@@ -302,6 +298,10 @@
         "_allowed": "H h hb hB",
         "_preferred": "H"
       },
+      "NG": {
+        "_allowed": "H h hb hB",
+        "_preferred": "H"
+      },
       "NR": {
         "_allowed": "H h hb hB",
         "_preferred": "H"
@@ -324,6 +324,14 @@
       },
       "TA": {
         "_allowed": "H h hb hB",
+        "_preferred": "H"
+      },
+      "ZA": {
+        "_allowed": "H h hb hB",
+        "_preferred": "H"
+      },
+      "af_ZA": {
+        "_allowed": "H h hB hb",
         "_preferred": "H"
       },
       "KG": {
@@ -598,10 +606,6 @@
         "_allowed": "h hb H hB",
         "_preferred": "h"
       },
-      "BW": {
-        "_allowed": "h hb H hB",
-        "_preferred": "h"
-      },
       "CA": {
         "_allowed": "h hb H hB",
         "_preferred": "h"
@@ -670,10 +674,6 @@
         "_allowed": "h hb H hB",
         "_preferred": "h"
       },
-      "NG": {
-        "_allowed": "h hb H hB",
-        "_preferred": "h"
-      },
       "NZ": {
         "_allowed": "h hb H hB",
         "_preferred": "h"
@@ -723,10 +723,6 @@
         "_preferred": "h"
       },
       "VI": {
-        "_allowed": "h hb H hB",
-        "_preferred": "h"
-      },
-      "ZA": {
         "_allowed": "h hb H hB",
         "_preferred": "h"
       },
@@ -902,6 +898,10 @@
         "_allowed": "H hB hb h",
         "_preferred": "H"
       },
+      "zu_ZA": {
+        "_allowed": "H hB hb h",
+        "_preferred": "H"
+      },
       "CD": {
         "_allowed": "hB H",
         "_preferred": "H"
@@ -947,10 +947,6 @@
         "_preferred": "h"
       },
       "pa_IN": {
-        "_allowed": "hB hb h H",
-        "_preferred": "h"
-      },
-      "zu_ZA": {
         "_allowed": "hB hb h H",
         "_preferred": "h"
       },

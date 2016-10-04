@@ -1,11 +1,15 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 11966 $",
-      "_unicodeVersion": "8.0.0",
-      "_cldrVersion": "29"
+      "_number": "$Revision: 12732 $",
+      "_unicodeVersion": "9.0.0",
+      "_cldrVersion": "30"
     },
     "numberingSystems": {
+      "adlm": {
+        "_digits": "𞥐𞥑𞥒𞥓𞥔𞥕𞥖𞥗𞥘𞥙",
+        "_type": "numeric"
+      },
       "ahom": {
         "_digits": "𑜰𑜱𑜲𑜳𑜴𑜵𑜶𑜷𑜸𑜹",
         "_type": "numeric"
@@ -32,6 +36,10 @@
       },
       "beng": {
         "_digits": "০১২৩৪৫৬৭৮৯",
+        "_type": "numeric"
+      },
+      "bhks": {
+        "_digits": "𑱐𑱑𑱒𑱓𑱔𑱕𑱖𑱗𑱘𑱙",
         "_type": "numeric"
       },
       "brah": {
@@ -212,6 +220,10 @@
       },
       "mymrtlng": {
         "_digits": "꧰꧱꧲꧳꧴꧵꧶꧷꧸꧹",
+        "_type": "numeric"
+      },
+      "newa": {
+        "_digits": "𑑐𑑑𑑒𑑓𑑔𑑕𑑖𑑗𑑘𑑙",
         "_type": "numeric"
       },
       "nkoo": {
