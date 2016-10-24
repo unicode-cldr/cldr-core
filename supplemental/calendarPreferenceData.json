@@ -3,7 +3,7 @@
     "version": {
       "_number": "$Revision: 12891 $",
       "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "30"
+      "_cldrVersion": "30.0.2"
     },
     "calendarPreferenceData": {
       "001": "gregorian",

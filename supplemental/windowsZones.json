@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 12941 $",
+      "_number": "$Revision: 13050 $",
       "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "30"
+      "_cldrVersion": "30.0.2"
     },
     "windowsZones": {
       "mapTimezones": [
@@ -1704,7 +1704,7 @@
         {
           "mapZone": {
             "_other": "N. Central Asia Standard Time",
-            "_type": "Asia/Novosibirsk Asia/Omsk",
+            "_type": "Asia/Novosibirsk",
             "_territory": "RU"
           }
         },
@@ -1825,6 +1825,20 @@
             "_other": "North Korea Standard Time",
             "_type": "Asia/Pyongyang",
             "_territory": "KP"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Omsk Standard Time",
+            "_type": "Asia/Omsk",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Omsk Standard Time",
+            "_type": "Asia/Omsk",
+            "_territory": "RU"
           }
         },
         {
@@ -2005,8 +2019,15 @@
         {
           "mapZone": {
             "_other": "Russian Standard Time",
-            "_type": "Europe/Moscow Europe/Kirov Europe/Simferopol Europe/Volgograd",
+            "_type": "Europe/Moscow Europe/Kirov Europe/Volgograd",
             "_territory": "RU"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Russian Standard Time",
+            "_type": "Europe/Simferopol",
+            "_territory": "UA"
           }
         },
         {
