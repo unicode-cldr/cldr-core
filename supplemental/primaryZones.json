@@ -3,7 +3,7 @@
     "version": {
       "_number": "$Revision: 13016 $",
       "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "30.0.2"
+      "_cldrVersion": "30.0.3"
     },
     "primaryZones": {
       "CL": "America/Santiago",

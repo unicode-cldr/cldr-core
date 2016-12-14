@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 12891 $",
+      "_number": "$Revision: 13091 $",
       "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "30.0.2"
+      "_cldrVersion": "30.0.3"
     },
     "territoryInfo": {
       "AC": {
@@ -1188,8 +1188,7 @@
             "_populationPercent": "6"
           },
           "yue": {
-            "_writingPercent": "4.3",
-            "_populationPercent": "90"
+            "_populationPercent": "5.2"
           },
           "za": {
             "_populationPercent": "0.31",
