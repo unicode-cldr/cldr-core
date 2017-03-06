@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 12595 $",
+      "_number": "$Revision: 13155 $",
       "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "30.0.3"
+      "_cldrVersion": "31"
     },
     "plurals-type-ordinal": {
       "af": {
@@ -114,6 +114,9 @@
         "pluralRule-count-other": " @integer 0, 2~16, 100, 1000, 10000, 100000, 1000000, …"
       },
       "gl": {
+        "pluralRule-count-other": " @integer 0~15, 100, 1000, 10000, 100000, 1000000, …"
+      },
+      "gsw": {
         "pluralRule-count-other": " @integer 0~15, 100, 1000, 10000, 100000, 1000000, …"
       },
       "gu": {

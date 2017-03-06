@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13050 $",
+      "_number": "$Revision: 13290 $",
       "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "30.0.3"
+      "_cldrVersion": "31"
     },
     "windowsZones": {
       "mapTimezones": [
@@ -171,7 +171,7 @@
         {
           "mapZone": {
             "_other": "Astrakhan Standard Time",
-            "_type": "Europe/Astrakhan Europe/Ulyanovsk",
+            "_type": "Europe/Astrakhan Europe/Saratov Europe/Ulyanovsk",
             "_territory": "RU"
           }
         },
@@ -628,6 +628,13 @@
             "_other": "Central Pacific Standard Time",
             "_type": "Pacific/Guadalcanal",
             "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Central Pacific Standard Time",
+            "_type": "Antarctica/Casey",
+            "_territory": "AQ"
           }
         },
         {
@@ -1851,13 +1858,6 @@
         {
           "mapZone": {
             "_other": "Pacific SA Standard Time",
-            "_type": "Antarctica/Palmer",
-            "_territory": "AQ"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Pacific SA Standard Time",
             "_type": "America/Santiago",
             "_territory": "CL"
           }
@@ -2040,7 +2040,7 @@
         {
           "mapZone": {
             "_other": "SA Eastern Standard Time",
-            "_type": "Antarctica/Rothera",
+            "_type": "Antarctica/Rothera Antarctica/Palmer",
             "_territory": "AQ"
           }
         },
@@ -2049,6 +2049,13 @@
             "_other": "SA Eastern Standard Time",
             "_type": "America/Fortaleza America/Belem America/Maceio America/Recife America/Santarem",
             "_territory": "BR"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "SA Eastern Standard Time",
+            "_type": "America/Punta_Arenas",
+            "_territory": "CL"
           }
         },
         {
@@ -2775,6 +2782,13 @@
         {
           "mapZone": {
             "_other": "Turkey Standard Time",
+            "_type": "Asia/Famagusta",
+            "_territory": "CY"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Turkey Standard Time",
             "_type": "Europe/Istanbul",
             "_territory": "TR"
           }
@@ -2873,7 +2887,7 @@
         {
           "mapZone": {
             "_other": "UTC",
-            "_type": "Etc/GMT",
+            "_type": "Etc/GMT Etc/UTC",
             "_territory": "ZZ"
           }
         },
@@ -3071,13 +3085,6 @@
             "_other": "W. Australia Standard Time",
             "_type": "Australia/Perth",
             "_territory": "001"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "W. Australia Standard Time",
-            "_type": "Antarctica/Casey",
-            "_territory": "AQ"
           }
         },
         {
@@ -3342,7 +3349,7 @@
         {
           "mapZone": {
             "_other": "West Asia Standard Time",
-            "_type": "Asia/Oral Asia/Aqtau Asia/Aqtobe",
+            "_type": "Asia/Oral Asia/Aqtau Asia/Aqtobe Asia/Atyrau",
             "_territory": "KZ"
           }
         },

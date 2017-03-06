@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13091 $",
+      "_number": "$Revision: 13254 $",
       "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "30.0.3"
+      "_cldrVersion": "31"
     },
     "languageData": {
       "aa": {
@@ -908,11 +908,7 @@
       },
       "ccp": {
         "_scripts": [
-          "Beng"
-        ]
-      },
-      "ccp-alt-secondary": {
-        "_scripts": [
+          "Beng",
           "Cakm"
         ]
       },
@@ -1208,7 +1204,6 @@
           "BE",
           "CH",
           "DE",
-          "IT",
           "LI",
           "LU"
         ],
@@ -2510,6 +2505,11 @@
           "Arab"
         ]
       },
+      "ife": {
+        "_scripts": [
+          "Latn"
+        ]
+      },
       "ig": {
         "_scripts": [
           "Latn"
@@ -2584,7 +2584,8 @@
         "_territories": [
           "CH",
           "IT",
-          "SM"
+          "SM",
+          "VA"
         ],
         "_scripts": [
           "Latn"
@@ -2596,8 +2597,7 @@
           "FR",
           "HR",
           "MT",
-          "US",
-          "VA"
+          "US"
         ]
       },
       "iu": {
@@ -2647,11 +2647,6 @@
       "jml": {
         "_scripts": [
           "Deva"
-        ]
-      },
-      "jml-alt-secondary": {
-        "_territories": [
-          "NP"
         ]
       },
       "jpr": {
@@ -4062,11 +4057,6 @@
       "new": {
         "_scripts": [
           "Deva"
-        ]
-      },
-      "new-alt-secondary": {
-        "_territories": [
-          "NP"
         ]
       },
       "ng": {

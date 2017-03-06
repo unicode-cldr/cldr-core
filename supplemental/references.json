@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13091 $",
+      "_number": "$Revision: 13254 $",
       "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "30.0.3"
+      "_cldrVersion": "31"
     },
     "references": {
       "R1000": {
@@ -190,8 +190,8 @@
         "_uri": "http://www.ethnologue.com/show_country.asp?name=LS"
       },
       "R1048": {
-        "_value": "Russian 8%",
-        "_uri": "https://www.cia.gov/cia/publications/factbook/fields/2098.html"
+        "_value": "[missing]",
+        "_uri": "http://www.ethnologue.com/18/language/ife/"
       },
       "R1049": {
         "_value": "Official language. Probably 2% of the population from East Timor worldwide can function in it",
@@ -822,7 +822,7 @@
         "_value": "(could be higher if 2nd lang included; no data yet)",
         "_uri": "http://en.wikipedia.org/wiki/Vietnamese_language"
       },
-      "R1220": "​http://www.interlingua.com/statutos leading Interlingua assoc \\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"Union Mundial pro Interlingua\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\" registered French non-profit - real user pop figure is unknown but low",
+      "R1219": "Mainly in Guangdong Prov, ~70-80 million",
       "R1221": {
         "_value": "[missing]",
         "_uri": "https://www.cia.gov/library/publications/the-world-factbook/geos/cc.html"
@@ -933,7 +933,6 @@
         "_value": "[missing]",
         "_uri": "http://en.wikipedia.org/wiki/Yiddish_language#Numbers_of_speakers"
       },
-      "R1250": "Widely used 2nd language, around 9.1 million spkrs (13%), 67% literacy, potential writing pop ~9%",
       "R1251": "co-official in South Tyrol",
       "R1252": "Aosta Valley",
       "R1253": "in Trieste and  Gorizia",
@@ -1077,6 +1076,7 @@
         "_value": "[missing]",
         "_uri": "http://en.wikipedia.org/wiki/Wolof_language"
       },
+      "R1298": "​http://www.interlingua.com/statutos leading Interlingua assoc (Union Mundial pro Interlingua) registered French non-profit - real user pop figure is unknown but low",
       "R1299": {
         "_value": "[missing]",
         "_uri": "http://en.wikipedia.org/wiki/Fiji_Hindi"
@@ -1143,10 +1143,13 @@
         "_value": "[missing]",
         "_uri": "http://www.bfs.admin.ch/bfs/portal/en/index/themen/01/05/blank/key/sprachen.html"
       },
-      "R1317": "about 50% of population in Guangzhou Prov",
       "R1318": {
         "_value": "Widely spoken less written, and most speakers know standard German as well",
         "_uri": "https://en.wikipedia.org/wiki/Bavarian_language"
+      },
+      "R1319": {
+        "_value": "[missing]",
+        "_uri": "http://nso.gov.mt/en/publicatons/Publications_by_Unit/Documents/C1_Living_Conditions_and_Culture_Statistics/Culture_Participation_Survey_2011.pdf"
       },
       "R1320": {
         "_value": "and https://www.ethnologue.com/language/yue",
@@ -1163,6 +1166,10 @@
       "R1323": {
         "_value": "[missing]",
         "_uri": "https://en.wikipedia.org/wiki/Immigration_to_Portugal#Immigration"
+      },
+      "R1324": {
+        "_value": "[missing]",
+        "_uri": "http://2001.ukrcensus.gov.ua/eng/results/general/nationality/"
       }
     }
   }

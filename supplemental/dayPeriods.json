@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 12887 $",
+      "_number": "$Revision: 13154 $",
       "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "30.0.3"
+      "_cldrVersion": "31"
     },
     "dayPeriodRuleSet": {
       "af": {
@@ -598,6 +598,31 @@
         "night1": {
           "_before": "24:00",
           "_from": "21:00"
+        }
+      },
+      "gsw": {
+        "afternoon1": {
+          "_before": "14:00",
+          "_from": "12:00"
+        },
+        "afternoon2": {
+          "_before": "18:00",
+          "_from": "14:00"
+        },
+        "evening1": {
+          "_before": "24:00",
+          "_from": "18:00"
+        },
+        "midnight": {
+          "_at": "00:00"
+        },
+        "morning1": {
+          "_before": "12:00",
+          "_from": "05:00"
+        },
+        "night1": {
+          "_before": "05:00",
+          "_from": "00:00"
         }
       },
       "gu": {

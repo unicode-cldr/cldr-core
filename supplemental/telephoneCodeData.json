@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 11914 $",
+      "_number": "$Revision: 13274 $",
       "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "30.0.3"
+      "_cldrVersion": "31"
     },
     "telephoneCodeData": {
       "001": [
@@ -1277,6 +1277,9 @@
         },
         {
           "telephoneCountryCode": "381"
+        },
+        {
+          "telephoneCountryCode": "383"
         },
         {
           "telephoneCountryCode": "386"

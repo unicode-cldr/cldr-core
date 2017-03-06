@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 12932 $",
+      "_number": "$Revision: 13291 $",
       "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "30.0.3"
+      "_cldrVersion": "31"
     },
     "metadata": {
       "alias": {
@@ -1283,6 +1283,14 @@
           "yor": {
             "_reason": "overlong",
             "_replacement": "yo"
+          },
+          "yue-CN": {
+            "_reason": "legacy",
+            "_replacement": "yue-Hans-CN"
+          },
+          "yue-HK": {
+            "_reason": "legacy",
+            "_replacement": "yue-Hant-HK"
           },
           "zai": {
             "_reason": "macrolanguage",

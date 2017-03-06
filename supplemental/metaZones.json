@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13016 $",
+      "_number": "$Revision: 13290 $",
       "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "30.0.3"
+      "_cldrVersion": "31"
     },
     "metaZones": {
       "metazoneInfo": {
@@ -2000,6 +2000,14 @@
                 }
               }
             ],
+            "Punta_Arenas": [
+              {
+                "usesMetazone": {
+                  "_mzone": "Chile",
+                  "_to": "2016-12-03 23:00"
+                }
+              }
+            ],
             "Rainy_River": [
               {
                 "usesMetazone": {
@@ -2369,7 +2377,14 @@
               {
                 "usesMetazone": {
                   "_mzone": "Australia_Western",
-                  "_from": "2012-02-21 17:00"
+                  "_from": "2012-02-21 17:00",
+                  "_to": "2016-10-21 16:00"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "Casey",
+                  "_from": "2016-10-21 16:00"
                 }
               }
             ],
@@ -2425,7 +2440,8 @@
               {
                 "usesMetazone": {
                   "_mzone": "Chile",
-                  "_from": "1982-05-01 03:00"
+                  "_from": "1982-05-01 03:00",
+                  "_to": "2016-12-03 23:00"
                 }
               }
             ],
@@ -2570,6 +2586,14 @@
                 "usesMetazone": {
                   "_mzone": "Turkmenistan",
                   "_from": "1991-10-26 20:00"
+                }
+              }
+            ],
+            "Atyrau": [
+              {
+                "usesMetazone": {
+                  "_mzone": "Kazakhstan_Western",
+                  "_from": "2004-10-30 22:00"
                 }
               }
             ],
@@ -2766,6 +2790,14 @@
                 "usesMetazone": {
                   "_mzone": "Tajikistan",
                   "_from": "1991-09-08 21:00"
+                }
+              }
+            ],
+            "Famagusta": [
+              {
+                "usesMetazone": {
+                  "_mzone": "Europe_Eastern",
+                  "_to": "2016-09-07 21:00"
                 }
               }
             ],
@@ -3539,6 +3571,15 @@
               }
             }
           ],
+          "Etc": {
+            "GMT": [
+              {
+                "usesMetazone": {
+                  "_mzone": "GMT"
+                }
+              }
+            ]
+          },
           "Europe": {
             "Amsterdam": [
               {
@@ -4001,6 +4042,15 @@
               {
                 "usesMetazone": {
                   "_mzone": "Europe_Central"
+                }
+              }
+            ],
+            "Saratov": [
+              {
+                "usesMetazone": {
+                  "_mzone": "Moscow",
+                  "_from": "1992-03-28 22:00",
+                  "_to": "2016-12-03 23:00"
                 }
               }
             ],
@@ -5469,13 +5519,6 @@
             "_other": "Chile",
             "_type": "America/Santiago",
             "_territory": "001"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Chile",
-            "_type": "Antarctica/Palmer",
-            "_territory": "AQ"
           }
         },
         {
