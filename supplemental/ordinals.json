@@ -3,7 +3,7 @@
     "version": {
       "_number": "$Revision: 13155 $",
       "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "31"
+      "_cldrVersion": "31.0.1"
     },
     "plurals-type-ordinal": {
       "af": {
