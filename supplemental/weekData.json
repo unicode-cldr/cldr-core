@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13254 $",
-      "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "31.0.1"
+      "_number": "$Revision: 13744 $",
+      "_unicodeVersion": "10.0.0",
+      "_cldrVersion": "32"
     },
     "weekData": {
       "minDays": {
@@ -47,6 +47,7 @@
         "PL": "4",
         "PT": "4",
         "RE": "4",
+        "RU": "4",
         "SE": "4",
         "SJ": "4",
         "SK": "4",
@@ -165,7 +166,7 @@
         "NL": "mon",
         "NO": "mon",
         "NP": "sun",
-        "NZ": "sun",
+        "NZ": "mon",
         "OM": "sat",
         "PA": "sun",
         "PE": "sun",

@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13290 $",
-      "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "31.0.1"
+      "_number": "$Revision: 13774 $",
+      "_unicodeVersion": "10.0.0",
+      "_cldrVersion": "32"
     },
     "metaZones": {
       "metazoneInfo": {
@@ -271,7 +271,14 @@
               {
                 "usesMetazone": {
                   "_mzone": "Africa_Eastern",
-                  "_from": "2000-01-15 10:00"
+                  "_from": "2000-01-15 10:00",
+                  "_to": "2017-10-31 21:00"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "Africa_Central",
+                  "_from": "2017-10-31 21:00"
                 }
               }
             ],
@@ -496,13 +503,20 @@
                 "usesMetazone": {
                   "_mzone": "Africa_Central",
                   "_from": "1990-03-20 22:00",
-                  "_to": "1994-04-02 22:00"
+                  "_to": "1994-03-20 22:00"
                 }
               },
               {
                 "usesMetazone": {
                   "_mzone": "Africa_Western",
-                  "_from": "1994-04-02 22:00"
+                  "_from": "1994-03-20 22:00",
+                  "_to": "2017-09-03 01:00"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "Africa_Central",
+                  "_from": "2017-09-03 01:00"
                 }
               }
             ]
@@ -1220,7 +1234,14 @@
               {
                 "usesMetazone": {
                   "_mzone": "Atlantic",
-                  "_from": "2015-11-01 06:00"
+                  "_from": "2015-11-01 06:00",
+                  "_to": "2018-03-11 07:00"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "America_Eastern",
+                  "_from": "2018-03-11 07:00"
                 }
               }
             ],

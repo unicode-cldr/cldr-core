@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13254 $",
-      "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "31.0.1"
+      "_number": "$Revision: 13744 $",
+      "_unicodeVersion": "10.0.0",
+      "_cldrVersion": "32"
     },
     "territoryContainment": {
       "001": {
@@ -34,6 +34,11 @@
           "017",
           "014",
           "018"
+        ]
+      },
+      "002-status-grouping": {
+        "_contains": [
+          "202"
         ]
       },
       "003": {
@@ -453,6 +458,15 @@
           "DD",
           "FX"
         ]
+      },
+      "202": {
+        "_contains": [
+          "011",
+          "017",
+          "014",
+          "018"
+        ],
+        "_grouping": "true"
       },
       "419": {
         "_contains": [

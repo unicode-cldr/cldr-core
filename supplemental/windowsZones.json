@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13290 $",
-      "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "31.0.1"
+      "_number": "$Revision: 13477 $",
+      "_unicodeVersion": "10.0.0",
+      "_cldrVersion": "32"
     },
     "windowsZones": {
       "mapTimezones": [
@@ -171,7 +171,7 @@
         {
           "mapZone": {
             "_other": "Astrakhan Standard Time",
-            "_type": "Europe/Astrakhan Europe/Saratov Europe/Ulyanovsk",
+            "_type": "Europe/Astrakhan Europe/Ulyanovsk",
             "_territory": "RU"
           }
         },
@@ -1542,6 +1542,27 @@
         },
         {
           "mapZone": {
+            "_other": "Magallanes Standard Time",
+            "_type": "America/Punta_Arenas",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Magallanes Standard Time",
+            "_type": "Antarctica/Palmer",
+            "_territory": "AQ"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Magallanes Standard Time",
+            "_type": "America/Punta_Arenas",
+            "_territory": "CL"
+          }
+        },
+        {
+          "mapZone": {
             "_other": "Marquesas Standard Time",
             "_type": "Pacific/Marquesas",
             "_territory": "001"
@@ -2040,7 +2061,7 @@
         {
           "mapZone": {
             "_other": "SA Eastern Standard Time",
-            "_type": "Antarctica/Rothera Antarctica/Palmer",
+            "_type": "Antarctica/Rothera",
             "_territory": "AQ"
           }
         },
@@ -2049,13 +2070,6 @@
             "_other": "SA Eastern Standard Time",
             "_type": "America/Fortaleza America/Belem America/Maceio America/Recife America/Santarem",
             "_territory": "BR"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "SA Eastern Standard Time",
-            "_type": "America/Punta_Arenas",
-            "_territory": "CL"
           }
         },
         {
@@ -2392,6 +2406,20 @@
             "_other": "Samoa Standard Time",
             "_type": "Pacific/Apia",
             "_territory": "WS"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Saratov Standard Time",
+            "_type": "Europe/Saratov",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Saratov Standard Time",
+            "_type": "Europe/Saratov",
+            "_territory": "RU"
           }
         },
         {
@@ -2733,29 +2761,8 @@
         {
           "mapZone": {
             "_other": "Tonga Standard Time",
-            "_type": "Pacific/Enderbury",
-            "_territory": "KI"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Tonga Standard Time",
-            "_type": "Pacific/Fakaofo",
-            "_territory": "TK"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Tonga Standard Time",
             "_type": "Pacific/Tongatapu",
             "_territory": "TO"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Tonga Standard Time",
-            "_type": "Etc/GMT-13",
-            "_territory": "ZZ"
           }
         },
         {
@@ -3049,6 +3056,34 @@
           "mapZone": {
             "_other": "UTC+12",
             "_type": "Etc/GMT-12",
+            "_territory": "ZZ"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "UTC+13",
+            "_type": "Etc/GMT-13",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "UTC+13",
+            "_type": "Pacific/Enderbury",
+            "_territory": "KI"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "UTC+13",
+            "_type": "Pacific/Fakaofo",
+            "_territory": "TK"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "UTC+13",
+            "_type": "Etc/GMT-13",
             "_territory": "ZZ"
           }
         },

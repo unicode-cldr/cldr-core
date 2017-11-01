@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13254 $",
-      "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "31.0.1"
+      "_number": "$Revision: 13744 $",
+      "_unicodeVersion": "10.0.0",
+      "_cldrVersion": "32"
     },
     "languageData": {
       "aa": {
@@ -1909,6 +1909,11 @@
           "Latn"
         ]
       },
+      "fvr-alt-secondary": {
+        "_territories": [
+          "SD"
+        ]
+      },
       "fy": {
         "_scripts": [
           "Latn"
@@ -1969,7 +1974,7 @@
       },
       "gba": {
         "_scripts": [
-          "Arab"
+          "Latn"
         ]
       },
       "gbm": {
@@ -4759,6 +4764,7 @@
           "LV",
           "PL",
           "SJ",
+          "TJ",
           "UZ"
         ]
       },
@@ -6324,6 +6330,7 @@
       },
       "yue": {
         "_scripts": [
+          "Hans",
           "Hant"
         ]
       },
@@ -6331,9 +6338,6 @@
         "_territories": [
           "CN",
           "HK"
-        ],
-        "_scripts": [
-          "Hans"
         ]
       },
       "za": {
@@ -6405,7 +6409,8 @@
           "ID",
           "MY",
           "TH",
-          "US"
+          "US",
+          "VN"
         ],
         "_scripts": [
           "Bopo",

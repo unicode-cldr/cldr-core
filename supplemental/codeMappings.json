@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13254 $",
-      "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "31.0.1"
+      "_number": "$Revision: 13744 $",
+      "_unicodeVersion": "10.0.0",
+      "_cldrVersion": "32"
     },
     "codeMappings": {
       "AA": {
@@ -1482,6 +1482,9 @@
       },
       "CLP": {
         "_numeric": "152"
+      },
+      "CNH": {
+        "_numeric": "156"
       },
       "CNY": {
         "_numeric": "156"

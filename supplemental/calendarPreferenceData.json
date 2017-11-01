@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13254 $",
-      "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "31.0.1"
+      "_number": "$Revision: 13744 $",
+      "_unicodeVersion": "10.0.0",
+      "_cldrVersion": "32"
     },
     "calendarPreferenceData": {
       "001": "gregorian",

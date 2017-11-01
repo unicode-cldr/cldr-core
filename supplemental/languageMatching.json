@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13235 $",
-      "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "31.0.1"
+      "_number": "$Revision: 13628 $",
+      "_unicodeVersion": "10.0.0",
+      "_cldrVersion": "32"
     },
     "languageMatching": {
       "written": [
@@ -1791,6 +1791,11 @@
         {
           "en": {
             "_distance": "4"
+          }
+        },
+        {
+          "en": {
+            "_distance": "3"
           }
         },
         {

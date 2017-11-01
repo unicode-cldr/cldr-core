@@ -310,7 +310,7 @@
         "m_version_": 50331648
       },
       "sampleChar": "ᓀ",
-      "idUsage": "ASPIRATIONAL",
+      "idUsage": "LIMITED_USE",
       "rtl": "NO",
       "lbLetters": "NO",
       "hasCase": "NO",
@@ -543,6 +543,22 @@
       "density": 1,
       "originCountry": "BG",
       "likelyLanguage": "cu"
+    },
+    "Gonm": {
+      "rank": 33,
+      "age": {
+        "m_version_": 167772160
+      },
+      "sampleChar": "𑴐",
+      "idUsage": "EXCLUSION",
+      "rtl": "NO",
+      "lbLetters": "NO",
+      "hasCase": "NO",
+      "shapingReq": "YES",
+      "ime": "NO",
+      "density": 1,
+      "originCountry": "IN",
+      "likelyLanguage": "gon"
     },
     "Goth": {
       "rank": 33,
@@ -1318,7 +1334,7 @@
         "m_version_": 50331648
       },
       "sampleChar": "ᠦ",
-      "idUsage": "ASPIRATIONAL",
+      "idUsage": "LIMITED_USE",
       "rtl": "NO",
       "lbLetters": "NO",
       "hasCase": "NO",
@@ -1455,6 +1471,22 @@
       "density": 1,
       "originCountry": "GN",
       "likelyLanguage": "man"
+    },
+    "Nshu": {
+      "rank": 33,
+      "age": {
+        "m_version_": 167772160
+      },
+      "sampleChar": "𛇄",
+      "idUsage": "EXCLUSION",
+      "rtl": "NO",
+      "lbLetters": "YES",
+      "hasCase": "NO",
+      "shapingReq": "NO",
+      "ime": "YES",
+      "density": 2,
+      "originCountry": "CN",
+      "likelyLanguage": "zhx"
     },
     "Ogam": {
       "rank": 33,
@@ -1670,7 +1702,7 @@
         "m_version_": 100728832
       },
       "sampleChar": "𖼀",
-      "idUsage": "ASPIRATIONAL",
+      "idUsage": "LIMITED_USE",
       "rtl": "NO",
       "lbLetters": "NO",
       "hasCase": "NO",
@@ -1888,6 +1920,22 @@
       "originCountry": "IN",
       "likelyLanguage": "srb"
     },
+    "Soyo": {
+      "rank": 33,
+      "age": {
+        "m_version_": 167772160
+      },
+      "sampleChar": "𑩜",
+      "idUsage": "EXCLUSION",
+      "rtl": "NO",
+      "lbLetters": "NO",
+      "hasCase": "NO",
+      "shapingReq": "YES",
+      "ime": "NO",
+      "density": 1,
+      "originCountry": "MN",
+      "likelyLanguage": "cmg"
+    },
     "Sund": {
       "rank": 33,
       "age": {
@@ -2070,7 +2118,7 @@
         "m_version_": 67174400
       },
       "sampleChar": "ⴰ",
-      "idUsage": "ASPIRATIONAL",
+      "idUsage": "LIMITED_USE",
       "rtl": "NO",
       "lbLetters": "NO",
       "hasCase": "NO",
@@ -2246,7 +2294,7 @@
         "m_version_": 50331648
       },
       "sampleChar": "ꊈ",
-      "idUsage": "ASPIRATIONAL",
+      "idUsage": "LIMITED_USE",
       "rtl": "NO",
       "lbLetters": "YES",
       "hasCase": "NO",
@@ -2255,6 +2303,22 @@
       "density": 3,
       "originCountry": "CN",
       "likelyLanguage": "ii"
+    },
+    "Zanb": {
+      "rank": 33,
+      "age": {
+        "m_version_": 167772160
+      },
+      "sampleChar": "𑨋",
+      "idUsage": "EXCLUSION",
+      "rtl": "NO",
+      "lbLetters": "NO",
+      "hasCase": "NO",
+      "shapingReq": "YES",
+      "ime": "NO",
+      "density": 1,
+      "originCountry": "MN",
+      "likelyLanguage": "cmg"
     },
     "Zinh": {
       "rank": 24,

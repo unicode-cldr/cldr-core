@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13254 $",
-      "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "31.0.1"
+      "_number": "$Revision: 13744 $",
+      "_unicodeVersion": "10.0.0",
+      "_cldrVersion": "32"
     },
     "timeData": {
       "AX": {
@@ -79,10 +79,6 @@
         "_preferred": "h"
       },
       "GH": {
-        "_allowed": "h H",
-        "_preferred": "h"
-      },
-      "GL": {
         "_allowed": "h H",
         "_preferred": "h"
       },

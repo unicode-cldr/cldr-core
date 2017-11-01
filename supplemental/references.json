@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13254 $",
-      "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "31.0.1"
+      "_number": "$Revision: 13744 $",
+      "_unicodeVersion": "10.0.0",
+      "_cldrVersion": "32"
     },
     "references": {
       "R1000": {
@@ -823,6 +823,10 @@
         "_uri": "http://en.wikipedia.org/wiki/Vietnamese_language"
       },
       "R1219": "Mainly in Guangdong Prov, ~70-80 million",
+      "R1220": {
+        "_value": "[missing]",
+        "_uri": "http://www.ethnologue.com/18/language/knf/"
+      },
       "R1221": {
         "_value": "[missing]",
         "_uri": "https://www.cia.gov/library/publications/the-world-factbook/geos/cc.html"

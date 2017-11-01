@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 12732 $",
-      "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "31.0.1"
+      "_number": "$Revision: 13459 $",
+      "_unicodeVersion": "10.0.0",
+      "_cldrVersion": "32"
     },
     "numberingSystems": {
       "adlm": {
@@ -73,6 +73,10 @@
       "geor": {
         "_rules": "georgian",
         "_type": "algorithmic"
+      },
+      "gonm": {
+        "_digits": "𑵐𑵑𑵒𑵓𑵔𑵕𑵖𑵗𑵘𑵙",
+        "_type": "numeric"
       },
       "grek": {
         "_rules": "greek-upper",

@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13254 $",
-      "_unicodeVersion": "9.0.0",
-      "_cldrVersion": "31.0.1"
+      "_number": "$Revision: 13744 $",
+      "_unicodeVersion": "10.0.0",
+      "_cldrVersion": "32"
     },
     "currencyData": {
       "fractions": {
@@ -80,6 +80,11 @@
         "DJF": {
           "_rounding": "0",
           "_digits": "0"
+        },
+        "DKK": {
+          "_rounding": "0",
+          "_digits": "2",
+          "_cashRounding": "50"
         },
         "ESP": {
           "_rounding": "0",
@@ -183,6 +188,12 @@
           "_rounding": "0",
           "_digits": "0"
         },
+        "NOK": {
+          "_rounding": "0",
+          "_digits": "2",
+          "_cashRounding": "0",
+          "_cashDigits": "0"
+        },
         "OMR": {
           "_rounding": "0",
           "_digits": "3"
@@ -202,6 +213,12 @@
         "RWF": {
           "_rounding": "0",
           "_digits": "0"
+        },
+        "SEK": {
+          "_rounding": "0",
+          "_digits": "2",
+          "_cashRounding": "0",
+          "_cashDigits": "0"
         },
         "SLL": {
           "_rounding": "0",
@@ -987,6 +1004,12 @@
               "_tender": "false",
               "_from": "1979-01-01",
               "_to": "1998-12-31"
+            }
+          },
+          {
+            "CNH": {
+              "_tender": "false",
+              "_from": "2010-07-19"
             }
           }
         ],
@@ -2864,7 +2887,13 @@
         "ST": [
           {
             "STD": {
-              "_from": "1977-09-08"
+              "_from": "1977-09-08",
+              "_to": "2017-12-31"
+            }
+          },
+          {
+            "STN": {
+              "_from": "2018-01-01"
             }
           }
         ],
