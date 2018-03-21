@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13774 $",
+      "_number": "$Revision: 13924 $",
       "_unicodeVersion": "10.0.0",
-      "_cldrVersion": "32.0.1"
+      "_cldrVersion": "33"
     },
     "metaZones": {
       "metazoneInfo": {
@@ -432,7 +432,14 @@
             "Sao_Tome": [
               {
                 "usesMetazone": {
-                  "_mzone": "GMT"
+                  "_mzone": "GMT",
+                  "_to": "2018-01-01 01:00"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "Africa_Western",
+                  "_from": "2018-01-01 01:00"
                 }
               }
             ],
@@ -5258,13 +5265,6 @@
         {
           "mapZone": {
             "_other": "Atlantic",
-            "_type": "America/Curacao",
-            "_territory": "AN"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Atlantic",
             "_type": "America/Aruba",
             "_territory": "AW"
           }
@@ -5288,6 +5288,13 @@
             "_other": "Atlantic",
             "_type": "America/Kralendijk",
             "_territory": "BQ"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Atlantic",
+            "_type": "America/Curacao",
+            "_territory": "CW"
           }
         },
         {
@@ -6128,13 +6135,6 @@
             "_other": "GMT",
             "_type": "Africa/Dakar",
             "_territory": "SN"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "GMT",
-            "_type": "Africa/Sao_Tome",
-            "_territory": "ST"
           }
         },
         {

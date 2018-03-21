@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13744 $",
+      "_number": "$Revision: 13922 $",
       "_unicodeVersion": "10.0.0",
-      "_cldrVersion": "32.0.1"
+      "_cldrVersion": "33"
     },
     "codeMappings": {
       "AA": {
@@ -1678,6 +1678,9 @@
       "MRO": {
         "_numeric": "478"
       },
+      "MRU": {
+        "_numeric": "929"
+      },
       "MUR": {
         "_numeric": "480"
       },
@@ -1791,6 +1794,9 @@
       },
       "STD": {
         "_numeric": "678"
+      },
+      "STN": {
+        "_numeric": "930"
       },
       "SYP": {
         "_numeric": "760"

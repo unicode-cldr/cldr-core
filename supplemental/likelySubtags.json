@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13699 $",
+      "_number": "$Revision: 13929 $",
       "_unicodeVersion": "10.0.0",
-      "_cldrVersion": "32.0.1"
+      "_cldrVersion": "33"
     },
     "likelySubtags": {
       "aa": "aa-Latn-ET",
@@ -1581,7 +1581,7 @@
       "und-PW": "pau-Latn-PW",
       "und-PY": "gn-Latn-PY",
       "und-QA": "ar-Arab-QA",
-      "und-QO": "en-Latn-IO",
+      "und-QO": "en-Latn-DG",
       "und-RE": "fr-Latn-RE",
       "und-Rjng": "rej-Rjng-ID",
       "und-RO": "ro-Latn-RO",

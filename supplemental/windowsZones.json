@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13477 $",
+      "_number": "$Revision: 13923 $",
       "_unicodeVersion": "10.0.0",
-      "_cldrVersion": "32.0.1"
+      "_cldrVersion": "33"
     },
     "windowsZones": {
       "mapTimezones": [
@@ -857,13 +857,6 @@
         {
           "mapZone": {
             "_other": "E. Africa Standard Time",
-            "_type": "Africa/Khartoum",
-            "_territory": "SD"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "E. Africa Standard Time",
             "_type": "Africa/Mogadishu",
             "_territory": "SO"
           }
@@ -1293,13 +1286,6 @@
             "_other": "Greenwich Standard Time",
             "_type": "Africa/Dakar",
             "_territory": "SN"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Greenwich Standard Time",
-            "_type": "Africa/Sao_Tome",
-            "_territory": "ST"
           }
         },
         {
@@ -2641,6 +2627,20 @@
         },
         {
           "mapZone": {
+            "_other": "Sudan Standard Time",
+            "_type": "Africa/Khartoum",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Sudan Standard Time",
+            "_type": "Africa/Khartoum",
+            "_territory": "SD"
+          }
+        },
+        {
+          "mapZone": {
             "_other": "Syria Standard Time",
             "_type": "Asia/Damascus",
             "_territory": "001"
@@ -3211,6 +3211,13 @@
             "_other": "W. Central Africa Standard Time",
             "_type": "Africa/Lagos",
             "_territory": "NG"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "W. Central Africa Standard Time",
+            "_type": "Africa/Sao_Tome",
+            "_territory": "ST"
           }
         },
         {

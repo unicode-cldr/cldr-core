@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13699 $",
+      "_number": "$Revision: 13910 $",
       "_unicodeVersion": "10.0.0",
-      "_cldrVersion": "32.0.1"
+      "_cldrVersion": "33"
     },
     "metadata": {
       "alias": {
@@ -203,6 +203,10 @@
           "cmn": {
             "_reason": "macrolanguage",
             "_replacement": "zh"
+          },
+          "cnr": {
+            "_reason": "legacy",
+            "_replacement": "sr-ME"
           },
           "cor": {
             "_reason": "overlong",

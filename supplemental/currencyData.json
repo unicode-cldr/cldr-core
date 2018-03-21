@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13744 $",
+      "_number": "$Revision: 13922 $",
       "_unicodeVersion": "10.0.0",
-      "_cldrVersion": "32.0.1"
+      "_cldrVersion": "33"
     },
     "currencyData": {
       "fractions": {
@@ -2233,7 +2233,13 @@
           },
           {
             "MRO": {
-              "_from": "1973-06-29"
+              "_from": "1973-06-29",
+              "_to": "2018-06-30"
+            }
+          },
+          {
+            "MRU": {
+              "_from": "2018-01-01"
             }
           }
         ],
