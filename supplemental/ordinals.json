@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13819 $",
-      "_unicodeVersion": "10.0.0",
-      "_cldrVersion": "33"
+      "_number": "$Revision: 14397 $",
+      "_unicodeVersion": "11.0.0",
+      "_cldrVersion": "34"
     },
     "plurals-type-ordinal": {
       "af": {
@@ -113,6 +113,12 @@
         "pluralRule-count-one": "n = 1 @integer 1",
         "pluralRule-count-other": " @integer 0, 2~16, 100, 1000, 10000, 100000, 1000000, …"
       },
+      "gd": {
+        "pluralRule-count-one": "n = 1,11 @integer 1, 11",
+        "pluralRule-count-two": "n = 2,12 @integer 2, 12",
+        "pluralRule-count-few": "n = 3,13 @integer 3, 13",
+        "pluralRule-count-other": " @integer 0, 5~19, 100, 1000, 10000, 100000, 1000000, …"
+      },
       "gl": {
         "pluralRule-count-other": " @integer 0~15, 100, 1000, 10000, 100000, 1000000, …"
       },
@@ -149,6 +155,9 @@
       "hy": {
         "pluralRule-count-one": "n = 1 @integer 1",
         "pluralRule-count-other": " @integer 0, 2~16, 100, 1000, 10000, 100000, 1000000, …"
+      },
+      "ia": {
+        "pluralRule-count-other": " @integer 0~15, 100, 1000, 10000, 100000, 1000000, …"
       },
       "id": {
         "pluralRule-count-other": " @integer 0~15, 100, 1000, 10000, 100000, 1000000, …"
@@ -270,6 +279,10 @@
       },
       "ru": {
         "pluralRule-count-other": " @integer 0~15, 100, 1000, 10000, 100000, 1000000, …"
+      },
+      "sc": {
+        "pluralRule-count-many": "n = 11,8,80,800 @integer 8, 11, 80, 800",
+        "pluralRule-count-other": " @integer 0~7, 9, 10, 12~17, 100, 1000, 10000, 100000, 1000000, …"
       },
       "scn": {
         "pluralRule-count-many": "n = 11,8,80,800 @integer 8, 11, 80, 800",

@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13922 $",
-      "_unicodeVersion": "10.0.0",
-      "_cldrVersion": "33"
+      "_number": "$Revision: 14481 $",
+      "_unicodeVersion": "11.0.0",
+      "_cldrVersion": "34"
     },
     "currencyData": {
       "fractions": {
@@ -21,7 +21,9 @@
         },
         "AMD": {
           "_rounding": "0",
-          "_digits": "0"
+          "_digits": "2",
+          "_cashRounding": "0",
+          "_cashDigits": "0"
         },
         "BHD": {
           "_rounding": "0",
@@ -59,7 +61,9 @@
         },
         "COP": {
           "_rounding": "0",
-          "_digits": "0"
+          "_digits": "2",
+          "_cashRounding": "0",
+          "_cashDigits": "0"
         },
         "CRC": {
           "_rounding": "0",
@@ -96,7 +100,9 @@
         },
         "GYD": {
           "_rounding": "0",
-          "_digits": "0"
+          "_digits": "2",
+          "_cashRounding": "0",
+          "_cashDigits": "0"
         },
         "HUF": {
           "_rounding": "0",
@@ -106,7 +112,9 @@
         },
         "IDR": {
           "_rounding": "0",
-          "_digits": "0"
+          "_digits": "2",
+          "_cashRounding": "0",
+          "_cashDigits": "0"
         },
         "IQD": {
           "_rounding": "0",
@@ -178,7 +186,9 @@
         },
         "MNT": {
           "_rounding": "0",
-          "_digits": "0"
+          "_digits": "2",
+          "_cashRounding": "0",
+          "_cashDigits": "0"
         },
         "MRO": {
           "_rounding": "0",
@@ -186,7 +196,9 @@
         },
         "MUR": {
           "_rounding": "0",
-          "_digits": "0"
+          "_digits": "2",
+          "_cashRounding": "0",
+          "_cashDigits": "0"
         },
         "NOK": {
           "_rounding": "0",
@@ -200,7 +212,9 @@
         },
         "PKR": {
           "_rounding": "0",
-          "_digits": "0"
+          "_digits": "2",
+          "_cashRounding": "0",
+          "_cashDigits": "0"
         },
         "PYG": {
           "_rounding": "0",
@@ -256,7 +270,9 @@
         },
         "TZS": {
           "_rounding": "0",
-          "_digits": "0"
+          "_digits": "2",
+          "_cashRounding": "0",
+          "_cashDigits": "0"
         },
         "UGX": {
           "_rounding": "0",
@@ -266,9 +282,21 @@
           "_rounding": "0",
           "_digits": "0"
         },
+        "UYW": {
+          "_rounding": "0",
+          "_digits": "4"
+        },
         "UZS": {
           "_rounding": "0",
-          "_digits": "0"
+          "_digits": "2",
+          "_cashRounding": "0",
+          "_cashDigits": "0"
+        },
+        "VEF": {
+          "_rounding": "0",
+          "_digits": "2",
+          "_cashRounding": "0",
+          "_cashDigits": "0"
         },
         "VND": {
           "_rounding": "0",
@@ -2278,6 +2306,12 @@
         ],
         "MV": [
           {
+            "MVP": {
+              "_from": "1947-01-01",
+              "_to": "1981-07-01"
+            }
+          },
+          {
             "MVR": {
               "_from": "1981-07-01"
             }
@@ -3202,6 +3236,11 @@
             }
           },
           {
+            "UYW": {
+              "_tender": "false"
+            }
+          },
+          {
             "UYP": {
               "_from": "1975-07-01",
               "_to": "1993-03-01"
@@ -3249,7 +3288,13 @@
           },
           {
             "VEF": {
-              "_from": "2008-01-01"
+              "_from": "2008-01-01",
+              "_to": "2018-08-20"
+            }
+          },
+          {
+            "VES": {
+              "_from": "2018-08-20"
             }
           }
         ],

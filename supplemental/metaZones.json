@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13924 $",
-      "_unicodeVersion": "10.0.0",
-      "_cldrVersion": "33"
+      "_number": "$Revision: 14196 $",
+      "_unicodeVersion": "11.0.0",
+      "_cldrVersion": "34"
     },
     "metaZones": {
       "metazoneInfo": {
@@ -517,13 +517,13 @@
                 "usesMetazone": {
                   "_mzone": "Africa_Western",
                   "_from": "1994-03-20 22:00",
-                  "_to": "2017-09-03 01:00"
+                  "_to": "2017-10-23 22:00"
                 }
               },
               {
                 "usesMetazone": {
                   "_mzone": "Africa_Central",
-                  "_from": "2017-09-03 01:00"
+                  "_from": "2017-10-23 22:00"
                 }
               }
             ]
@@ -2412,7 +2412,14 @@
               {
                 "usesMetazone": {
                   "_mzone": "Casey",
-                  "_from": "2016-10-21 16:00"
+                  "_from": "2016-10-21 16:00",
+                  "_to": "2018-03-10 17:00"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "Australia_Western",
+                  "_from": "2018-03-10 17:00"
                 }
               }
             ],
@@ -3133,7 +3140,14 @@
               {
                 "usesMetazone": {
                   "_mzone": "Pyongyang",
-                  "_from": "2015-08-14 15:00"
+                  "_from": "2015-08-14 15:00",
+                  "_to": "2018-05-04 15:30"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "Korea",
+                  "_from": "2018-05-04 15:30"
                 }
               }
             ],

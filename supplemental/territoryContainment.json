@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13922 $",
-      "_unicodeVersion": "10.0.0",
-      "_cldrVersion": "33"
+      "_number": "$Revision: 14481 $",
+      "_unicodeVersion": "11.0.0",
+      "_cldrVersion": "34"
     },
     "territoryContainment": {
       "001": {
@@ -129,6 +129,7 @@
           "SC",
           "SO",
           "SS",
+          "TF",
           "TZ",
           "UG",
           "YT",
@@ -390,7 +391,6 @@
           "QA",
           "SA",
           "SY",
-          "TF",
           "TR",
           "YE"
         ]

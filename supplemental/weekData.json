@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13922 $",
-      "_unicodeVersion": "10.0.0",
-      "_cldrVersion": "33"
+      "_number": "$Revision: 14481 $",
+      "_unicodeVersion": "11.0.0",
+      "_cldrVersion": "34"
     },
     "weekData": {
       "minDays": {
@@ -123,7 +123,7 @@
         "HR": "mon",
         "HU": "mon",
         "ID": "sun",
-        "IE": "sun",
+        "IE": "mon",
         "IL": "sun",
         "IN": "sun",
         "IQ": "sat",
@@ -147,7 +147,6 @@
         "LU": "mon",
         "LV": "mon",
         "LY": "sat",
-        "MA": "sat",
         "MC": "mon",
         "MD": "mon",
         "ME": "mon",
@@ -174,7 +173,7 @@
         "PK": "sun",
         "PL": "mon",
         "PR": "sun",
-        "PT": "mon",
+        "PT": "sun",
         "PY": "sun",
         "QA": "sat",
         "RE": "mon",
@@ -193,7 +192,6 @@
         "TH": "sun",
         "TJ": "mon",
         "TM": "mon",
-        "TN": "sun",
         "TR": "mon",
         "TT": "sun",
         "TW": "sun",
@@ -226,13 +224,11 @@
         "JO": "fri",
         "KW": "fri",
         "LY": "fri",
-        "MA": "fri",
         "OM": "fri",
         "QA": "fri",
         "SA": "fri",
         "SD": "fri",
         "SY": "fri",
-        "TN": "fri",
         "YE": "fri"
       },
       "weekendEnd": {
@@ -248,13 +244,11 @@
         "JO": "sat",
         "KW": "sat",
         "LY": "sat",
-        "MA": "sat",
         "OM": "sat",
         "QA": "sat",
         "SA": "sat",
         "SD": "sat",
         "SY": "sat",
-        "TN": "sat",
         "YE": "sat"
       },
       "af": {

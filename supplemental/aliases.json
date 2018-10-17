@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13910 $",
-      "_unicodeVersion": "10.0.0",
-      "_cldrVersion": "33"
+      "_number": "$Revision: 14432 $",
+      "_unicodeVersion": "11.0.0",
+      "_cldrVersion": "34"
     },
     "metadata": {
       "alias": {

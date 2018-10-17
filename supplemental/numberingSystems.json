@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13459 $",
-      "_unicodeVersion": "10.0.0",
-      "_cldrVersion": "33"
+      "_number": "$Revision: 14000 $",
+      "_unicodeVersion": "11.0.0",
+      "_cldrVersion": "34"
     },
     "numberingSystems": {
       "adlm": {
@@ -73,6 +73,10 @@
       "geor": {
         "_rules": "georgian",
         "_type": "algorithmic"
+      },
+      "gong": {
+        "_digits": "𑶠𑶡𑶢𑶣𑶤𑶥𑶦𑶧𑶨𑶩",
+        "_type": "numeric"
       },
       "gonm": {
         "_digits": "𑵐𑵑𑵒𑵓𑵔𑵕𑵖𑵗𑵘𑵙",
@@ -244,6 +248,10 @@
       },
       "osma": {
         "_digits": "𐒠𐒡𐒢𐒣𐒤𐒥𐒦𐒧𐒨𐒩",
+        "_type": "numeric"
+      },
+      "rohg": {
+        "_digits": "𐴰𐴱𐴲𐴳𐴴𐴵𐴶𐴷𐴸𐴹",
         "_type": "numeric"
       },
       "roman": {

@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13923 $",
-      "_unicodeVersion": "10.0.0",
-      "_cldrVersion": "33"
+      "_number": "$Revision: 14334 $",
+      "_unicodeVersion": "11.0.0",
+      "_cldrVersion": "34"
     },
     "windowsZones": {
       "mapTimezones": [
@@ -628,13 +628,6 @@
             "_other": "Central Pacific Standard Time",
             "_type": "Pacific/Guadalcanal",
             "_territory": "001"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Central Pacific Standard Time",
-            "_type": "Antarctica/Casey",
-            "_territory": "AQ"
           }
         },
         {
@@ -1305,7 +1298,7 @@
         {
           "mapZone": {
             "_other": "GTB Standard Time",
-            "_type": "Asia/Nicosia",
+            "_type": "Asia/Famagusta Asia/Nicosia",
             "_territory": "CY"
           }
         },
@@ -2396,6 +2389,20 @@
         },
         {
           "mapZone": {
+            "_other": "Sao Tome Standard Time",
+            "_type": "Africa/Sao_Tome",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Sao Tome Standard Time",
+            "_type": "Africa/Sao_Tome",
+            "_territory": "ST"
+          }
+        },
+        {
+          "mapZone": {
             "_other": "Saratov Standard Time",
             "_type": "Europe/Saratov",
             "_territory": "001"
@@ -2789,13 +2796,6 @@
         {
           "mapZone": {
             "_other": "Turkey Standard Time",
-            "_type": "Asia/Famagusta",
-            "_territory": "CY"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Turkey Standard Time",
             "_type": "Europe/Istanbul",
             "_territory": "TR"
           }
@@ -3125,6 +3125,13 @@
         {
           "mapZone": {
             "_other": "W. Australia Standard Time",
+            "_type": "Antarctica/Casey",
+            "_territory": "AQ"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "W. Australia Standard Time",
             "_type": "Australia/Perth",
             "_territory": "AU"
           }
@@ -3211,13 +3218,6 @@
             "_other": "W. Central Africa Standard Time",
             "_type": "Africa/Lagos",
             "_territory": "NG"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "W. Central Africa Standard Time",
-            "_type": "Africa/Sao_Tome",
-            "_territory": "ST"
           }
         },
         {

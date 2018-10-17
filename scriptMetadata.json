@@ -432,6 +432,22 @@
       "originCountry": "IN",
       "likelyLanguage": "hi"
     },
+    "Dogr": {
+      "rank": 33,
+      "age": {
+        "m_version_": 184549376
+      },
+      "sampleChar": "𑠋",
+      "idUsage": "EXCLUSION",
+      "rtl": "NO",
+      "lbLetters": "NO",
+      "hasCase": "NO",
+      "shapingReq": "YES",
+      "ime": "NO",
+      "density": 1,
+      "originCountry": "IN",
+      "likelyLanguage": "doi"
+    },
     "Dsrt": {
       "rank": 33,
       "age": {
@@ -544,6 +560,22 @@
       "originCountry": "BG",
       "likelyLanguage": "cu"
     },
+    "Gong": {
+      "rank": 33,
+      "age": {
+        "m_version_": 184549376
+      },
+      "sampleChar": "𑵱",
+      "idUsage": "LIMITED_USE",
+      "rtl": "NO",
+      "lbLetters": "NO",
+      "hasCase": "NO",
+      "shapingReq": "YES",
+      "ime": "NO",
+      "density": 1,
+      "originCountry": "IN",
+      "likelyLanguage": "wsg"
+    },
     "Gonm": {
       "rank": 33,
       "age": {
@@ -558,7 +590,7 @@
       "ime": "NO",
       "density": 1,
       "originCountry": "IN",
-      "likelyLanguage": "gon"
+      "likelyLanguage": "esg"
     },
     "Goth": {
       "rank": 33,
@@ -1200,6 +1232,22 @@
       "originCountry": "IN",
       "likelyLanguage": "hi"
     },
+    "Maka": {
+      "rank": 33,
+      "age": {
+        "m_version_": 184549376
+      },
+      "sampleChar": "𑻥",
+      "idUsage": "EXCLUSION",
+      "rtl": "NO",
+      "lbLetters": "NO",
+      "hasCase": "NO",
+      "shapingReq": "MIN",
+      "ime": "NO",
+      "density": 1,
+      "originCountry": "ID",
+      "likelyLanguage": "mak"
+    },
     "Mand": {
       "rank": 33,
       "age": {
@@ -1247,6 +1295,22 @@
       "density": 1,
       "originCountry": "CN",
       "likelyLanguage": "bo"
+    },
+    "Medf": {
+      "rank": 33,
+      "age": {
+        "m_version_": 184549376
+      },
+      "sampleChar": "𖹀",
+      "idUsage": "EXCLUSION",
+      "rtl": "NO",
+      "lbLetters": "NO",
+      "hasCase": "YES",
+      "shapingReq": "NO",
+      "ime": "NO",
+      "density": 1,
+      "originCountry": "NG",
+      "likelyLanguage": "mis"
     },
     "Mend": {
       "rank": 33,
@@ -1334,7 +1398,7 @@
         "m_version_": 50331648
       },
       "sampleChar": "ᠦ",
-      "idUsage": "LIMITED_USE",
+      "idUsage": "EXCLUSION",
       "rtl": "NO",
       "lbLetters": "NO",
       "hasCase": "NO",
@@ -1744,6 +1808,22 @@
       "originCountry": "ID",
       "likelyLanguage": "rej"
     },
+    "Rohg": {
+      "rank": 33,
+      "age": {
+        "m_version_": 184549376
+      },
+      "sampleChar": "𐴒",
+      "idUsage": "LIMITED_USE",
+      "rtl": "YES",
+      "lbLetters": "NO",
+      "hasCase": "NO",
+      "shapingReq": "YES",
+      "ime": "NO",
+      "density": 1,
+      "originCountry": "MM",
+      "likelyLanguage": "rhg"
+    },
     "Runr": {
       "rank": 33,
       "age": {
@@ -1903,6 +1983,38 @@
       "density": 1,
       "originCountry": "LK",
       "likelyLanguage": "si"
+    },
+    "Sogd": {
+      "rank": 33,
+      "age": {
+        "m_version_": 184549376
+      },
+      "sampleChar": "𐽂",
+      "idUsage": "EXCLUSION",
+      "rtl": "YES",
+      "lbLetters": "NO",
+      "hasCase": "NO",
+      "shapingReq": "YES",
+      "ime": "NO",
+      "density": 1,
+      "originCountry": "UZ",
+      "likelyLanguage": "sog"
+    },
+    "Sogo": {
+      "rank": 33,
+      "age": {
+        "m_version_": 184549376
+      },
+      "sampleChar": "𐼙",
+      "idUsage": "EXCLUSION",
+      "rtl": "YES",
+      "lbLetters": "NO",
+      "hasCase": "NO",
+      "shapingReq": "NO",
+      "ime": "NO",
+      "density": 1,
+      "originCountry": "UZ",
+      "likelyLanguage": "sog"
     },
     "Sora": {
       "rank": 33,

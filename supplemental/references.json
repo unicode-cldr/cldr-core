@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13922 $",
-      "_unicodeVersion": "10.0.0",
-      "_cldrVersion": "33"
+      "_number": "$Revision: 14481 $",
+      "_unicodeVersion": "11.0.0",
+      "_cldrVersion": "34"
     },
     "references": {
       "R1000": {
@@ -813,7 +813,6 @@
         "_uri": "http://www.tatar.ru/"
       },
       "R1215": " http://en.wikipedia.org/wiki/Interlingua#Community Has a regular conf in Sweden, also Brazil; an auxiliary language with tiny population worldwide",
-      "R1216": "This is base pop for \\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"fub\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\" lang code; ff shows as a macrolanguage",
       "R1217": {
         "_value": "[missing]",
         "_uri": "http://www.ethnologue.com/language/bkm"
@@ -937,6 +936,7 @@
         "_value": "[missing]",
         "_uri": "http://en.wikipedia.org/wiki/Yiddish_language#Numbers_of_speakers"
       },
+      "R1250": "No Data Available at present.",
       "R1251": "co-official in South Tyrol",
       "R1252": "Aosta Valley",
       "R1253": "in Trieste and  Gorizia",
@@ -980,10 +980,6 @@
       "R1267": {
         "_value": "2nd lang literacy 30%",
         "_uri": "http://www.ethnologue.com/language/jgo"
-      },
-      "R1268": {
-        "_value": "http://en.wikipedia.org/wiki/Akademio_Internacia_de_la_Sciencoj_San_Marino - estimate 100% of the academy can use Esperanto; the language is used as 1st language of instruction; academy has 300 \\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"members\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\".",
-        "_uri": "http://en.wikipedia.org/wiki/Esperanto"
       },
       "R1269": {
         "_value": "recognized in West Java",
@@ -1147,6 +1143,7 @@
         "_value": "[missing]",
         "_uri": "http://www.bfs.admin.ch/bfs/portal/en/index/themen/01/05/blank/key/sprachen.html"
       },
+      "R1317": "This is base pop for \\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"fub\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\" lang code; ff shows as a macrolanguage",
       "R1318": {
         "_value": "Widely spoken less written, and most speakers know standard German as well",
         "_uri": "https://en.wikipedia.org/wiki/Bavarian_language"
@@ -1174,6 +1171,10 @@
       "R1324": {
         "_value": "[missing]",
         "_uri": "http://2001.ukrcensus.gov.ua/eng/results/general/nationality/"
+      },
+      "R1325": {
+        "_value": "http://en.wikipedia.org/wiki/Akademio_Internacia_de_la_Sciencoj_San_Marino - estimate 100% of the academy can use Esperanto; the language is used as 1st language of instruction; academy has 300 \\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"members\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\"\\\".",
+        "_uri": "http://en.wikipedia.org/wiki/Esperanto"
       }
     }
   }

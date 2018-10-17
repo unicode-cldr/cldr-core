@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 13922 $",
-      "_unicodeVersion": "10.0.0",
-      "_cldrVersion": "33"
+      "_number": "$Revision: 14481 $",
+      "_unicodeVersion": "11.0.0",
+      "_cldrVersion": "34"
     },
     "calendarData": {
       "buddhist": {
@@ -553,7 +553,7 @@
             "_start": "1288-4-28"
           },
           "141": {
-            "_start": "1293-8-55"
+            "_start": "1293-8-5"
           },
           "142": {
             "_start": "1299-4-25"
@@ -628,7 +628,7 @@
             "_start": "1384-4-28"
           },
           "166": {
-            "_start": "1384-2-27"
+            "_start": "1387-8-22"
           },
           "167": {
             "_start": "1387-8-23"
@@ -836,6 +836,10 @@
           },
           "235": {
             "_start": "1989-1-8"
+          },
+          "236": {
+            "_named": "false",
+            "_start": "2019-5-1"
           }
         }
       },
