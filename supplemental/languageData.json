@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 14481 $",
-      "_unicodeVersion": "11.0.0",
-      "_cldrVersion": "34"
+      "_number": "$Revision: 14883 $",
+      "_unicodeVersion": "12.0.0",
+      "_cldrVersion": "35"
     },
     "languageData": {
       "aa": {
@@ -1275,6 +1275,11 @@
           "Latn"
         ]
       },
+      "dnj-alt-secondary": {
+        "_territories": [
+          "CI"
+        ]
+      },
       "doi": {
         "_scripts": [
           "Arab"
@@ -1511,6 +1516,7 @@
       "en-alt-secondary": {
         "_territories": [
           "AC",
+          "AE",
           "AR",
           "AT",
           "BA",
@@ -2018,16 +2024,6 @@
           "Ethi"
         ]
       },
-      "ggn": {
-        "_scripts": [
-          "Deva"
-        ]
-      },
-      "ggn-alt-secondary": {
-        "_scripts": [
-          "Latn"
-        ]
-      },
       "gil": {
         "_territories": [
           "KI"
@@ -2207,6 +2203,11 @@
       "gvr": {
         "_scripts": [
           "Deva"
+        ]
+      },
+      "gvr-alt-secondary": {
+        "_scripts": [
+          "Latn"
         ]
       },
       "gwi": {
@@ -2990,7 +2991,8 @@
       },
       "ko-alt-secondary": {
         "_territories": [
-          "CN"
+          "CN",
+          "US"
         ]
       },
       "koi": {
@@ -5745,11 +5747,6 @@
       "tsd": {
         "_scripts": [
           "Grek"
-        ]
-      },
-      "tsf": {
-        "_scripts": [
-          "Deva"
         ]
       },
       "tsg": {

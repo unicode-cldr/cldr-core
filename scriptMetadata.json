@@ -512,6 +512,22 @@
       "originCountry": "AL",
       "likelyLanguage": "sq"
     },
+    "Elym": {
+      "rank": 33,
+      "age": {
+        "m_version_": 201326592
+      },
+      "sampleChar": "𐿱",
+      "idUsage": "EXCLUSION",
+      "rtl": "YES",
+      "lbLetters": "NO",
+      "hasCase": "NO",
+      "shapingReq": "NO",
+      "ime": "NO",
+      "density": 1,
+      "originCountry": "IR",
+      "likelyLanguage": "arc"
+    },
     "Ethi": {
       "rank": 29,
       "age": {
@@ -847,6 +863,22 @@
       "density": 1,
       "originCountry": "LA",
       "likelyLanguage": "hnj"
+    },
+    "Hmnp": {
+      "rank": 33,
+      "age": {
+        "m_version_": 201326592
+      },
+      "sampleChar": "𞄈",
+      "idUsage": "LIMITED_USE",
+      "rtl": "NO",
+      "lbLetters": "NO",
+      "hasCase": "NO",
+      "shapingReq": "NO",
+      "ime": "NO",
+      "density": 1,
+      "originCountry": "US",
+      "likelyLanguage": "mww"
     },
     "Hung": {
       "rank": 33,
@@ -1471,6 +1503,22 @@
       "density": 1,
       "originCountry": "MM",
       "likelyLanguage": "my"
+    },
+    "Nand": {
+      "rank": 33,
+      "age": {
+        "m_version_": 201326592
+      },
+      "sampleChar": "𑧎",
+      "idUsage": "EXCLUSION",
+      "rtl": "NO",
+      "lbLetters": "NO",
+      "hasCase": "NO",
+      "shapingReq": "YES",
+      "ime": "NO",
+      "density": 1,
+      "originCountry": "IN",
+      "likelyLanguage": "sa"
     },
     "Narb": {
       "rank": 33,
@@ -2367,6 +2415,22 @@
       "density": 1,
       "originCountry": "IN",
       "likelyLanguage": "hoc"
+    },
+    "Wcho": {
+      "rank": 33,
+      "age": {
+        "m_version_": 201326592
+      },
+      "sampleChar": "𞋡",
+      "idUsage": "LIMITED_USE",
+      "rtl": "NO",
+      "lbLetters": "NO",
+      "hasCase": "NO",
+      "shapingReq": "NO",
+      "ime": "NO",
+      "density": 1,
+      "originCountry": "IN",
+      "likelyLanguage": "nnp"
     },
     "Xpeo": {
       "rank": 33,

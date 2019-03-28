@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 14000 $",
-      "_unicodeVersion": "11.0.0",
-      "_cldrVersion": "34"
+      "_number": "$Revision: 14872 $",
+      "_unicodeVersion": "12.0.0",
+      "_cldrVersion": "35"
     },
     "numberingSystems": {
       "adlm": {
@@ -130,6 +130,10 @@
         "_digits": "𖭐𖭑𖭒𖭓𖭔𖭕𖭖𖭗𖭘𖭙",
         "_type": "numeric"
       },
+      "hmnp": {
+        "_digits": "𞅀𞅁𞅂𞅃𞅄𞅅𞅆𞅇𞅈𞅉",
+        "_type": "numeric"
+      },
       "java": {
         "_digits": "꧐꧑꧒꧓꧔꧕꧖꧗꧘꧙",
         "_type": "numeric"
@@ -140,6 +144,10 @@
       },
       "jpanfin": {
         "_rules": "ja/SpelloutRules/spellout-cardinal-financial",
+        "_type": "algorithmic"
+      },
+      "jpanyear": {
+        "_rules": "ja/SpelloutRules/spellout-numbering-year-latn",
         "_type": "algorithmic"
       },
       "kali": {
@@ -324,6 +332,10 @@
       },
       "wara": {
         "_digits": "𑣠𑣡𑣢𑣣𑣤𑣥𑣦𑣧𑣨𑣩",
+        "_type": "numeric"
+      },
+      "wcho": {
+        "_digits": "𞋰𞋱𞋲𞋳𞋴𞋵𞋶𞋷𞋸𞋹",
         "_type": "numeric"
       }
     }

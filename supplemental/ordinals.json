@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 14397 $",
-      "_unicodeVersion": "11.0.0",
-      "_cldrVersion": "34"
+      "_number": "$Revision: 14855 $",
+      "_unicodeVersion": "12.0.0",
+      "_cldrVersion": "35"
     },
     "plurals-type-ordinal": {
       "af": {
@@ -117,7 +117,7 @@
         "pluralRule-count-one": "n = 1,11 @integer 1, 11",
         "pluralRule-count-two": "n = 2,12 @integer 2, 12",
         "pluralRule-count-few": "n = 3,13 @integer 3, 13",
-        "pluralRule-count-other": " @integer 0, 5~19, 100, 1000, 10000, 100000, 1000000, …"
+        "pluralRule-count-other": " @integer 0, 4~10, 14~21, 100, 1000, 10000, 100000, 1000000, …"
       },
       "gl": {
         "pluralRule-count-other": " @integer 0~15, 100, 1000, 10000, 100000, 1000000, …"
@@ -195,6 +195,11 @@
       },
       "ko": {
         "pluralRule-count-other": " @integer 0~15, 100, 1000, 10000, 100000, 1000000, …"
+      },
+      "kw": {
+        "pluralRule-count-one": "n = 1..4 or n % 100 = 1..4,21..24,41..44,61..64,81..84 @integer 1~4, 21~24, 41~44, 61~64, 101, 1001, …",
+        "pluralRule-count-many": "n = 5 or n % 100 = 5 @integer 5, 105, 205, 305, 405, 505, 605, 705, 1005, …",
+        "pluralRule-count-other": " @integer 0, 6~20, 100, 1000, 10000, 100000, 1000000, …"
       },
       "ky": {
         "pluralRule-count-other": " @integer 0~15, 100, 1000, 10000, 100000, 1000000, …"

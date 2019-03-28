@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 14334 $",
-      "_unicodeVersion": "11.0.0",
-      "_cldrVersion": "34"
+      "_number": "$Revision: 14742 $",
+      "_unicodeVersion": "12.0.0",
+      "_cldrVersion": "35"
     },
     "windowsZones": {
       "mapTimezones": [
@@ -31,7 +31,7 @@
         {
           "mapZone": {
             "_other": "Alaskan Standard Time",
-            "_type": "America/Anchorage America/Juneau America/Metlakatla America/Nome America/Sitka America/Yakutat",
+            "_type": "America/Anchorage America/Juneau America/Nome America/Sitka America/Yakutat",
             "_territory": "US"
           }
         },
@@ -507,7 +507,7 @@
         {
           "mapZone": {
             "_other": "Central Asia Standard Time",
-            "_type": "Asia/Almaty Asia/Qyzylorda",
+            "_type": "Asia/Almaty Asia/Qostanay",
             "_territory": "KZ"
           }
         },
@@ -1879,7 +1879,7 @@
         {
           "mapZone": {
             "_other": "Pacific Standard Time",
-            "_type": "America/Los_Angeles",
+            "_type": "America/Los_Angeles America/Metlakatla",
             "_territory": "US"
           }
         },
@@ -3391,7 +3391,7 @@
         {
           "mapZone": {
             "_other": "West Asia Standard Time",
-            "_type": "Asia/Oral Asia/Aqtau Asia/Aqtobe Asia/Atyrau",
+            "_type": "Asia/Oral Asia/Aqtau Asia/Aqtobe Asia/Atyrau Asia/Qyzylorda",
             "_territory": "KZ"
           }
         },

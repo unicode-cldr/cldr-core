@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 14196 $",
-      "_unicodeVersion": "11.0.0",
-      "_cldrVersion": "34"
+      "_number": "$Revision: 14742 $",
+      "_unicodeVersion": "12.0.0",
+      "_cldrVersion": "35"
     },
     "primaryZones": {
       "CL": "America/Santiago",

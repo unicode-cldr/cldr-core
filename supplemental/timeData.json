@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 14481 $",
-      "_unicodeVersion": "11.0.0",
-      "_cldrVersion": "34"
+      "_number": "$Revision: 14883 $",
+      "_unicodeVersion": "12.0.0",
+      "_cldrVersion": "35"
     },
     "timeData": {
       "AX": {
@@ -122,10 +122,6 @@
         "_allowed": "h H hB",
         "_preferred": "h"
       },
-      "fr_CA": {
-        "_allowed": "h H hB",
-        "_preferred": "h"
-      },
       "TD": {
         "_allowed": "h H hB",
         "_preferred": "h"
@@ -142,7 +138,19 @@
         "_allowed": "H h hB",
         "_preferred": "H"
       },
+      "fr_CA": {
+        "_allowed": "H h hB",
+        "_preferred": "H"
+      },
       "gl_ES": {
+        "_allowed": "H h hB",
+        "_preferred": "H"
+      },
+      "it_CH": {
+        "_allowed": "H h hB",
+        "_preferred": "H"
+      },
+      "it_IT": {
         "_allowed": "H h hB",
         "_preferred": "H"
       },
@@ -162,11 +170,19 @@
         "_allowed": "H h hB",
         "_preferred": "H"
       },
+      "SM": {
+        "_allowed": "H h hB",
+        "_preferred": "H"
+      },
       "SN": {
         "_allowed": "H h hB",
         "_preferred": "H"
       },
       "TF": {
+        "_allowed": "H h hB",
+        "_preferred": "H"
+      },
+      "VA": {
         "_allowed": "H h hB",
         "_preferred": "H"
       },
@@ -330,6 +346,62 @@
         "_allowed": "H h hB hb",
         "_preferred": "H"
       },
+      "AR": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "CL": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "CR": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "CU": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "EA": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "es_BO": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "es_BR": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "es_EC": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "es_ES": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "es_GQ": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "es_PE": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "GT": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "HN": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "IC": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
       "KG": {
         "_allowed": "H h hB hb",
         "_preferred": "H"
@@ -343,6 +415,26 @@
         "_preferred": "H"
       },
       "MA": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "MX": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "NI": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "PY": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "SV": {
+        "_allowed": "H h hB hb",
+        "_preferred": "H"
+      },
+      "UY": {
         "_allowed": "H h hB hb",
         "_preferred": "H"
       },
@@ -498,10 +590,6 @@
         "_allowed": "H hB",
         "_preferred": "H"
       },
-      "SM": {
-        "_allowed": "H hB",
-        "_preferred": "H"
-      },
       "SR": {
         "_allowed": "H hB",
         "_preferred": "H"
@@ -574,10 +662,6 @@
         "_allowed": "H hB h",
         "_preferred": "H"
       },
-      "VA": {
-        "_allowed": "H hB h",
-        "_preferred": "H"
-      },
       "XK": {
         "_allowed": "H hB h",
         "_preferred": "H"
@@ -607,6 +691,10 @@
         "_preferred": "h"
       },
       "DM": {
+        "_allowed": "h hb H hB",
+        "_preferred": "h"
+      },
+      "en_001": {
         "_allowed": "h hb H hB",
         "_preferred": "h"
       },
@@ -726,27 +814,7 @@
         "_allowed": "h hb H hB",
         "_preferred": "h"
       },
-      "AR": {
-        "_allowed": "H hB h hb",
-        "_preferred": "H"
-      },
       "BO": {
-        "_allowed": "H hB h hb",
-        "_preferred": "H"
-      },
-      "CL": {
-        "_allowed": "H hB h hb",
-        "_preferred": "H"
-      },
-      "CR": {
-        "_allowed": "H hB h hb",
-        "_preferred": "H"
-      },
-      "CU": {
-        "_allowed": "H hB h hb",
-        "_preferred": "H"
-      },
-      "EA": {
         "_allowed": "H hB h hb",
         "_preferred": "H"
       },
@@ -762,39 +830,15 @@
         "_allowed": "H hB h hb",
         "_preferred": "H"
       },
-      "GT": {
-        "_allowed": "H hB h hb",
-        "_preferred": "H"
-      },
-      "HN": {
-        "_allowed": "H hB h hb",
-        "_preferred": "H"
-      },
-      "IC": {
-        "_allowed": "H hB h hb",
-        "_preferred": "H"
-      },
-      "MX": {
-        "_allowed": "H hB h hb",
-        "_preferred": "H"
-      },
-      "NI": {
-        "_allowed": "H hB h hb",
-        "_preferred": "H"
-      },
       "PE": {
         "_allowed": "H hB h hb",
         "_preferred": "H"
       },
-      "SV": {
-        "_allowed": "H hB h hb",
-        "_preferred": "H"
-      },
-      "UY": {
-        "_allowed": "H hB h hb",
-        "_preferred": "H"
-      },
       "AE": {
+        "_allowed": "h hB hb H",
+        "_preferred": "h"
+      },
+      "ar_001": {
         "_allowed": "h hB hb H",
         "_preferred": "h"
       },
@@ -878,10 +922,6 @@
         "_allowed": "H hb hB h",
         "_preferred": "H"
       },
-      "IR": {
-        "_allowed": "H hb hB h",
-        "_preferred": "H"
-      },
       "LA": {
         "_allowed": "H hb hB h",
         "_preferred": "H"
@@ -901,6 +941,14 @@
       "CD": {
         "_allowed": "hB H",
         "_preferred": "H"
+      },
+      "IR": {
+        "_allowed": "hB H",
+        "_preferred": "H"
+      },
+      "hi_IN": {
+        "_allowed": "hB h H",
+        "_preferred": "h"
       },
       "kn_IN": {
         "_allowed": "hB h H",
@@ -923,11 +971,15 @@
         "_preferred": "h"
       },
       "BN": {
-        "_allowed": "hb hB H h",
+        "_allowed": "hb hB h H",
         "_preferred": "h"
       },
       "MY": {
-        "_allowed": "hb hB H h",
+        "_allowed": "hb hB h H",
+        "_preferred": "h"
+      },
+      "CN": {
+        "_allowed": "hB hb h H",
         "_preferred": "h"
       },
       "ET": {
@@ -935,6 +987,14 @@
         "_preferred": "h"
       },
       "gu_IN": {
+        "_allowed": "hB hb h H",
+        "_preferred": "h"
+      },
+      "HK": {
+        "_allowed": "hB hb h H",
+        "_preferred": "h"
+      },
+      "MO": {
         "_allowed": "hB hb h H",
         "_preferred": "h"
       },
@@ -946,37 +1006,25 @@
         "_allowed": "hB hb h H",
         "_preferred": "h"
       },
-      "KE": {
+      "TW": {
         "_allowed": "hB hb h H",
+        "_preferred": "h"
+      },
+      "KE": {
+        "_allowed": "hB hb H h",
         "_preferred": "H"
       },
       "MM": {
-        "_allowed": "hB hb h H",
+        "_allowed": "hB hb H h",
         "_preferred": "H"
       },
       "TZ": {
-        "_allowed": "hB hb h H",
+        "_allowed": "hB hb H h",
         "_preferred": "H"
       },
       "UG": {
-        "_allowed": "hB hb h H",
+        "_allowed": "hB hb H h",
         "_preferred": "H"
-      },
-      "CN": {
-        "_allowed": "hB hb H h",
-        "_preferred": "h"
-      },
-      "HK": {
-        "_allowed": "hB hb H h",
-        "_preferred": "h"
-      },
-      "MO": {
-        "_allowed": "hB hb H h",
-        "_preferred": "h"
-      },
-      "TW": {
-        "_allowed": "hB hb H h",
-        "_preferred": "h"
       }
     }
   }

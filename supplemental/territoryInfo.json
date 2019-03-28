@@ -1,13 +1,13 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 14481 $",
-      "_unicodeVersion": "11.0.0",
-      "_cldrVersion": "34"
+      "_number": "$Revision: 14883 $",
+      "_unicodeVersion": "12.0.0",
+      "_cldrVersion": "35"
     },
     "territoryInfo": {
       "AC": {
-        "_gdp": "42290000",
+        "_gdp": "42230000",
         "_literacyPercent": "99",
         "_population": "940",
         "languagePopulation": {
@@ -19,7 +19,7 @@
       "AD": {
         "_gdp": "3327000000",
         "_literacyPercent": "100",
-        "_population": "85702",
+        "_population": "85708",
         "languagePopulation": {
           "ca": {
             "_populationPercent": "51",
@@ -34,9 +34,9 @@
         }
       },
       "AE": {
-        "_gdp": "686800000000",
+        "_gdp": "696000000000",
         "_literacyPercent": "90",
-        "_population": "6072480",
+        "_population": "9701320",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "78",
@@ -44,6 +44,9 @@
           },
           "bal": {
             "_populationPercent": "2.3"
+          },
+          "en": {
+            "_populationPercent": "50"
           },
           "fa": {
             "_populationPercent": "1.9"
@@ -57,9 +60,9 @@
         }
       },
       "AF": {
-        "_gdp": "69550000000",
+        "_gdp": "69450000000",
         "_literacyPercent": "28.1",
-        "_population": "34124800",
+        "_population": "34940800",
         "languagePopulation": {
           "bal": {
             "_populationPercent": "0.67",
@@ -77,7 +80,7 @@
             "_populationPercent": "5.9"
           },
           "kk_Arab": {
-            "_populationPercent": "0.0059"
+            "_populationPercent": "0.0057"
           },
           "prd": {
             "_populationPercent": "1.2"
@@ -91,7 +94,7 @@
             "_officialStatus": "official_regional"
           },
           "ug": {
-            "_populationPercent": "0.0088"
+            "_populationPercent": "0.0086"
           },
           "uz_Arab": {
             "_populationPercent": "4.7",
@@ -100,9 +103,9 @@
         }
       },
       "AG": {
-        "_gdp": "2393000000",
+        "_gdp": "2398000000",
         "_literacyPercent": "99",
-        "_population": "94731",
+        "_population": "95882",
         "languagePopulation": {
           "en": {
             "_populationPercent": "86",
@@ -116,7 +119,7 @@
       "AI": {
         "_gdp": "175400000",
         "_literacyPercent": "95",
-        "_population": "17087",
+        "_population": "17422",
         "languagePopulation": {
           "en": {
             "_populationPercent": "95",
@@ -125,9 +128,9 @@
         }
       },
       "AL": {
-        "_gdp": "35970000000",
+        "_gdp": "36010000000",
         "_literacyPercent": "96.8",
-        "_population": "3047990",
+        "_population": "3057220",
         "languagePopulation": {
           "el": {
             "_populationPercent": "1.9"
@@ -142,9 +145,9 @@
         }
       },
       "AM": {
-        "_gdp": "28280000000",
+        "_gdp": "28340000000",
         "_literacyPercent": "99.6",
-        "_population": "3045190",
+        "_population": "3038220",
         "languagePopulation": {
           "az": {
             "_populationPercent": "0"
@@ -159,9 +162,9 @@
         }
       },
       "AO": {
-        "_gdp": "190300000000",
+        "_gdp": "193600000000",
         "_literacyPercent": "70.4",
-        "_population": "29310300",
+        "_population": "30355900",
         "languagePopulation": {
           "kmb": {
             "_populationPercent": "25",
@@ -180,7 +183,7 @@
         }
       },
       "AQ": {
-        "_gdp": "17810000",
+        "_gdp": "17760000",
         "_literacyPercent": "99",
         "_population": "300",
         "languagePopulation": {
@@ -190,9 +193,9 @@
         }
       },
       "AR": {
-        "_gdp": "920200000000",
+        "_gdp": "922100000000",
         "_literacyPercent": "97.9",
-        "_population": "44293300",
+        "_population": "44694200",
         "languagePopulation": {
           "cy": {
             "_populationPercent": "0.065"
@@ -212,7 +215,7 @@
       "AS": {
         "_gdp": "658000000",
         "_literacyPercent": "97",
-        "_population": "51504",
+        "_population": "50826",
         "languagePopulation": {
           "en": {
             "_populationPercent": "97",
@@ -225,9 +228,9 @@
         }
       },
       "AT": {
-        "_gdp": "439600000000",
+        "_gdp": "441000000000",
         "_literacyPercent": "98",
-        "_population": "8754410",
+        "_population": "8793370",
         "languagePopulation": {
           "bar": {
             "_populationPercent": "95"
@@ -260,9 +263,9 @@
         }
       },
       "AU": {
-        "_gdp": "1246000000000",
+        "_gdp": "1248000000000",
         "_literacyPercent": "99",
-        "_population": "23232400",
+        "_population": "23470100",
         "languagePopulation": {
           "en": {
             "_populationPercent": "96",
@@ -280,9 +283,9 @@
         }
       },
       "AW": {
-        "_gdp": "2516000000",
+        "_gdp": "4158000000",
         "_literacyPercent": "96.8",
-        "_population": "115120",
+        "_population": "116576",
         "languagePopulation": {
           "en": {
             "_populationPercent": "2.6"
@@ -309,9 +312,9 @@
         }
       },
       "AZ": {
-        "_gdp": "171800000000",
+        "_gdp": "172200000000",
         "_literacyPercent": "99.8",
-        "_population": "9961400",
+        "_population": "10046500",
         "languagePopulation": {
           "az": {
             "_populationPercent": "89",
@@ -336,9 +339,9 @@
         }
       },
       "BA": {
-        "_gdp": "44620000000",
+        "_gdp": "44830000000",
         "_literacyPercent": "98",
-        "_population": "3856180",
+        "_population": "3849890",
         "languagePopulation": {
           "bs": {
             "_populationPercent": "99",
@@ -368,9 +371,9 @@
         }
       },
       "BB": {
-        "_gdp": "5244000000",
+        "_gdp": "5218000000",
         "_literacyPercent": "99.7",
-        "_population": "292336",
+        "_population": "293131",
         "languagePopulation": {
           "en": {
             "_populationPercent": "100",
@@ -379,9 +382,9 @@
         }
       },
       "BD": {
-        "_gdp": "687100000000",
+        "_gdp": "690300000000",
         "_literacyPercent": "57.7",
-        "_population": "157827000",
+        "_population": "159453000",
         "languagePopulation": {
           "bn": {
             "_populationPercent": "98",
@@ -416,9 +419,9 @@
         }
       },
       "BE": {
-        "_gdp": "528500000000",
+        "_gdp": "529200000000",
         "_literacyPercent": "99",
-        "_population": "11491300",
+        "_population": "11570800",
         "languagePopulation": {
           "de": {
             "_populationPercent": "22",
@@ -445,9 +448,9 @@
         }
       },
       "BF": {
-        "_gdp": "35780000000",
+        "_gdp": "35850000000",
         "_literacyPercent": "28.7",
-        "_population": "20107500",
+        "_population": "19742700",
         "languagePopulation": {
           "dyu": {
             "_populationPercent": "32"
@@ -468,9 +471,9 @@
         }
       },
       "BG": {
-        "_gdp": "153100000000",
+        "_gdp": "153500000000",
         "_literacyPercent": "98.4",
-        "_population": "7101510",
+        "_population": "7057500",
         "languagePopulation": {
           "bg": {
             "_populationPercent": "100",
@@ -491,9 +494,9 @@
         }
       },
       "BH": {
-        "_gdp": "70440000000",
+        "_gdp": "71170000000",
         "_literacyPercent": "94.6",
-        "_population": "1410940",
+        "_population": "1442660",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "87",
@@ -505,12 +508,12 @@
         }
       },
       "BI": {
-        "_gdp": "7990000000",
+        "_gdp": "8007000000",
         "_literacyPercent": "67.2",
-        "_population": "11466800",
+        "_population": "11844500",
         "languagePopulation": {
           "en": {
-            "_populationPercent": "0.054",
+            "_populationPercent": "0.053",
             "_officialStatus": "official"
           },
           "fr": {
@@ -522,14 +525,14 @@
             "_officialStatus": "official"
           },
           "sw": {
-            "_populationPercent": "0.055"
+            "_populationPercent": "0.054"
           }
         }
       },
       "BJ": {
-        "_gdp": "25330000000",
+        "_gdp": "25390000000",
         "_literacyPercent": "42.4",
-        "_population": "11038800",
+        "_population": "11340500",
         "languagePopulation": {
           "fon": {
             "_populationPercent": "25"
@@ -546,10 +549,10 @@
       "BL": {
         "_gdp": "255000000",
         "_literacyPercent": "99",
-        "_population": "7184",
+        "_population": "7160",
         "languagePopulation": {
           "fr": {
-            "_populationPercent": "95",
+            "_populationPercent": "96",
             "_officialStatus": "official"
           }
         }
@@ -557,7 +560,7 @@
       "BM": {
         "_gdp": "6127000000",
         "_literacyPercent": "98",
-        "_population": "70864",
+        "_population": "71176",
         "languagePopulation": {
           "en": {
             "_populationPercent": "92",
@@ -566,9 +569,9 @@
         }
       },
       "BN": {
-        "_gdp": "33540000000",
+        "_gdp": "33870000000",
         "_literacyPercent": "95.4",
-        "_population": "443593",
+        "_population": "450565",
         "languagePopulation": {
           "en": {
             "_populationPercent": "1.8"
@@ -587,9 +590,9 @@
         }
       },
       "BO": {
-        "_gdp": "83550000000",
+        "_gdp": "83720000000",
         "_literacyPercent": "91.2",
-        "_population": "11138200",
+        "_population": "11306300",
         "languagePopulation": {
           "aro": {
             "_populationPercent": "0.001"
@@ -612,7 +615,7 @@
         }
       },
       "BQ": {
-        "_gdp": "418000000",
+        "_gdp": "416400000",
         "_literacyPercent": "96",
         "_population": "20000",
         "languagePopulation": {
@@ -626,9 +629,9 @@
         }
       },
       "BR": {
-        "_gdp": "3240000000000",
+        "_gdp": "3248000000000",
         "_literacyPercent": "90.4",
-        "_population": "207353000",
+        "_population": "208847000",
         "languagePopulation": {
           "de": {
             "_populationPercent": "0.84"
@@ -667,9 +670,9 @@
         }
       },
       "BS": {
-        "_gdp": "11600000000",
+        "_gdp": "12060000000",
         "_literacyPercent": "95.6",
-        "_population": "329988",
+        "_population": "332634",
         "languagePopulation": {
           "en": {
             "_populationPercent": "100",
@@ -678,9 +681,9 @@
         }
       },
       "BT": {
-        "_gdp": "7030000000",
+        "_gdp": "7205000000",
         "_literacyPercent": "52.8",
-        "_population": "758288",
+        "_population": "766397",
         "languagePopulation": {
           "dz": {
             "_populationPercent": "47",
@@ -701,7 +704,7 @@
         }
       },
       "BV": {
-        "_gdp": "44990",
+        "_gdp": "44930",
         "_literacyPercent": "99",
         "_population": "1",
         "languagePopulation": {
@@ -711,9 +714,9 @@
         }
       },
       "BW": {
-        "_gdp": "38860000000",
+        "_gdp": "39010000000",
         "_literacyPercent": "85.1",
-        "_population": "2214860",
+        "_population": "2249100",
         "languagePopulation": {
           "af": {
             "_populationPercent": "0.27"
@@ -729,9 +732,9 @@
         }
       },
       "BY": {
-        "_gdp": "178900000000",
+        "_gdp": "179400000000",
         "_literacyPercent": "99.6",
-        "_population": "9549750",
+        "_population": "9527540",
         "languagePopulation": {
           "be": {
             "_populationPercent": "100",
@@ -744,9 +747,9 @@
         }
       },
       "BZ": {
-        "_gdp": "3211000000",
+        "_gdp": "3218000000",
         "_literacyPercent": "76.9",
-        "_population": "360346",
+        "_population": "385854",
         "languagePopulation": {
           "en": {
             "_populationPercent": "100",
@@ -758,21 +761,21 @@
         }
       },
       "CA": {
-        "_gdp": "1769000000000",
+        "_gdp": "1774000000000",
         "_literacyPercent": "99",
-        "_population": "35623700",
+        "_population": "35881700",
         "languagePopulation": {
           "atj": {
             "_populationPercent": "0.016"
           },
           "chp": {
-            "_populationPercent": "0.0022"
+            "_populationPercent": "0.0021"
           },
           "cr": {
             "_populationPercent": "0.11"
           },
           "crj": {
-            "_populationPercent": "0.021"
+            "_populationPercent": "0.02"
           },
           "crk": {
             "_populationPercent": "0.11"
@@ -790,7 +793,7 @@
             "_populationPercent": "1.9"
           },
           "den": {
-            "_populationPercent": "0.0065"
+            "_populationPercent": "0.0064"
           },
           "dgr": {
             "_populationPercent": "0.0074"
@@ -845,7 +848,7 @@
         }
       },
       "CC": {
-        "_gdp": "31960000",
+        "_gdp": "31690000",
         "_literacyPercent": "99",
         "_population": "596",
         "languagePopulation": {
@@ -859,9 +862,9 @@
         }
       },
       "CD": {
-        "_gdp": "68450000000",
+        "_gdp": "68600000000",
         "_literacyPercent": "66.8",
-        "_population": "83301200",
+        "_population": "85281000",
         "languagePopulation": {
           "fr": {
             "_populationPercent": "3.8",
@@ -895,9 +898,9 @@
         }
       },
       "CF": {
-        "_gdp": "3373000000",
+        "_gdp": "3390000000",
         "_literacyPercent": "56.6",
-        "_population": "5625120",
+        "_population": "5745060",
         "languagePopulation": {
           "fr": {
             "_populationPercent": "49",
@@ -913,9 +916,9 @@
         }
       },
       "CG": {
-        "_gdp": "28880000000",
+        "_gdp": "29390000000",
         "_literacyPercent": "83.8",
-        "_population": "4954670",
+        "_population": "5062020",
         "languagePopulation": {
           "fr": {
             "_populationPercent": "84",
@@ -927,9 +930,9 @@
         }
       },
       "CH": {
-        "_gdp": "517200000000",
+        "_gdp": "523100000000",
         "_literacyPercent": "99",
-        "_population": "8236300",
+        "_population": "8292810",
         "languagePopulation": {
           "de": {
             "_populationPercent": "73",
@@ -971,9 +974,9 @@
         }
       },
       "CI": {
-        "_gdp": "96920000000",
+        "_gdp": "97160000000",
         "_literacyPercent": "56.9",
-        "_population": "24184800",
+        "_population": "26260600",
         "languagePopulation": {
           "bci": {
             "_populationPercent": "11",
@@ -1003,18 +1006,18 @@
       "CK": {
         "_gdp": "299900000",
         "_literacyPercent": "95",
-        "_population": "9290",
+        "_population": "9038",
         "languagePopulation": {
           "en": {
-            "_populationPercent": "95",
+            "_populationPercent": "98",
             "_officialStatus": "official"
           }
         }
       },
       "CL": {
-        "_gdp": "451100000000",
+        "_gdp": "452100000000",
         "_literacyPercent": "98.6",
-        "_population": "17789300",
+        "_population": "17925300",
         "languagePopulation": {
           "arn": {
             "_populationPercent": "1.5"
@@ -1029,9 +1032,9 @@
         }
       },
       "CM": {
-        "_gdp": "88860000000",
+        "_gdp": "89540000000",
         "_literacyPercent": "71.3",
-        "_population": "24994900",
+        "_population": "25641000",
         "languagePopulation": {
           "agq": {
             "_populationPercent": "0.14",
@@ -1116,7 +1119,7 @@
             "_populationPercent": "1"
           },
           "nmg": {
-            "_populationPercent": "0.036",
+            "_populationPercent": "0.035",
             "_literacyPercent": "10"
           },
           "nnh": {
@@ -1124,7 +1127,7 @@
             "_literacyPercent": "8"
           },
           "yav": {
-            "_populationPercent": "0.0092"
+            "_populationPercent": "0.009"
           },
           "ybb": {
             "_populationPercent": "1.6",
@@ -1133,9 +1136,9 @@
         }
       },
       "CN": {
-        "_gdp": "23160000000000",
+        "_gdp": "23210000000000",
         "_literacyPercent": "95.1",
-        "_population": "1379300000",
+        "_population": "1384690000",
         "languagePopulation": {
           "bo": {
             "_populationPercent": "0.2",
@@ -1222,9 +1225,9 @@
         }
       },
       "CO": {
-        "_gdp": "714000000000",
+        "_gdp": "711600000000",
         "_literacyPercent": "93.6",
-        "_population": "47698500",
+        "_population": "48169000",
         "languagePopulation": {
           "es": {
             "_populationPercent": "93",
@@ -1236,7 +1239,7 @@
         }
       },
       "CP": {
-        "_gdp": "42260",
+        "_gdp": "42400",
         "_literacyPercent": "99",
         "_population": "1",
         "languagePopulation": {
@@ -1246,9 +1249,9 @@
         }
       },
       "CR": {
-        "_gdp": "83850000000",
+        "_gdp": "83940000000",
         "_literacyPercent": "96.3",
-        "_population": "4930260",
+        "_population": "4987140",
         "languagePopulation": {
           "es": {
             "_populationPercent": "95",
@@ -1259,7 +1262,7 @@
       "CU": {
         "_gdp": "137000000000",
         "_literacyPercent": "99.8",
-        "_population": "11147400",
+        "_population": "11116400",
         "languagePopulation": {
           "es": {
             "_populationPercent": "100",
@@ -1268,9 +1271,9 @@
         }
       },
       "CV": {
-        "_gdp": "3735000000",
+        "_gdp": "3777000000",
         "_literacyPercent": "84.9",
-        "_population": "560899",
+        "_population": "568373",
         "languagePopulation": {
           "kea": {
             "_populationPercent": "91"
@@ -1284,7 +1287,7 @@
       "CW": {
         "_gdp": "3128000000",
         "_literacyPercent": "96",
-        "_population": "149648",
+        "_population": "150241",
         "languagePopulation": {
           "es": {
             "_populationPercent": "3.8"
@@ -1300,7 +1303,7 @@
         }
       },
       "CX": {
-        "_gdp": "118300000",
+        "_gdp": "117200000",
         "_literacyPercent": "99",
         "_population": "2205",
         "languagePopulation": {
@@ -1311,9 +1314,9 @@
         }
       },
       "CY": {
-        "_gdp": "31590000000",
+        "_gdp": "31780000000",
         "_literacyPercent": "98.7",
-        "_population": "1221550",
+        "_population": "1237090",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "0.11"
@@ -1338,9 +1341,9 @@
         }
       },
       "CZ": {
-        "_gdp": "375700000000",
+        "_gdp": "375900000000",
         "_literacyPercent": "99",
-        "_population": "10674700",
+        "_population": "10686300",
         "languagePopulation": {
           "cs": {
             "_populationPercent": "98",
@@ -1361,9 +1364,9 @@
         }
       },
       "DE": {
-        "_gdp": "4171000000000",
+        "_gdp": "4199000000000",
         "_literacyPercent": "99",
-        "_population": "80594000",
+        "_population": "80457700",
         "languagePopulation": {
           "bar": {
             "_writingPercent": "5",
@@ -1450,7 +1453,7 @@
         }
       },
       "DG": {
-        "_gdp": "22500000",
+        "_gdp": "22460000",
         "_literacyPercent": "99",
         "_population": "500",
         "languagePopulation": {
@@ -1461,9 +1464,9 @@
         }
       },
       "DJ": {
-        "_gdp": "3632000000",
+        "_gdp": "3640000000",
         "_literacyPercent": "67.9",
-        "_population": "865267",
+        "_population": "884017",
         "languagePopulation": {
           "aa": {
             "_populationPercent": "42"
@@ -1482,9 +1485,9 @@
         }
       },
       "DK": {
-        "_gdp": "286800000000",
+        "_gdp": "287800000000",
         "_literacyPercent": "99",
-        "_population": "5605950",
+        "_population": "5809500",
         "languagePopulation": {
           "da": {
             "_populationPercent": "93",
@@ -1513,9 +1516,9 @@
         }
       },
       "DM": {
-        "_gdp": "785000000",
+        "_gdp": "783000000",
         "_literacyPercent": "94",
-        "_population": "73897",
+        "_population": "74027",
         "languagePopulation": {
           "en": {
             "_populationPercent": "94",
@@ -1524,12 +1527,12 @@
         }
       },
       "DO": {
-        "_gdp": "172400000000",
+        "_gdp": "173000000000",
         "_literacyPercent": "90.1",
-        "_population": "10734200",
+        "_population": "10298800",
         "languagePopulation": {
           "en": {
-            "_populationPercent": "0.075"
+            "_populationPercent": "0.078"
           },
           "es": {
             "_populationPercent": "78",
@@ -1538,9 +1541,9 @@
         }
       },
       "DZ": {
-        "_gdp": "632900000000",
+        "_gdp": "630000000000",
         "_literacyPercent": "72.6",
-        "_population": "40969400",
+        "_population": "41657500",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "74",
@@ -1563,7 +1566,7 @@
         }
       },
       "EA": {
-        "_gdp": "5435000000",
+        "_gdp": "5406000000",
         "_literacyPercent": "97.7",
         "_population": "150000",
         "languagePopulation": {
@@ -1574,9 +1577,9 @@
         }
       },
       "EC": {
-        "_gdp": "192600000000",
+        "_gdp": "193000000000",
         "_literacyPercent": "91.6",
-        "_population": "16290900",
+        "_population": "16498500",
         "languagePopulation": {
           "es": {
             "_populationPercent": "96",
@@ -1592,9 +1595,9 @@
         }
       },
       "EE": {
-        "_gdp": "41560000000",
+        "_gdp": "41650000000",
         "_literacyPercent": "99.8",
-        "_population": "1251580",
+        "_population": "1244290",
         "languagePopulation": {
           "en": {
             "_populationPercent": "50"
@@ -1615,9 +1618,9 @@
         }
       },
       "EG": {
-        "_gdp": "1201000000000",
+        "_gdp": "1204000000000",
         "_literacyPercent": "73.9",
-        "_population": "97041100",
+        "_population": "99413300",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "94",
@@ -1637,7 +1640,7 @@
       "EH": {
         "_gdp": "906500000",
         "_literacyPercent": "50",
-        "_population": "603253",
+        "_population": "619551",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "100",
@@ -1646,9 +1649,9 @@
         }
       },
       "ER": {
-        "_gdp": "9382000000",
+        "_gdp": "9402000000",
         "_literacyPercent": "68.9",
-        "_population": "5918920",
+        "_population": "5970650",
         "languagePopulation": {
           "aa": {
             "_populationPercent": "3.6"
@@ -1678,9 +1681,9 @@
         }
       },
       "ES": {
-        "_gdp": "1774000000000",
+        "_gdp": "1778000000000",
         "_literacyPercent": "97.7",
-        "_population": "48958200",
+        "_population": "49331100",
         "languagePopulation": {
           "ast": {
             "_populationPercent": "1.3",
@@ -1711,9 +1714,9 @@
         }
       },
       "ET": {
-        "_gdp": "200200000000",
+        "_gdp": "200600000000",
         "_literacyPercent": "39",
-        "_population": "105350000",
+        "_population": "108386000",
         "languagePopulation": {
           "aa": {
             "_populationPercent": "1.4"
@@ -1743,9 +1746,9 @@
         }
       },
       "FI": {
-        "_gdp": "244000000000",
+        "_gdp": "244900000000",
         "_literacyPercent": "100",
-        "_population": "5518370",
+        "_population": "5537360",
         "languagePopulation": {
           "de": {
             "_populationPercent": "18"
@@ -1761,7 +1764,7 @@
             "_officialStatus": "official"
           },
           "rmf": {
-            "_populationPercent": "0.091"
+            "_populationPercent": "0.09"
           },
           "ru": {
             "_populationPercent": "0.81"
@@ -1782,9 +1785,9 @@
         }
       },
       "FJ": {
-        "_gdp": "8652000000",
+        "_gdp": "8629000000",
         "_literacyPercent": "93.7",
-        "_population": "920938",
+        "_population": "926276",
         "languagePopulation": {
           "en": {
             "_populationPercent": "94",
@@ -1809,18 +1812,18 @@
       "FK": {
         "_gdp": "206400000",
         "_literacyPercent": "99",
-        "_population": "2931",
+        "_population": "3198",
         "languagePopulation": {
           "en": {
-            "_populationPercent": "96",
+            "_populationPercent": "88",
             "_officialStatus": "official"
           }
         }
       },
       "FM": {
-        "_gdp": "347000000",
+        "_gdp": "348000000",
         "_literacyPercent": "89",
-        "_population": "104196",
+        "_population": "103643",
         "languagePopulation": {
           "chk": {
             "_populationPercent": "30"
@@ -1839,14 +1842,14 @@
             "_populationPercent": "2.9"
           },
           "yap": {
-            "_populationPercent": "6.3"
+            "_populationPercent": "6.4"
           }
         }
       },
       "FO": {
         "_gdp": "2001000000",
         "_literacyPercent": "99",
-        "_population": "50730",
+        "_population": "51018",
         "languagePopulation": {
           "fo": {
             "_populationPercent": "95",
@@ -1855,9 +1858,9 @@
         }
       },
       "FR": {
-        "_gdp": "2836000000000",
+        "_gdp": "2856000000000",
         "_literacyPercent": "99",
-        "_population": "67106200",
+        "_population": "67364400",
         "languagePopulation": {
           "br": {
             "_populationPercent": "0.83",
@@ -1915,9 +1918,9 @@
         }
       },
       "GA": {
-        "_gdp": "36730000000",
+        "_gdp": "36660000000",
         "_literacyPercent": "89",
-        "_population": "1772260",
+        "_population": "2119040",
         "languagePopulation": {
           "fr": {
             "_populationPercent": "63",
@@ -1929,9 +1932,9 @@
         }
       },
       "GB": {
-        "_gdp": "2914000000000",
+        "_gdp": "2925000000000",
         "_literacyPercent": "99",
-        "_population": "64769500",
+        "_population": "65105200",
         "languagePopulation": {
           "bn": {
             "_populationPercent": "0.67"
@@ -1993,9 +1996,9 @@
         }
       },
       "GD": {
-        "_gdp": "1606000000",
+        "_gdp": "1634000000",
         "_literacyPercent": "96",
-        "_population": "111724",
+        "_population": "112207",
         "languagePopulation": {
           "en": {
             "_populationPercent": "96",
@@ -2004,9 +2007,9 @@
         }
       },
       "GE": {
-        "_gdp": "39700000000",
+        "_gdp": "39850000000",
         "_literacyPercent": "99.7",
-        "_population": "4926330",
+        "_population": "4926090",
         "languagePopulation": {
           "ab": {
             "_populationPercent": "2.2",
@@ -2054,7 +2057,7 @@
       "GG": {
         "_gdp": "3465000000",
         "_literacyPercent": "100",
-        "_population": "66502",
+        "_population": "66697",
         "languagePopulation": {
           "en": {
             "_populationPercent": "100",
@@ -2063,9 +2066,9 @@
         }
       },
       "GH": {
-        "_gdp": "133700000000",
+        "_gdp": "134000000000",
         "_literacyPercent": "71.5",
-        "_population": "27499900",
+        "_population": "28102500",
         "languagePopulation": {
           "abr": {
             "_populationPercent": "5"
@@ -2105,14 +2108,14 @@
             "_populationPercent": "1"
           },
           "saf": {
-            "_populationPercent": "0.015"
+            "_populationPercent": "0.014"
           }
         }
       },
       "GI": {
         "_gdp": "2044000000",
         "_literacyPercent": "80",
-        "_population": "29396",
+        "_population": "29461",
         "languagePopulation": {
           "en": {
             "_populationPercent": "80",
@@ -2126,7 +2129,7 @@
       "GL": {
         "_gdp": "2413000000",
         "_literacyPercent": "100",
-        "_population": "57713",
+        "_population": "57691",
         "languagePopulation": {
           "da": {
             "_populationPercent": "14"
@@ -2138,9 +2141,9 @@
         }
       },
       "GM": {
-        "_gdp": "3602000000",
+        "_gdp": "5556000000",
         "_literacyPercent": "51.1",
-        "_population": "2051360",
+        "_population": "2092730",
         "languagePopulation": {
           "en": {
             "_populationPercent": "40",
@@ -2158,9 +2161,9 @@
         }
       },
       "GN": {
-        "_gdp": "26470000000",
+        "_gdp": "27970000000",
         "_literacyPercent": "41",
-        "_population": "12413900",
+        "_population": "11855400",
         "languagePopulation": {
           "ff": {
             "_populationPercent": "26"
@@ -2198,9 +2201,9 @@
         }
       },
       "GQ": {
-        "_gdp": "30350000000",
+        "_gdp": "31520000000",
         "_literacyPercent": "94.2",
-        "_population": "778358",
+        "_population": "797457",
         "languagePopulation": {
           "bvb": {
             "_populationPercent": "7.9"
@@ -2223,9 +2226,9 @@
         }
       },
       "GR": {
-        "_gdp": "298700000000",
+        "_gdp": "299300000000",
         "_literacyPercent": "97.3",
-        "_population": "10768500",
+        "_population": "10761500",
         "languagePopulation": {
           "bg": {
             "_populationPercent": "0.27"
@@ -2261,7 +2264,7 @@
         }
       },
       "GS": {
-        "_gdp": "899800",
+        "_gdp": "898500",
         "_literacyPercent": "99",
         "_population": "20",
         "languagePopulation": {
@@ -2272,9 +2275,9 @@
         }
       },
       "GT": {
-        "_gdp": "137800000000",
+        "_gdp": "138100000000",
         "_literacyPercent": "75.9",
-        "_population": "15460700",
+        "_population": "16581300",
         "languagePopulation": {
           "es": {
             "_populationPercent": "93",
@@ -2289,7 +2292,7 @@
       "GU": {
         "_gdp": "5793000000",
         "_literacyPercent": "99",
-        "_population": "167358",
+        "_population": "167772",
         "languagePopulation": {
           "ch": {
             "_populationPercent": "22",
@@ -2302,9 +2305,9 @@
         }
       },
       "GW": {
-        "_gdp": "3137000000",
+        "_gdp": "3171000000",
         "_literacyPercent": "55.3",
-        "_population": "1792340",
+        "_population": "1833250",
         "languagePopulation": {
           "ff": {
             "_populationPercent": "0.0001"
@@ -2322,9 +2325,9 @@
         }
       },
       "GY": {
-        "_gdp": "6287000000",
+        "_gdp": "6301000000",
         "_literacyPercent": "91.8",
-        "_population": "737718",
+        "_population": "740685",
         "languagePopulation": {
           "en": {
             "_populationPercent": "100",
@@ -2333,9 +2336,9 @@
         }
       },
       "HK": {
-        "_gdp": "454900000000",
+        "_gdp": "455900000000",
         "_literacyPercent": "93.5",
-        "_population": "7191500",
+        "_population": "7213340",
         "languagePopulation": {
           "en": {
             "_populationPercent": "51",
@@ -2354,7 +2357,7 @@
         }
       },
       "HM": {
-        "_gdp": "53630",
+        "_gdp": "53170",
         "_literacyPercent": "99",
         "_population": "1",
         "languagePopulation": {
@@ -2365,9 +2368,9 @@
         }
       },
       "HN": {
-        "_gdp": "46200000000",
+        "_gdp": "46300000000",
         "_literacyPercent": "85.1",
-        "_population": "9038740",
+        "_population": "9182770",
         "languagePopulation": {
           "en": {
             "_populationPercent": "0.44"
@@ -2379,9 +2382,9 @@
         }
       },
       "HR": {
-        "_gdp": "101300000000",
+        "_gdp": "102100000000",
         "_literacyPercent": "98.9",
-        "_population": "4292100",
+        "_population": "4270480",
         "languagePopulation": {
           "en": {
             "_populationPercent": "49"
@@ -2397,9 +2400,9 @@
         }
       },
       "HT": {
-        "_gdp": "19930000000",
+        "_gdp": "19970000000",
         "_literacyPercent": "48.7",
-        "_population": "10646700",
+        "_population": "10788400",
         "languagePopulation": {
           "fr": {
             "_populationPercent": "4.7",
@@ -2413,9 +2416,9 @@
         }
       },
       "HU": {
-        "_gdp": "289000000000",
+        "_gdp": "289600000000",
         "_literacyPercent": "99",
-        "_population": "9850850",
+        "_population": "9825700",
         "languagePopulation": {
           "de": {
             "_populationPercent": "18"
@@ -2445,7 +2448,7 @@
         }
       },
       "IC": {
-        "_gdp": "76040000000",
+        "_gdp": "75640000000",
         "_literacyPercent": "97.7",
         "_population": "2098590",
         "languagePopulation": {
@@ -2456,9 +2459,9 @@
         }
       },
       "ID": {
-        "_gdp": "3243000000000",
+        "_gdp": "3250000000000",
         "_literacyPercent": "92.8",
-        "_population": "260581000",
+        "_population": "262787000",
         "languagePopulation": {
           "ace": {
             "_populationPercent": "1.4"
@@ -2557,9 +2560,9 @@
         }
       },
       "IE": {
-        "_gdp": "357200000000",
+        "_gdp": "353300000000",
         "_literacyPercent": "99",
-        "_population": "5011100",
+        "_population": "5068050",
         "languagePopulation": {
           "en": {
             "_populationPercent": "98",
@@ -2575,9 +2578,9 @@
         }
       },
       "IL": {
-        "_gdp": "316500000000",
+        "_gdp": "317100000000",
         "_literacyPercent": "97.1",
-        "_population": "8299710",
+        "_population": "8424900",
         "languagePopulation": {
           "am": {
             "_populationPercent": "0.59"
@@ -2600,7 +2603,7 @@
             "_populationPercent": "1.3"
           },
           "ml": {
-            "_populationPercent": "0.096"
+            "_populationPercent": "0.095"
           },
           "pl": {
             "_populationPercent": "1.5"
@@ -2622,7 +2625,7 @@
       "IM": {
         "_gdp": "6792000000",
         "_literacyPercent": "99",
-        "_population": "88815",
+        "_population": "89407",
         "languagePopulation": {
           "en": {
             "_populationPercent": "100",
@@ -2635,9 +2638,9 @@
         }
       },
       "IN": {
-        "_gdp": "9459000000000",
+        "_gdp": "9474000000000",
         "_literacyPercent": "62.8",
-        "_population": "1281940000",
+        "_population": "1296830000",
         "languagePopulation": {
           "as": {
             "_populationPercent": "1.3",
@@ -2903,7 +2906,7 @@
         }
       },
       "IO": {
-        "_gdp": "157500000",
+        "_gdp": "157200000",
         "_literacyPercent": "99",
         "_population": "3500",
         "languagePopulation": {
@@ -2915,9 +2918,9 @@
         }
       },
       "IQ": {
-        "_gdp": "658800000000",
+        "_gdp": "649300000000",
         "_literacyPercent": "78.5",
-        "_population": "39192100",
+        "_population": "40194200",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "68",
@@ -2946,9 +2949,9 @@
         }
       },
       "IR": {
-        "_gdp": "1645000000000",
+        "_gdp": "1640000000000",
         "_literacyPercent": "85",
-        "_population": "82021600",
+        "_population": "83024700",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "2"
@@ -2974,7 +2977,7 @@
             "_officialStatus": "official"
           },
           "gbz": {
-            "_populationPercent": "0.0098"
+            "_populationPercent": "0.0096"
           },
           "glk": {
             "_populationPercent": "4.6"
@@ -2986,7 +2989,7 @@
             "_populationPercent": "0.071"
           },
           "kk_Arab": {
-            "_populationPercent": "0.0037"
+            "_populationPercent": "0.0036"
           },
           "lki": {
             "_populationPercent": "0.76"
@@ -3020,12 +3023,12 @@
         }
       },
       "IS": {
-        "_gdp": "17620000000",
+        "_gdp": "18180000000",
         "_literacyPercent": "99",
-        "_population": "339747",
+        "_population": "343518",
         "languagePopulation": {
           "da": {
-            "_populationPercent": "0.66"
+            "_populationPercent": "0.65"
           },
           "is": {
             "_populationPercent": "100",
@@ -3034,9 +3037,9 @@
         }
       },
       "IT": {
-        "_gdp": "2311000000000",
+        "_gdp": "2317000000000",
         "_literacyPercent": "99",
-        "_population": "62137800",
+        "_population": "62246700",
         "languagePopulation": {
           "ca": {
             "_populationPercent": "0.035"
@@ -3105,7 +3108,7 @@
       "JE": {
         "_gdp": "5569000000",
         "_literacyPercent": "99",
-        "_population": "98840",
+        "_population": "99602",
         "languagePopulation": {
           "en": {
             "_populationPercent": "95",
@@ -3116,7 +3119,7 @@
       "JM": {
         "_gdp": "26060000000",
         "_literacyPercent": "87",
-        "_population": "2990560",
+        "_population": "2812090",
         "languagePopulation": {
           "en": {
             "_populationPercent": "98",
@@ -3128,9 +3131,9 @@
         }
       },
       "JO": {
-        "_gdp": "89100000000",
+        "_gdp": "89000000000",
         "_literacyPercent": "95.9",
-        "_population": "10248100",
+        "_population": "10458400",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "100",
@@ -3142,9 +3145,9 @@
         }
       },
       "JP": {
-        "_gdp": "5429000000000",
+        "_gdp": "5443000000000",
         "_literacyPercent": "99",
-        "_population": "126451000",
+        "_population": "126168000",
         "languagePopulation": {
           "ja": {
             "_populationPercent": "95",
@@ -3160,9 +3163,9 @@
         }
       },
       "KE": {
-        "_gdp": "163100000000",
+        "_gdp": "163700000000",
         "_literacyPercent": "87.4",
-        "_population": "47615700",
+        "_population": "48397500",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "0.046"
@@ -3180,7 +3183,7 @@
             "_officialStatus": "official"
           },
           "gu": {
-            "_populationPercent": "0.011"
+            "_populationPercent": "0.01"
           },
           "guz": {
             "_populationPercent": "4.9"
@@ -3234,9 +3237,9 @@
         }
       },
       "KG": {
-        "_gdp": "22970000000",
+        "_gdp": "23150000000",
         "_literacyPercent": "99.2",
-        "_population": "5789120",
+        "_population": "5849300",
         "languagePopulation": {
           "ky": {
             "_populationPercent": "48",
@@ -3249,9 +3252,9 @@
         }
       },
       "KH": {
-        "_gdp": "64250000000",
+        "_gdp": "64210000000",
         "_literacyPercent": "73.9",
-        "_population": "16204500",
+        "_population": "16449500",
         "languagePopulation": {
           "cja": {
             "_populationPercent": "1.6"
@@ -3266,9 +3269,9 @@
         }
       },
       "KI": {
-        "_gdp": "226000000",
+        "_gdp": "227000000",
         "_literacyPercent": "90",
-        "_population": "108145",
+        "_population": "109367",
         "languagePopulation": {
           "en": {
             "_populationPercent": "100",
@@ -3281,9 +3284,9 @@
         }
       },
       "KM": {
-        "_gdp": "1313000000",
+        "_gdp": "1319000000",
         "_literacyPercent": "75.5",
-        "_population": "808080",
+        "_population": "821164",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "66",
@@ -3304,9 +3307,9 @@
         }
       },
       "KN": {
-        "_gdp": "1528000000",
+        "_gdp": "1550000000",
         "_literacyPercent": "97.8",
-        "_population": "52715",
+        "_population": "53094",
         "languagePopulation": {
           "en": {
             "_populationPercent": "98",
@@ -3317,7 +3320,7 @@
       "KP": {
         "_gdp": "40000000000",
         "_literacyPercent": "100",
-        "_population": "25248100",
+        "_population": "25381100",
         "languagePopulation": {
           "ko": {
             "_populationPercent": "88",
@@ -3326,9 +3329,9 @@
         }
       },
       "KR": {
-        "_gdp": "2029000000000",
+        "_gdp": "2035000000000",
         "_literacyPercent": "97.9",
-        "_population": "51181300",
+        "_population": "51418100",
         "languagePopulation": {
           "ko": {
             "_populationPercent": "100",
@@ -3337,9 +3340,9 @@
         }
       },
       "KW": {
-        "_gdp": "291500000000",
+        "_gdp": "289700000000",
         "_literacyPercent": "93.9",
-        "_population": "2875420",
+        "_population": "2916470",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "100",
@@ -3350,7 +3353,7 @@
       "KY": {
         "_gdp": "2507000000",
         "_literacyPercent": "98.9",
-        "_population": "58441",
+        "_population": "59613",
         "languagePopulation": {
           "en": {
             "_populationPercent": "98",
@@ -3359,9 +3362,9 @@
         }
       },
       "KZ": {
-        "_gdp": "477600000000",
+        "_gdp": "478600000000",
         "_literacyPercent": "99.7",
-        "_population": "18556700",
+        "_population": "18744500",
         "languagePopulation": {
           "de": {
             "_populationPercent": "6.4"
@@ -3383,9 +3386,9 @@
         }
       },
       "LA": {
-        "_gdp": "49210000000",
+        "_gdp": "49340000000",
         "_literacyPercent": "72.7",
-        "_population": "7126710",
+        "_population": "7234170",
         "languagePopulation": {
           "kdt": {
             "_populationPercent": "0.96"
@@ -3400,9 +3403,9 @@
         }
       },
       "LB": {
-        "_gdp": "87680000000",
+        "_gdp": "88250000000",
         "_literacyPercent": "89.6",
-        "_population": "6229790",
+        "_population": "6100080",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "86",
@@ -3423,9 +3426,9 @@
         }
       },
       "LC": {
-        "_gdp": "2536000000",
+        "_gdp": "2542000000",
         "_literacyPercent": "90.1",
-        "_population": "164994",
+        "_population": "165510",
         "languagePopulation": {
           "en": {
             "_populationPercent": "90",
@@ -3436,7 +3439,7 @@
       "LI": {
         "_gdp": "4978000000",
         "_literacyPercent": "100",
-        "_population": "38244",
+        "_population": "38547",
         "languagePopulation": {
           "de": {
             "_populationPercent": "100",
@@ -3453,9 +3456,9 @@
         }
       },
       "LK": {
-        "_gdp": "274700000000",
+        "_gdp": "275800000000",
         "_literacyPercent": "91.2",
-        "_population": "22409400",
+        "_population": "22576600",
         "languagePopulation": {
           "en": {
             "_populationPercent": "10"
@@ -3471,9 +3474,9 @@
         }
       },
       "LR": {
-        "_gdp": "6099000000",
+        "_gdp": "6112000000",
         "_literacyPercent": "60.8",
-        "_population": "4689020",
+        "_population": "4809770",
         "languagePopulation": {
           "en": {
             "_populationPercent": "83",
@@ -3500,9 +3503,9 @@
         }
       },
       "LS": {
-        "_gdp": "6955000000",
+        "_gdp": "6656000000",
         "_literacyPercent": "89.6",
-        "_population": "1958040",
+        "_population": "1962460",
         "languagePopulation": {
           "en": {
             "_populationPercent": "27",
@@ -3524,9 +3527,9 @@
         }
       },
       "LT": {
-        "_gdp": "91240000000",
+        "_gdp": "91470000000",
         "_literacyPercent": "99.7",
-        "_population": "2823860",
+        "_population": "2793280",
         "languagePopulation": {
           "de": {
             "_populationPercent": "14"
@@ -3547,9 +3550,9 @@
         }
       },
       "LU": {
-        "_gdp": "62730000000",
+        "_gdp": "62110000000",
         "_literacyPercent": "100",
-        "_population": "594130",
+        "_population": "605764",
         "languagePopulation": {
           "de": {
             "_populationPercent": "63",
@@ -3573,9 +3576,9 @@
         }
       },
       "LV": {
-        "_gdp": "53910000000",
+        "_gdp": "54020000000",
         "_literacyPercent": "99.8",
-        "_population": "1944640",
+        "_population": "1923560",
         "languagePopulation": {
           "en": {
             "_populationPercent": "46"
@@ -3593,9 +3596,9 @@
         }
       },
       "LY": {
-        "_gdp": "64400000000",
+        "_gdp": "61970000000",
         "_literacyPercent": "89.5",
-        "_population": "6653210",
+        "_population": "6754510",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "74",
@@ -3606,7 +3609,7 @@
       "MA": {
         "_gdp": "298600000000",
         "_literacyPercent": "67.1",
-        "_population": "33986700",
+        "_population": "34314100",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "62",
@@ -3652,7 +3655,7 @@
       "MC": {
         "_gdp": "7672000000",
         "_literacyPercent": "99",
-        "_population": "30645",
+        "_population": "30727",
         "languagePopulation": {
           "fr": {
             "_populationPercent": "99",
@@ -3661,9 +3664,9 @@
         }
       },
       "MD": {
-        "_gdp": "20080000000",
+        "_gdp": "23720000000",
         "_literacyPercent": "99",
-        "_population": "3474120",
+        "_population": "3437720",
         "languagePopulation": {
           "bg": {
             "_populationPercent": "9.4"
@@ -3684,9 +3687,9 @@
         }
       },
       "ME": {
-        "_gdp": "11050000000",
+        "_gdp": "11080000000",
         "_literacyPercent": "98.5",
-        "_population": "642550",
+        "_population": "614249",
         "languagePopulation": {
           "sq": {
             "_populationPercent": "7.9"
@@ -3703,7 +3706,7 @@
       "MF": {
         "_gdp": "561500000",
         "_literacyPercent": "99",
-        "_population": "32125",
+        "_population": "32284",
         "languagePopulation": {
           "fr": {
             "_populationPercent": "100",
@@ -3712,9 +3715,9 @@
         }
       },
       "MG": {
-        "_gdp": "39730000000",
+        "_gdp": "39850000000",
         "_literacyPercent": "64.5",
-        "_population": "25054200",
+        "_population": "25683600",
         "languagePopulation": {
           "en": {
             "_populationPercent": "18",
@@ -3731,9 +3734,9 @@
         }
       },
       "MH": {
-        "_gdp": "189000000",
+        "_gdp": "196000000",
         "_literacyPercent": "93.7",
-        "_population": "74539",
+        "_population": "75684",
         "languagePopulation": {
           "en": {
             "_populationPercent": "93",
@@ -3746,9 +3749,9 @@
         }
       },
       "MK": {
-        "_gdp": "30960000000",
+        "_gdp": "31030000000",
         "_literacyPercent": "97.4",
-        "_population": "2103720",
+        "_population": "2118950",
         "languagePopulation": {
           "mk": {
             "_populationPercent": "67",
@@ -3764,9 +3767,9 @@
         }
       },
       "ML": {
-        "_gdp": "41000000000",
+        "_gdp": "41220000000",
         "_literacyPercent": "33.4",
-        "_population": "17885200",
+        "_population": "18429900",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "0.89"
@@ -3814,15 +3817,15 @@
         }
       },
       "MM": {
-        "_gdp": "328700000000",
+        "_gdp": "329800000000",
         "_literacyPercent": "92.7",
-        "_population": "55123800",
+        "_population": "55622500",
         "languagePopulation": {
           "kac": {
             "_populationPercent": "1.7"
           },
           "kht": {
-            "_populationPercent": "0.0077"
+            "_populationPercent": "0.0076"
           },
           "mnw": {
             "_populationPercent": "1.5"
@@ -3837,9 +3840,9 @@
         }
       },
       "MN": {
-        "_gdp": "39700000000",
+        "_gdp": "39730000000",
         "_literacyPercent": "97.4",
-        "_population": "3068240",
+        "_population": "3103430",
         "languagePopulation": {
           "kk_Arab": {
             "_populationPercent": "7.2"
@@ -3852,7 +3855,7 @@
             "_populationPercent": "0.13"
           },
           "ug_Cyrl": {
-            "_populationPercent": "0.033"
+            "_populationPercent": "0.032"
           },
           "zh": {
             "_populationPercent": "1.4"
@@ -3860,9 +3863,9 @@
         }
       },
       "MO": {
-        "_gdp": "71780000000",
+        "_gdp": "71820000000",
         "_literacyPercent": "95.6",
-        "_population": "601969",
+        "_population": "606340",
         "languagePopulation": {
           "en": {
             "_populationPercent": "2.3"
@@ -3883,7 +3886,7 @@
       "MP": {
         "_gdp": "1242000000",
         "_literacyPercent": "97",
-        "_population": "52263",
+        "_population": "51994",
         "languagePopulation": {
           "ch": {
             "_populationPercent": "18"
@@ -3906,9 +3909,9 @@
         }
       },
       "MR": {
-        "_gdp": "17250000000",
+        "_gdp": "17280000000",
         "_literacyPercent": "58.6",
-        "_population": "3758570",
+        "_population": "3840430",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "85",
@@ -3924,14 +3927,14 @@
             "_populationPercent": "17"
           },
           "wo": {
-            "_populationPercent": "0.27"
+            "_populationPercent": "0.26"
           }
         }
       },
       "MS": {
         "_gdp": "167400000",
         "_literacyPercent": "97",
-        "_population": "5292",
+        "_population": "5315",
         "languagePopulation": {
           "en": {
             "_populationPercent": "66",
@@ -3940,9 +3943,9 @@
         }
       },
       "MT": {
-        "_gdp": "19310000000",
+        "_gdp": "19260000000",
         "_literacyPercent": "92.4",
-        "_population": "416338",
+        "_population": "449043",
         "languagePopulation": {
           "en": {
             "_populationPercent": "88",
@@ -3961,9 +3964,9 @@
         }
       },
       "MU": {
-        "_gdp": "27460000000",
+        "_gdp": "28270000000",
         "_literacyPercent": "88.8",
-        "_population": "1356390",
+        "_population": "1364280",
         "languagePopulation": {
           "bho": {
             "_populationPercent": "27"
@@ -3988,9 +3991,9 @@
         }
       },
       "MV": {
-        "_gdp": "6887000000",
+        "_gdp": "6901000000",
         "_literacyPercent": "98.4",
-        "_population": "392709",
+        "_population": "392473",
         "languagePopulation": {
           "dv": {
             "_populationPercent": "94",
@@ -3999,9 +4002,9 @@
         }
       },
       "MW": {
-        "_gdp": "22370000000",
+        "_gdp": "22420000000",
         "_literacyPercent": "74.8",
-        "_population": "19196200",
+        "_population": "19842600",
         "languagePopulation": {
           "en": {
             "_populationPercent": "63",
@@ -4023,9 +4026,9 @@
         }
       },
       "MX": {
-        "_gdp": "2458000000000",
+        "_gdp": "2463000000000",
         "_literacyPercent": "93.5",
-        "_population": "124575000",
+        "_population": "125959000",
         "languagePopulation": {
           "en": {
             "_populationPercent": "13"
@@ -4055,9 +4058,9 @@
         }
       },
       "MY": {
-        "_gdp": "930800000000",
+        "_gdp": "933300000000",
         "_literacyPercent": "93.1",
-        "_population": "31382000",
+        "_population": "31809700",
         "languagePopulation": {
           "bjn": {
             "_populationPercent": "0.016"
@@ -4096,9 +4099,9 @@
         }
       },
       "MZ": {
-        "_gdp": "36730000000",
+        "_gdp": "37090000000",
         "_literacyPercent": "56.1",
-        "_population": "26573700",
+        "_population": "27233800",
         "languagePopulation": {
           "mgh": {
             "_populationPercent": "4.5"
@@ -4123,7 +4126,7 @@
             "_populationPercent": "4.6"
           },
           "sw": {
-            "_populationPercent": "0.035"
+            "_populationPercent": "0.034"
           },
           "ts": {
             "_populationPercent": "7.9"
@@ -4135,14 +4138,14 @@
             "_populationPercent": "2.4"
           },
           "zu": {
-            "_populationPercent": "0.0068"
+            "_populationPercent": "0.0066"
           }
         }
       },
       "NA": {
-        "_gdp": "26510000000",
+        "_gdp": "26600000000",
         "_literacyPercent": "88.8",
-        "_population": "2484780",
+        "_population": "2533220",
         "languagePopulation": {
           "af": {
             "_populationPercent": "75"
@@ -4174,7 +4177,7 @@
       "NC": {
         "_gdp": "11110000000",
         "_literacyPercent": "96.2",
-        "_population": "279070",
+        "_population": "282754",
         "languagePopulation": {
           "fr": {
             "_populationPercent": "96",
@@ -4183,9 +4186,9 @@
         }
       },
       "NE": {
-        "_gdp": "21840000000",
+        "_gdp": "21860000000",
         "_literacyPercent": "28.7",
-        "_population": "19245300",
+        "_population": "19866200",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "0.21"
@@ -4213,25 +4216,25 @@
             "_populationPercent": "6"
           },
           "twq": {
-            "_populationPercent": "0.042"
+            "_populationPercent": "0.04"
           }
         }
       },
       "NF": {
-        "_gdp": "118500000",
+        "_gdp": "92950000",
         "_literacyPercent": "99",
-        "_population": "2210",
+        "_population": "1748",
         "languagePopulation": {
           "en": {
-            "_populationPercent": "76",
+            "_populationPercent": "96",
             "_officialStatus": "official"
           }
         }
       },
       "NG": {
-        "_gdp": "1119000000000",
+        "_gdp": "1121000000000",
         "_literacyPercent": "61.3",
-        "_population": "190632000",
+        "_population": "203453000",
         "languagePopulation": {
           "amo": {
             "_populationPercent": "0.0088"
@@ -4294,9 +4297,9 @@
         }
       },
       "NI": {
-        "_gdp": "36380000000",
+        "_gdp": "36400000000",
         "_literacyPercent": "78",
-        "_population": "6025950",
+        "_population": "6085210",
         "languagePopulation": {
           "es": {
             "_populationPercent": "78",
@@ -4305,9 +4308,9 @@
         }
       },
       "NL": {
-        "_gdp": "916100000000",
+        "_gdp": "924400000000",
         "_literacyPercent": "99",
-        "_population": "17084700",
+        "_population": "17151200",
         "languagePopulation": {
           "de": {
             "_writingPercent": "5",
@@ -4354,9 +4357,9 @@
         }
       },
       "NO": {
-        "_gdp": "380000000000",
+        "_gdp": "381200000000",
         "_literacyPercent": "100",
-        "_population": "5320050",
+        "_population": "5372190",
         "languagePopulation": {
           "nb": {
             "_populationPercent": "100",
@@ -4373,9 +4376,9 @@
         }
       },
       "NP": {
-        "_gdp": "78590000000",
+        "_gdp": "79190000000",
         "_literacyPercent": "57.4",
-        "_population": "29384300",
+        "_population": "29717600",
         "languagePopulation": {
           "awa": {
             "_populationPercent": "2.2"
@@ -4401,11 +4404,8 @@
           "en": {
             "_populationPercent": "3"
           },
-          "ggn": {
-            "_populationPercent": "0.42"
-          },
           "gvr": {
-            "_populationPercent": "0.29"
+            "_populationPercent": "0.71"
           },
           "hi": {
             "_populationPercent": "0.42"
@@ -4414,7 +4414,7 @@
             "_populationPercent": "3.2"
           },
           "lep": {
-            "_populationPercent": "0.0096"
+            "_populationPercent": "0.0095"
           },
           "lif": {
             "_populationPercent": "1.1"
@@ -4440,7 +4440,7 @@
             "_literacyPercent": "67"
           },
           "taj": {
-            "_populationPercent": "3"
+            "_populationPercent": "3.43"
           },
           "tdg": {
             "_populationPercent": "1.3"
@@ -4460,9 +4460,6 @@
           "tkt": {
             "_populationPercent": "0.24"
           },
-          "tsf": {
-            "_populationPercent": "0.43"
-          },
           "unr_Deva": {
             "_populationPercent": "0.019"
           },
@@ -4472,9 +4469,9 @@
         }
       },
       "NR": {
-        "_gdp": "159000000",
+        "_gdp": "160000000",
         "_literacyPercent": "99",
-        "_population": "9642",
+        "_population": "9692",
         "languagePopulation": {
           "en": {
             "_populationPercent": "97",
@@ -4489,22 +4486,22 @@
       "NU": {
         "_gdp": "10010000",
         "_literacyPercent": "95",
-        "_population": "1626",
+        "_population": "1618",
         "languagePopulation": {
           "en": {
-            "_populationPercent": "69",
+            "_populationPercent": "70",
             "_officialStatus": "official"
           },
           "niu": {
-            "_populationPercent": "69",
+            "_populationPercent": "70",
             "_officialStatus": "official"
           }
         }
       },
       "NZ": {
-        "_gdp": "188600000000",
+        "_gdp": "189000000000",
         "_literacyPercent": "99",
-        "_population": "4510330",
+        "_population": "4545630",
         "languagePopulation": {
           "en": {
             "_populationPercent": "98",
@@ -4517,9 +4514,9 @@
         }
       },
       "OM": {
-        "_gdp": "186600000000",
+        "_gdp": "190100000000",
         "_literacyPercent": "86.9",
-        "_population": "3424390",
+        "_population": "3494120",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "81",
@@ -4534,9 +4531,9 @@
         }
       },
       "PA": {
-        "_gdp": "103900000000",
+        "_gdp": "104100000000",
         "_literacyPercent": "94.1",
-        "_population": "3753140",
+        "_population": "3800640",
         "languagePopulation": {
           "en": {
             "_populationPercent": "14"
@@ -4551,9 +4548,9 @@
         }
       },
       "PE": {
-        "_gdp": "424400000000",
+        "_gdp": "430300000000",
         "_literacyPercent": "89.6",
-        "_population": "31036700",
+        "_population": "31331200",
         "languagePopulation": {
           "ay": {
             "_populationPercent": "1.6"
@@ -4571,7 +4568,7 @@
       "PF": {
         "_gdp": "5490000000",
         "_literacyPercent": "98",
-        "_population": "287881",
+        "_population": "290373",
         "languagePopulation": {
           "fr": {
             "_populationPercent": "61",
@@ -4587,9 +4584,9 @@
         }
       },
       "PG": {
-        "_gdp": "30330000000",
+        "_gdp": "30190000000",
         "_literacyPercent": "62.4",
-        "_population": "6909700",
+        "_population": "7027330",
         "languagePopulation": {
           "en": {
             "_populationPercent": "50",
@@ -4608,9 +4605,9 @@
         }
       },
       "PH": {
-        "_gdp": "875600000000",
+        "_gdp": "877200000000",
         "_literacyPercent": "95.4",
-        "_population": "104256000",
+        "_population": "105893000",
         "languagePopulation": {
           "bhk": {
             "_populationPercent": "2.3"
@@ -4619,7 +4616,7 @@
             "_populationPercent": "3"
           },
           "bku": {
-            "_populationPercent": "0.0077"
+            "_populationPercent": "0.0076"
           },
           "bto": {
             "_populationPercent": "0.28"
@@ -4671,7 +4668,7 @@
             "_populationPercent": "2.3"
           },
           "tbw": {
-            "_populationPercent": "0.0096",
+            "_populationPercent": "0.0094",
             "_literacyPercent": "36"
           },
           "tsg": {
@@ -4688,9 +4685,9 @@
         }
       },
       "PK": {
-        "_gdp": "1057000000000",
+        "_gdp": "1061000000000",
         "_literacyPercent": "54.9",
-        "_population": "204925000",
+        "_population": "207863000",
         "languagePopulation": {
           "bal": {
             "_populationPercent": "3.7"
@@ -4768,9 +4765,9 @@
         }
       },
       "PL": {
-        "_gdp": "1121000000000",
+        "_gdp": "1126000000000",
         "_literacyPercent": "99.7",
-        "_population": "38476300",
+        "_population": "38420700",
         "languagePopulation": {
           "be": {
             "_populationPercent": "0.58"
@@ -4811,19 +4808,19 @@
       "PM": {
         "_gdp": "261300000",
         "_literacyPercent": "99",
-        "_population": "5533",
+        "_population": "5471",
         "languagePopulation": {
           "en": {
             "_populationPercent": "3.4"
           },
           "fr": {
-            "_populationPercent": "92",
+            "_populationPercent": "93",
             "_officialStatus": "official"
           }
         }
       },
       "PN": {
-        "_gdp": "2429000",
+        "_gdp": "2426000",
         "_literacyPercent": "99",
         "_population": "54",
         "languagePopulation": {
@@ -4834,9 +4831,9 @@
         }
       },
       "PR": {
-        "_gdp": "121000000000",
+        "_gdp": "130000000000",
         "_literacyPercent": "90.3",
-        "_population": "3351830",
+        "_population": "3294630",
         "languagePopulation": {
           "en": {
             "_populationPercent": "49",
@@ -4851,7 +4848,7 @@
       "PS": {
         "_gdp": "21220000000",
         "_literacyPercent": "95.3",
-        "_population": "4543130",
+        "_population": "4635210",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "100",
@@ -4860,9 +4857,9 @@
         }
       },
       "PT": {
-        "_gdp": "313400000000",
+        "_gdp": "314100000000",
         "_literacyPercent": "95.4",
-        "_population": "10839500",
+        "_population": "10355500",
         "languagePopulation": {
           "en": {
             "_populationPercent": "27"
@@ -4883,12 +4880,12 @@
         }
       },
       "PW": {
-        "_gdp": "291000000",
+        "_gdp": "264000000",
         "_literacyPercent": "92",
-        "_population": "21431",
+        "_population": "21516",
         "languagePopulation": {
           "en": {
-            "_populationPercent": "8.8",
+            "_populationPercent": "8.7",
             "_officialStatus": "official"
           },
           "pau": {
@@ -4898,9 +4895,9 @@
         }
       },
       "PY": {
-        "_gdp": "68330000000",
+        "_gdp": "88910000000",
         "_literacyPercent": "93.9",
-        "_population": "6943740",
+        "_population": "7025760",
         "languagePopulation": {
           "de": {
             "_populationPercent": "2.9"
@@ -4916,9 +4913,9 @@
         }
       },
       "QA": {
-        "_gdp": "340600000000",
+        "_gdp": "339500000000",
         "_literacyPercent": "96.3",
-        "_population": "2314310",
+        "_population": "2363570",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "89",
@@ -4950,9 +4947,9 @@
         }
       },
       "RO": {
-        "_gdp": "481500000000",
+        "_gdp": "483400000000",
         "_literacyPercent": "97.7",
-        "_population": "21530000",
+        "_population": "21457100",
         "languagePopulation": {
           "bg": {
             "_populationPercent": "0.031"
@@ -4991,9 +4988,9 @@
         }
       },
       "RS": {
-        "_gdp": "105500000000",
+        "_gdp": "105700000000",
         "_literacyPercent": "98",
-        "_population": "7111020",
+        "_population": "7078110",
         "languagePopulation": {
           "hr": {
             "_populationPercent": "0.93",
@@ -5030,9 +5027,9 @@
         }
       },
       "RU": {
-        "_gdp": "4008000000000",
+        "_gdp": "4016000000000",
         "_literacyPercent": "99.7",
-        "_population": "142258000",
+        "_population": "142123000",
         "languagePopulation": {
           "ady": {
             "_populationPercent": "0.088",
@@ -5166,9 +5163,9 @@
         }
       },
       "RW": {
-        "_gdp": "24630000000",
+        "_gdp": "24680000000",
         "_literacyPercent": "71.1",
-        "_population": "11901500",
+        "_population": "12187400",
         "languagePopulation": {
           "en": {
             "_populationPercent": "15",
@@ -5185,9 +5182,9 @@
         }
       },
       "SA": {
-        "_gdp": "1774000000000",
+        "_gdp": "1775000000000",
         "_literacyPercent": "87.2",
-        "_population": "28571800",
+        "_population": "33091100",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "100",
@@ -5196,9 +5193,9 @@
         }
       },
       "SB": {
-        "_gdp": "1324000000",
+        "_gdp": "1330000000",
         "_literacyPercent": "84.1",
-        "_population": "647581",
+        "_population": "660121",
         "languagePopulation": {
           "en": {
             "_populationPercent": "100",
@@ -5210,9 +5207,9 @@
         }
       },
       "SC": {
-        "_gdp": "2718000000",
+        "_gdp": "2750000000",
         "_literacyPercent": "91.8",
-        "_population": "93920",
+        "_population": "94633",
         "languagePopulation": {
           "crs": {
             "_populationPercent": "98"
@@ -5228,9 +5225,9 @@
         }
       },
       "SD": {
-        "_gdp": "187000000000",
+        "_gdp": "177400000000",
         "_literacyPercent": "71.9",
-        "_population": "37345900",
+        "_population": "43120800",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "61",
@@ -5261,9 +5258,9 @@
         }
       },
       "SE": {
-        "_gdp": "520900000000",
+        "_gdp": "518000000000",
         "_literacyPercent": "99",
-        "_population": "9960490",
+        "_population": "10041000",
         "languagePopulation": {
           "en": {
             "_populationPercent": "86"
@@ -5301,9 +5298,9 @@
         }
       },
       "SG": {
-        "_gdp": "527000000000",
+        "_gdp": "528100000000",
         "_literacyPercent": "95.9",
-        "_population": "5888930",
+        "_population": "5995990",
         "languagePopulation": {
           "en": {
             "_populationPercent": "93",
@@ -5332,7 +5329,7 @@
       "SH": {
         "_gdp": "31100000",
         "_literacyPercent": "97",
-        "_population": "7828",
+        "_population": "7841",
         "languagePopulation": {
           "en": {
             "_populationPercent": "69",
@@ -5341,9 +5338,9 @@
         }
       },
       "SI": {
-        "_gdp": "71080000000",
+        "_gdp": "71230000000",
         "_literacyPercent": "99.7",
-        "_population": "1972130",
+        "_population": "2102130",
         "languagePopulation": {
           "de": {
             "_populationPercent": "42"
@@ -5355,10 +5352,10 @@
             "_populationPercent": "61"
           },
           "hu": {
-            "_populationPercent": "0.47"
+            "_populationPercent": "0.44"
           },
           "it": {
-            "_populationPercent": "0.2"
+            "_populationPercent": "0.19"
           },
           "sl": {
             "_populationPercent": "87",
@@ -5367,23 +5364,23 @@
         }
       },
       "SJ": {
-        "_gdp": "190500000",
+        "_gdp": "183300000",
         "_literacyPercent": "100",
-        "_population": "2667",
+        "_population": "2583",
         "languagePopulation": {
           "nb": {
-            "_populationPercent": "56",
+            "_populationPercent": "58",
             "_officialStatus": "official"
           },
           "ru": {
-            "_populationPercent": "45"
+            "_populationPercent": "46"
           }
         }
       },
       "SK": {
-        "_gdp": "179400000000",
+        "_gdp": "179700000000",
         "_literacyPercent": "99.6",
-        "_population": "5445830",
+        "_population": "5445040",
         "languagePopulation": {
           "cs": {
             "_populationPercent": "47"
@@ -5410,9 +5407,9 @@
         }
       },
       "SL": {
-        "_gdp": "11500000000",
+        "_gdp": "11550000000",
         "_literacyPercent": "43.3",
-        "_population": "6163200",
+        "_population": "6312210",
         "languagePopulation": {
           "en": {
             "_populationPercent": "35",
@@ -5437,9 +5434,9 @@
         }
       },
       "SM": {
-        "_gdp": "2052000000",
+        "_gdp": "2064000000",
         "_literacyPercent": "96",
-        "_population": "33537",
+        "_population": "33779",
         "languagePopulation": {
           "eo": {
             "_populationPercent": "0.89"
@@ -5451,9 +5448,9 @@
         }
       },
       "SN": {
-        "_gdp": "43240000000",
+        "_gdp": "54800000000",
         "_literacyPercent": "49.7",
-        "_population": "14668500",
+        "_population": "15020900",
         "languagePopulation": {
           "bjt": {
             "_populationPercent": "0.61",
@@ -5488,7 +5485,7 @@
             "_officialStatus": "official_regional"
           },
           "mey": {
-            "_populationPercent": "0.049",
+            "_populationPercent": "0.048",
             "_literacyPercent": "10",
             "_officialStatus": "official_regional"
           },
@@ -5522,9 +5519,9 @@
         }
       },
       "SO": {
-        "_gdp": "18660000000",
+        "_gdp": "20440000000",
         "_literacyPercent": "37.8",
-        "_population": "11031400",
+        "_population": "11259000",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "34",
@@ -5544,9 +5541,9 @@
         }
       },
       "SR": {
-        "_gdp": "8508000000",
+        "_gdp": "8688000000",
         "_literacyPercent": "94.7",
-        "_population": "591919",
+        "_population": "597927",
         "languagePopulation": {
           "nl": {
             "_populationPercent": "90",
@@ -5562,9 +5559,9 @@
         }
       },
       "SS": {
-        "_gdp": "18740000000",
+        "_gdp": "20010000000",
         "_literacyPercent": "27",
-        "_population": "13026100",
+        "_population": "10204600",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "27"
@@ -5579,9 +5576,9 @@
         }
       },
       "ST": {
-        "_gdp": "676000000",
+        "_gdp": "686000000",
         "_literacyPercent": "69.5",
-        "_population": "201025",
+        "_population": "204454",
         "languagePopulation": {
           "pt": {
             "_populationPercent": "85",
@@ -5590,9 +5587,9 @@
         }
       },
       "SV": {
-        "_gdp": "56990000000",
+        "_gdp": "51170000000",
         "_literacyPercent": "84.5",
-        "_population": "6172010",
+        "_population": "6187270",
         "languagePopulation": {
           "es": {
             "_populationPercent": "89",
@@ -5603,28 +5600,28 @@
       "SX": {
         "_gdp": "365800000",
         "_literacyPercent": "99",
-        "_population": "42083",
+        "_population": "42677",
         "languagePopulation": {
           "en": {
             "_populationPercent": "68",
             "_officialStatus": "official"
           },
           "es": {
-            "_populationPercent": "12"
+            "_populationPercent": "11"
           },
           "nl": {
-            "_populationPercent": "3.8",
+            "_populationPercent": "3.7",
             "_officialStatus": "official"
           },
           "vic": {
-            "_populationPercent": "7.4"
+            "_populationPercent": "7.3"
           }
         }
       },
       "SY": {
         "_gdp": "50280000000",
         "_literacyPercent": "84.1",
-        "_population": "18028500",
+        "_population": "19454300",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "80",
@@ -5647,9 +5644,9 @@
         }
       },
       "SZ": {
-        "_gdp": "11340000000",
+        "_gdp": "11600000000",
         "_literacyPercent": "87.8",
-        "_population": "1467150",
+        "_population": "1087200",
         "languagePopulation": {
           "en": {
             "_populationPercent": "80",
@@ -5668,7 +5665,7 @@
         }
       },
       "TA": {
-        "_gdp": "12370000",
+        "_gdp": "12350000",
         "_literacyPercent": "99",
         "_population": "275",
         "languagePopulation": {
@@ -5680,7 +5677,7 @@
       "TC": {
         "_gdp": "632000000",
         "_literacyPercent": "98",
-        "_population": "52570",
+        "_population": "53701",
         "languagePopulation": {
           "en": {
             "_populationPercent": "98",
@@ -5689,9 +5686,9 @@
         }
       },
       "TD": {
-        "_gdp": "28560000000",
+        "_gdp": "28620000000",
         "_literacyPercent": "35.4",
-        "_population": "12076000",
+        "_population": "15833100",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "17",
@@ -5704,7 +5701,7 @@
         }
       },
       "TF": {
-        "_gdp": "5917000",
+        "_gdp": "5935000",
         "_literacyPercent": "99",
         "_population": "140",
         "languagePopulation": {
@@ -5715,9 +5712,9 @@
         }
       },
       "TG": {
-        "_gdp": "12940000000",
+        "_gdp": "12970000000",
         "_literacyPercent": "60.4",
-        "_population": "7965060",
+        "_population": "8176450",
         "languagePopulation": {
           "ee": {
             "_populationPercent": "17"
@@ -5733,9 +5730,9 @@
         }
       },
       "TH": {
-        "_gdp": "1234000000000",
+        "_gdp": "1236000000000",
         "_literacyPercent": "93.5",
-        "_population": "68414100",
+        "_population": "68615900",
         "languagePopulation": {
           "en": {
             "_populationPercent": "27"
@@ -5786,9 +5783,9 @@
         }
       },
       "TJ": {
-        "_gdp": "28380000000",
+        "_gdp": "28430000000",
         "_literacyPercent": "99.7",
-        "_population": "8468560",
+        "_population": "8604880",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "0.012"
@@ -5822,9 +5819,9 @@
         }
       },
       "TL": {
-        "_gdp": "6753000000",
+        "_gdp": "7426000000",
         "_literacyPercent": "58.3",
-        "_population": "1291360",
+        "_population": "1321930",
         "languagePopulation": {
           "pt": {
             "_populationPercent": "59",
@@ -5838,9 +5835,9 @@
         }
       },
       "TM": {
-        "_gdp": "103500000000",
+        "_gdp": "103700000000",
         "_literacyPercent": "99.6",
-        "_population": "5351280",
+        "_population": "5411010",
         "languagePopulation": {
           "ku": {
             "_populationPercent": "0.41"
@@ -5858,9 +5855,9 @@
         }
       },
       "TN": {
-        "_gdp": "135400000000",
+        "_gdp": "137700000000",
         "_literacyPercent": "79.1",
-        "_population": "11403800",
+        "_population": "11516200",
         "languagePopulation": {
           "aeb": {
             "_populationPercent": "90"
@@ -5876,9 +5873,9 @@
         }
       },
       "TO": {
-        "_gdp": "587000000",
+        "_gdp": "591000000",
         "_literacyPercent": "99",
-        "_population": "106479",
+        "_population": "106398",
         "languagePopulation": {
           "en": {
             "_populationPercent": "28",
@@ -5891,9 +5888,9 @@
         }
       },
       "TR": {
-        "_gdp": "2173000000000",
+        "_gdp": "2186000000000",
         "_literacyPercent": "94.1",
-        "_population": "80845200",
+        "_population": "81257200",
         "languagePopulation": {
           "ab": {
             "_populationPercent": "0.0049"
@@ -5969,9 +5966,9 @@
         }
       },
       "TT": {
-        "_gdp": "43010000000",
+        "_gdp": "42850000000",
         "_literacyPercent": "98.8",
-        "_population": "1218210",
+        "_population": "1215530",
         "languagePopulation": {
           "en": {
             "_populationPercent": "88",
@@ -5985,22 +5982,22 @@
       "TV": {
         "_gdp": "42000000",
         "_literacyPercent": "95",
-        "_population": "11052",
+        "_population": "11147",
         "languagePopulation": {
           "en": {
-            "_populationPercent": "9.7",
+            "_populationPercent": "9.6",
             "_officialStatus": "official"
           },
           "tvl": {
-            "_populationPercent": "90",
+            "_populationPercent": "89",
             "_officialStatus": "official"
           }
         }
       },
       "TW": {
-        "_gdp": "1185000000000",
+        "_gdp": "1189000000000",
         "_literacyPercent": "96.1",
-        "_population": "23508400",
+        "_population": "23546000",
         "languagePopulation": {
           "trv": {
             "_populationPercent": "0.02"
@@ -6012,9 +6009,9 @@
         }
       },
       "TZ": {
-        "_gdp": "162200000000",
+        "_gdp": "162500000000",
         "_literacyPercent": "67.8",
-        "_population": "53950900",
+        "_population": "55451300",
         "languagePopulation": {
           "asa": {
             "_populationPercent": "1.2"
@@ -6071,9 +6068,9 @@
         }
       },
       "UA": {
-        "_gdp": "368800000000",
+        "_gdp": "369600000000",
         "_literacyPercent": "99.7",
-        "_population": "44033900",
+        "_population": "43952300",
         "languagePopulation": {
           "be": {
             "_populationPercent": "0.83"
@@ -6116,9 +6113,9 @@
         }
       },
       "UG": {
-        "_gdp": "88670000000",
+        "_gdp": "89190000000",
         "_literacyPercent": "73.2",
-        "_population": "39570100",
+        "_population": "40853700",
         "languagePopulation": {
           "ach": {
             "_populationPercent": "3.7"
@@ -6131,7 +6128,7 @@
             "_officialStatus": "official"
           },
           "hi": {
-            "_populationPercent": "0.0056"
+            "_populationPercent": "0.0054"
           },
           "laj": {
             "_populationPercent": "3.8"
@@ -6164,7 +6161,7 @@
         }
       },
       "UM": {
-        "_gdp": "18760000",
+        "_gdp": "18710000",
         "_literacyPercent": "99",
         "_population": "316",
         "languagePopulation": {
@@ -6175,9 +6172,9 @@
         }
       },
       "US": {
-        "_gdp": "19390000000000",
+        "_gdp": "19490000000000",
         "_literacyPercent": "99",
-        "_population": "326626000",
+        "_population": "329256000",
         "languagePopulation": {
           "cho": {
             "_populationPercent": "0.0033"
@@ -6253,9 +6250,9 @@
         }
       },
       "UY": {
-        "_gdp": "78150000000",
+        "_gdp": "78160000000",
         "_literacyPercent": "98.1",
-        "_population": "3360150",
+        "_population": "3369300",
         "languagePopulation": {
           "es": {
             "_populationPercent": "88",
@@ -6264,9 +6261,9 @@
         }
       },
       "UZ": {
-        "_gdp": "222600000000",
+        "_gdp": "223000000000",
         "_literacyPercent": "99.4",
-        "_population": "29748900",
+        "_population": "30023700",
         "languagePopulation": {
           "kaa": {
             "_populationPercent": "1.6"
@@ -6288,7 +6285,7 @@
         }
       },
       "VA": {
-        "_gdp": "37190000",
+        "_gdp": "37220000",
         "_literacyPercent": "100",
         "_population": "1000",
         "languagePopulation": {
@@ -6302,9 +6299,9 @@
         }
       },
       "VC": {
-        "_gdp": "1266000000",
+        "_gdp": "1265000000",
         "_literacyPercent": "96",
-        "_population": "102089",
+        "_population": "101844",
         "languagePopulation": {
           "en": {
             "_populationPercent": "96",
@@ -6313,9 +6310,9 @@
         }
       },
       "VE": {
-        "_gdp": "380700000000",
+        "_gdp": "381600000000",
         "_literacyPercent": "95.5",
-        "_population": "31304000",
+        "_population": "31689200",
         "languagePopulation": {
           "es": {
             "_populationPercent": "82",
@@ -6326,7 +6323,7 @@
       "VG": {
         "_gdp": "500000000",
         "_literacyPercent": "97.8",
-        "_population": "35015",
+        "_population": "35802",
         "languagePopulation": {
           "en": {
             "_populationPercent": "98",
@@ -6337,7 +6334,7 @@
       "VI": {
         "_gdp": "3872000000",
         "_literacyPercent": "99",
-        "_population": "107268",
+        "_population": "106977",
         "languagePopulation": {
           "en": {
             "_populationPercent": "75",
@@ -6346,9 +6343,9 @@
         }
       },
       "VN": {
-        "_gdp": "647400000000",
+        "_gdp": "648700000000",
         "_literacyPercent": "93.4",
-        "_population": "96160200",
+        "_population": "97040300",
         "languagePopulation": {
           "cjm": {
             "_populationPercent": "0.089",
@@ -6364,9 +6361,9 @@
         }
       },
       "VU": {
-        "_gdp": "770000000",
+        "_gdp": "772000000",
         "_literacyPercent": "83.2",
-        "_population": "282814",
+        "_population": "288037",
         "languagePopulation": {
           "bi": {
             "_populationPercent": "90",
@@ -6385,7 +6382,7 @@
       "WF": {
         "_gdp": "60000000",
         "_literacyPercent": "50",
-        "_population": "15714",
+        "_population": "15763",
         "languagePopulation": {
           "fr": {
             "_populationPercent": "48",
@@ -6400,9 +6397,9 @@
         }
       },
       "WS": {
-        "_gdp": "1134000000",
+        "_gdp": "1137000000",
         "_literacyPercent": "98.8",
-        "_population": "200108",
+        "_population": "201316",
         "languagePopulation": {
           "en": {
             "_populationPercent": "2.2",
@@ -6415,9 +6412,9 @@
         }
       },
       "XK": {
-        "_gdp": "19630000000",
+        "_gdp": "19600000000",
         "_literacyPercent": "91.9",
-        "_population": "1895250",
+        "_population": "1907590",
         "languagePopulation": {
           "aln": {
             "_populationPercent": "74"
@@ -6437,9 +6434,9 @@
         }
       },
       "YE": {
-        "_gdp": "38600000000",
+        "_gdp": "73630000000",
         "_literacyPercent": "65.3",
-        "_population": "28036800",
+        "_population": "28667200",
         "languagePopulation": {
           "ar": {
             "_populationPercent": "74",
@@ -6471,9 +6468,9 @@
         }
       },
       "ZA": {
-        "_gdp": "765600000000",
+        "_gdp": "767200000000",
         "_literacyPercent": "93",
-        "_population": "54841600",
+        "_population": "55380200",
         "languagePopulation": {
           "af": {
             "_populationPercent": "13",
@@ -6541,9 +6538,9 @@
         }
       },
       "ZM": {
-        "_gdp": "68890000000",
+        "_gdp": "68930000000",
         "_literacyPercent": "61.4",
-        "_population": "15972000",
+        "_population": "16445100",
         "languagePopulation": {
           "bem": {
             "_populationPercent": "31"
@@ -6561,9 +6558,9 @@
         }
       },
       "ZW": {
-        "_gdp": "33960000000",
+        "_gdp": "34270000000",
         "_literacyPercent": "83.6",
-        "_population": "13805100",
+        "_population": "14030400",
         "languagePopulation": {
           "en": {
             "_populationPercent": "42",
