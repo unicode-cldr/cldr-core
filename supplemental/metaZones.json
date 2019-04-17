@@ -1,9 +1,9 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 14742 $",
-      "_unicodeVersion": "12.0.0",
-      "_cldrVersion": "35"
+      "_number": "$Revision: 14982 $",
+      "_unicodeVersion": "12.1.0",
+      "_cldrVersion": "35.1"
     },
     "metaZones": {
       "metazoneInfo": {
@@ -1801,13 +1801,13 @@
                 "usesMetazone": {
                   "_mzone": "America_Pacific",
                   "_from": "2018-11-04 10:00",
-                  "_to": "2019-03-10 11:00"
+                  "_to": "2019-01-20 10:00"
                 }
               },
               {
                 "usesMetazone": {
                   "_mzone": "Alaska",
-                  "_from": "2019-03-10 11:00"
+                  "_from": "2019-01-20 10:00"
                 }
               }
             ],

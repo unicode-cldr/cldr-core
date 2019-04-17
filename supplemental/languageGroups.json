@@ -2,8 +2,8 @@
   "supplemental": {
     "version": {
       "_number": "$Revision: 13868 $",
-      "_unicodeVersion": "12.0.0",
-      "_cldrVersion": "35"
+      "_unicodeVersion": "12.1.0",
+      "_cldrVersion": "35.1"
     },
     "languageGroups": {
       "aav": "irr kdt mkh mun nyl sss tth",
