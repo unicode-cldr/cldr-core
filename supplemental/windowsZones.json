@@ -1,9 +1,8 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 14742 $",
       "_unicodeVersion": "12.1.0",
-      "_cldrVersion": "35.1"
+      "_cldrVersion": "36"
     },
     "windowsZones": {
       "mapTimezones": [
@@ -31,7 +30,7 @@
         {
           "mapZone": {
             "_other": "Alaskan Standard Time",
-            "_type": "America/Anchorage America/Juneau America/Nome America/Sitka America/Yakutat",
+            "_type": "America/Anchorage America/Juneau America/Metlakatla America/Nome America/Sitka America/Yakutat",
             "_territory": "US"
           }
         },
@@ -1298,7 +1297,7 @@
         {
           "mapZone": {
             "_other": "GTB Standard Time",
-            "_type": "Asia/Famagusta Asia/Nicosia",
+            "_type": "Asia/Nicosia Asia/Famagusta",
             "_territory": "CY"
           }
         },
@@ -1524,13 +1523,6 @@
             "_other": "Magallanes Standard Time",
             "_type": "America/Punta_Arenas",
             "_territory": "001"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Magallanes Standard Time",
-            "_type": "Antarctica/Palmer",
-            "_territory": "AQ"
           }
         },
         {
@@ -1879,7 +1871,7 @@
         {
           "mapZone": {
             "_other": "Pacific Standard Time",
-            "_type": "America/Los_Angeles America/Metlakatla",
+            "_type": "America/Los_Angeles",
             "_territory": "US"
           }
         },
@@ -1930,6 +1922,20 @@
             "_other": "Paraguay Standard Time",
             "_type": "America/Asuncion",
             "_territory": "PY"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Qyzylorda Standard Time",
+            "_type": "Asia/Qyzylorda",
+            "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Qyzylorda Standard Time",
+            "_type": "Asia/Qyzylorda",
+            "_territory": "KZ"
           }
         },
         {
@@ -2019,7 +2025,7 @@
         {
           "mapZone": {
             "_other": "Russian Standard Time",
-            "_type": "Europe/Moscow Europe/Kirov Europe/Volgograd",
+            "_type": "Europe/Moscow Europe/Kirov",
             "_territory": "RU"
           }
         },
@@ -2040,7 +2046,7 @@
         {
           "mapZone": {
             "_other": "SA Eastern Standard Time",
-            "_type": "Antarctica/Rothera",
+            "_type": "Antarctica/Rothera Antarctica/Palmer",
             "_territory": "AQ"
           }
         },
@@ -2483,6 +2489,13 @@
             "_other": "Singapore Standard Time",
             "_type": "Asia/Singapore",
             "_territory": "001"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Singapore Standard Time",
+            "_type": "Antarctica/Casey",
+            "_territory": "AQ"
           }
         },
         {
@@ -3117,16 +3130,23 @@
         },
         {
           "mapZone": {
-            "_other": "W. Australia Standard Time",
-            "_type": "Australia/Perth",
+            "_other": "Volgograd Standard Time",
+            "_type": "Europe/Volgograd",
             "_territory": "001"
           }
         },
         {
           "mapZone": {
+            "_other": "Volgograd Standard Time",
+            "_type": "Europe/Volgograd",
+            "_territory": "RU"
+          }
+        },
+        {
+          "mapZone": {
             "_other": "W. Australia Standard Time",
-            "_type": "Antarctica/Casey",
-            "_territory": "AQ"
+            "_type": "Australia/Perth",
+            "_territory": "001"
           }
         },
         {
@@ -3391,7 +3411,7 @@
         {
           "mapZone": {
             "_other": "West Asia Standard Time",
-            "_type": "Asia/Oral Asia/Aqtau Asia/Aqtobe Asia/Atyrau Asia/Qyzylorda",
+            "_type": "Asia/Oral Asia/Aqtau Asia/Aqtobe Asia/Atyrau",
             "_territory": "KZ"
           }
         },

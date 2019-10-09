@@ -1,15 +1,17 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 14855 $",
       "_unicodeVersion": "12.1.0",
-      "_cldrVersion": "35.1"
+      "_cldrVersion": "36"
     },
     "plurals-type-ordinal": {
       "af": {
         "pluralRule-count-other": " @integer 0~15, 100, 1000, 10000, 100000, 1000000, …"
       },
       "am": {
+        "pluralRule-count-other": " @integer 0~15, 100, 1000, 10000, 100000, 1000000, …"
+      },
+      "an": {
         "pluralRule-count-other": " @integer 0~15, 100, 1000, 10000, 100000, 1000000, …"
       },
       "ar": {

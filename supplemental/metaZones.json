@@ -1,9 +1,8 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 14982 $",
       "_unicodeVersion": "12.1.0",
-      "_cldrVersion": "35.1"
+      "_cldrVersion": "36"
     },
     "metaZones": {
       "metazoneInfo": {
@@ -3821,13 +3820,13 @@
               {
                 "usesMetazone": {
                   "_mzone": "Europe_Eastern",
-                  "_to": "1978-10-14 21:00"
+                  "_to": "1978-06-28 21:00"
                 }
               },
               {
                 "usesMetazone": {
                   "_mzone": "Turkey",
-                  "_from": "1978-10-14 21:00",
+                  "_from": "1978-06-28 21:00",
                   "_to": "1985-04-19 21:00"
                 }
               },

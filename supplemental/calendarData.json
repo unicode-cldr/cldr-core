@@ -1,9 +1,8 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 14982 $",
       "_unicodeVersion": "12.1.0",
-      "_cldrVersion": "35.1"
+      "_cldrVersion": "36"
     },
     "calendarData": {
       "buddhist": {

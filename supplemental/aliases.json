@@ -1,9 +1,8 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 14929 $",
       "_unicodeVersion": "12.1.0",
-      "_cldrVersion": "35.1"
+      "_cldrVersion": "36"
     },
     "metadata": {
       "alias": {
@@ -71,6 +70,10 @@
           "art-lojban": {
             "_reason": "deprecated",
             "_replacement": "jbo"
+          },
+          "asd": {
+            "_reason": "deprecated",
+            "_replacement": "snz"
           },
           "asm": {
             "_reason": "overlong",
@@ -307,6 +310,10 @@
           "diq": {
             "_reason": "macrolanguage",
             "_replacement": "zza"
+          },
+          "dit": {
+            "_reason": "deprecated",
+            "_replacement": "dif"
           },
           "div": {
             "_reason": "overlong",
@@ -852,6 +859,10 @@
             "_reason": "overlong",
             "_replacement": "lt"
           },
+          "llo": {
+            "_reason": "deprecated",
+            "_replacement": "ngt"
+          },
           "lmm": {
             "_reason": "deprecated",
             "_replacement": "rmx"
@@ -972,6 +983,10 @@
             "_reason": "overlong",
             "_replacement": "my"
           },
+          "myd": {
+            "_reason": "deprecated",
+            "_replacement": "aog"
+          },
           "myt": {
             "_reason": "deprecated",
             "_replacement": "mry"
@@ -1015,6 +1030,10 @@
           "nno": {
             "_reason": "overlong",
             "_replacement": "nn"
+          },
+          "nns": {
+            "_reason": "deprecated",
+            "_replacement": "nbr"
           },
           "nnx": {
             "_reason": "deprecated",

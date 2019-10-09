@@ -1,9 +1,8 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 14982 $",
       "_unicodeVersion": "12.1.0",
-      "_cldrVersion": "35.1"
+      "_cldrVersion": "36"
     },
     "territoryInfo": {
       "AC": {
@@ -198,7 +197,7 @@
         "_population": "44694200",
         "languagePopulation": {
           "cy": {
-            "_populationPercent": "0.065"
+            "_populationPercent": "0.066"
           },
           "en": {
             "_populationPercent": "7"
@@ -250,7 +249,7 @@
             "_officialStatus": "official_regional"
           },
           "hu": {
-            "_populationPercent": "0.27",
+            "_populationPercent": "0.26",
             "_officialStatus": "official_regional"
           },
           "it": {
@@ -640,7 +639,7 @@
             "_populationPercent": "8"
           },
           "es": {
-            "_populationPercent": "0.037"
+            "_populationPercent": "0.036"
           },
           "gub": {
             "_populationPercent": "0.0084"
@@ -1164,7 +1163,7 @@
             "_populationPercent": "0.019"
           },
           "kk_Arab": {
-            "_populationPercent": "0.086"
+            "_populationPercent": "0.085"
           },
           "ko": {
             "_populationPercent": "0.15",
@@ -1685,6 +1684,9 @@
         "_literacyPercent": "97.7",
         "_population": "49331100",
         "languagePopulation": {
+          "an": {
+            "_populationPercent": "0.052"
+          },
           "ast": {
             "_populationPercent": "1.3",
             "_officialStatus": "official_regional"
@@ -1947,7 +1949,7 @@
             "_populationPercent": "6"
           },
           "el": {
-            "_populationPercent": "0.34"
+            "_populationPercent": "0.33"
           },
           "en": {
             "_populationPercent": "99",
@@ -1966,7 +1968,7 @@
             "_officialStatus": "official_regional"
           },
           "it": {
-            "_populationPercent": "0.34"
+            "_populationPercent": "0.33"
           },
           "ks": {
             "_populationPercent": "0.19"
@@ -1985,7 +1987,7 @@
             "_populationPercent": "2.7"
           },
           "syl": {
-            "_populationPercent": "0.5"
+            "_populationPercent": "0.51"
           },
           "yi": {
             "_populationPercent": "0.049"
@@ -2102,7 +2104,7 @@
             "_populationPercent": "3.5"
           },
           "ha": {
-            "_populationPercent": "0.87"
+            "_populationPercent": "0.86"
           },
           "nzi": {
             "_populationPercent": "1"
@@ -2440,7 +2442,7 @@
             "_populationPercent": "0.99"
           },
           "sk": {
-            "_populationPercent": "0.11"
+            "_populationPercent": "0.12"
           },
           "sl": {
             "_populationPercent": "0.051"
@@ -2648,7 +2650,7 @@
           },
           "awa": {
             "_writingPercent": "5",
-            "_populationPercent": "1.8"
+            "_populationPercent": "1.9"
           },
           "bfq": {
             "_populationPercent": "0.023"
@@ -2700,7 +2702,7 @@
             "_populationPercent": "0.028"
           },
           "dcc": {
-            "_populationPercent": "1"
+            "_populationPercent": "0.99"
           },
           "doi": {
             "_populationPercent": "0.2"
@@ -2739,7 +2741,7 @@
             "_populationPercent": "1.1"
           },
           "hoc": {
-            "_populationPercent": "0.1"
+            "_populationPercent": "0.099"
           },
           "hoj": {
             "_populationPercent": "0.082"
@@ -2808,7 +2810,7 @@
             "_officialStatus": "official_regional"
           },
           "mtr": {
-            "_populationPercent": "0.098"
+            "_populationPercent": "0.097"
           },
           "mwr": {
             "_populationPercent": "1.2"
@@ -2838,7 +2840,7 @@
             "_populationPercent": "0.013"
           },
           "rkt": {
-            "_populationPercent": "0.44",
+            "_populationPercent": "0.43",
             "_literacyPercent": "20"
           },
           "sa": {
@@ -3217,7 +3219,7 @@
             "_populationPercent": "0.021"
           },
           "pko": {
-            "_populationPercent": "0.7",
+            "_populationPercent": "0.69",
             "_literacyPercent": "1"
           },
           "saq": {
@@ -3519,7 +3521,7 @@
             "_officialStatus": "official"
           },
           "xh": {
-            "_populationPercent": "1"
+            "_populationPercent": "0.99"
           },
           "zu": {
             "_populationPercent": "14"
@@ -3749,9 +3751,9 @@
         }
       },
       "MK": {
-        "_gdp": "31030000000",
-        "_literacyPercent": "97.4",
-        "_population": "2118950",
+        "_gdp": "30590000000",
+        "_literacyPercent": "97",
+        "_population": "2082960",
         "languagePopulation": {
           "mk": {
             "_populationPercent": "67",
@@ -3772,7 +3774,7 @@
         "_population": "18429900",
         "languagePopulation": {
           "ar": {
-            "_populationPercent": "0.89"
+            "_populationPercent": "0.9"
           },
           "bm": {
             "_populationPercent": "46"
@@ -3784,7 +3786,7 @@
             "_populationPercent": "0.86"
           },
           "bze": {
-            "_populationPercent": "0.84"
+            "_populationPercent": "0.85"
           },
           "dtm": {
             "_populationPercent": "1.1"
@@ -4237,7 +4239,7 @@
         "_population": "203453000",
         "languagePopulation": {
           "amo": {
-            "_populationPercent": "0.0088"
+            "_populationPercent": "0.0087"
           },
           "ar": {
             "_populationPercent": "0.071"
@@ -4405,7 +4407,7 @@
             "_populationPercent": "3"
           },
           "gvr": {
-            "_populationPercent": "0.71"
+            "_populationPercent": "0.29"
           },
           "hi": {
             "_populationPercent": "0.42"
@@ -4440,7 +4442,7 @@
             "_literacyPercent": "67"
           },
           "taj": {
-            "_populationPercent": "3.43"
+            "_populationPercent": "0.43"
           },
           "tdg": {
             "_populationPercent": "1.3"
@@ -4734,7 +4736,7 @@
             "_populationPercent": "0.16"
           },
           "kxp": {
-            "_populationPercent": "0.12"
+            "_populationPercent": "0.11"
           },
           "lah": {
             "_populationPercent": "40"
@@ -5005,7 +5007,7 @@
             "_officialStatus": "official_regional"
           },
           "sk": {
-            "_populationPercent": "0.86",
+            "_populationPercent": "0.85",
             "_officialStatus": "official_regional"
           },
           "sq": {
@@ -5189,6 +5191,10 @@
           "ar": {
             "_populationPercent": "100",
             "_officialStatus": "official"
+          },
+          "ars": {
+            "_writingPercent": "5",
+            "_populationPercent": "3"
           }
         }
       },
@@ -5840,7 +5846,7 @@
         "_population": "5411010",
         "languagePopulation": {
           "ku": {
-            "_populationPercent": "0.41"
+            "_populationPercent": "0.4"
           },
           "ru": {
             "_populationPercent": "12"
@@ -6024,10 +6030,10 @@
             "_officialStatus": "official"
           },
           "jmc": {
-            "_populationPercent": "0.75"
+            "_populationPercent": "0.74"
           },
           "kde": {
-            "_populationPercent": "2.4"
+            "_populationPercent": "2.5"
           },
           "ksb": {
             "_populationPercent": "1.7"
@@ -6046,7 +6052,7 @@
             "_populationPercent": "3.3"
           },
           "rof": {
-            "_populationPercent": "0.75"
+            "_populationPercent": "0.74"
           },
           "rwk": {
             "_populationPercent": "0.22"
@@ -6063,7 +6069,7 @@
             "_officialStatus": "official"
           },
           "vun": {
-            "_populationPercent": "0.75"
+            "_populationPercent": "0.74"
           }
         }
       },
@@ -6183,6 +6189,9 @@
             "_writingPercent": "5",
             "_populationPercent": "0.0077"
           },
+          "cic": {
+            "_populationPercent": "0"
+          },
           "dak": {
             "_populationPercent": "0.0059"
           },
@@ -6198,7 +6207,7 @@
             "_officialStatus": "official_regional"
           },
           "esu": {
-            "_populationPercent": "0.0062"
+            "_populationPercent": "0.0063"
           },
           "fil": {
             "_populationPercent": "0.42"
@@ -6207,7 +6216,7 @@
             "_populationPercent": "0.56"
           },
           "frc": {
-            "_populationPercent": "0.0085"
+            "_populationPercent": "0.0084"
           },
           "haw": {
             "_populationPercent": "0.0089",
@@ -6230,7 +6239,10 @@
             "_populationPercent": "0.0012"
           },
           "nv": {
-            "_populationPercent": "0.051"
+            "_populationPercent": "0.05"
+          },
+          "osa": {
+            "_populationPercent": "0"
           },
           "pdc": {
             "_populationPercent": "0.039"

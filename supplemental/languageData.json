@@ -1,9 +1,8 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 14982 $",
       "_unicodeVersion": "12.1.0",
-      "_cldrVersion": "35.1"
+      "_cldrVersion": "36"
     },
     "languageData": {
       "aa": {
@@ -269,6 +268,11 @@
       "arq-alt-secondary": {
         "_territories": [
           "DZ"
+        ]
+      },
+      "ars": {
+        "_scripts": [
+          "Arab"
         ]
       },
       "arw-alt-secondary": {
@@ -587,11 +591,6 @@
       "bhi-alt-secondary": {
         "_territories": [
           "IN"
-        ]
-      },
-      "bhk": {
-        "_scripts": [
-          "Latn"
         ]
       },
       "bhk-alt-secondary": {
@@ -991,6 +990,11 @@
         ]
       },
       "chy": {
+        "_scripts": [
+          "Latn"
+        ]
+      },
+      "cic": {
         "_scripts": [
           "Latn"
         ]
@@ -1693,14 +1697,16 @@
       },
       "ff": {
         "_scripts": [
-          "Latn",
-          "Adlm"
+          "Latn"
         ]
       },
       "ff-alt-secondary": {
         "_territories": [
           "GN",
           "SN"
+        ],
+        "_scripts": [
+          "Adlm"
         ]
       },
       "ffm": {
@@ -2203,11 +2209,6 @@
       "gvr": {
         "_scripts": [
           "Deva"
-        ]
-      },
-      "gvr-alt-secondary": {
-        "_scripts": [
-          "Latn"
         ]
       },
       "gwi": {
@@ -3762,8 +3763,7 @@
           "MN"
         ],
         "_scripts": [
-          "Cyrl",
-          "Mong"
+          "Cyrl"
         ]
       },
       "mn-alt-secondary": {
@@ -3771,6 +3771,7 @@
           "CN"
         ],
         "_scripts": [
+          "Mong",
           "Phag"
         ]
       },
@@ -4339,6 +4340,11 @@
         ]
       },
       "osa": {
+        "_scripts": [
+          "Osge"
+        ]
+      },
+      "osa-alt-secondary": {
         "_scripts": [
           "Latn"
         ]

@@ -1,9 +1,8 @@
 {
   "supplemental": {
     "version": {
-      "_number": "$Revision: 14982 $",
       "_unicodeVersion": "12.1.0",
-      "_cldrVersion": "35.1"
+      "_cldrVersion": "36"
     },
     "weekData": {
       "minDays": {
@@ -67,7 +66,7 @@
         "AL": "mon",
         "AM": "mon",
         "AN": "mon",
-        "AR": "sun",
+        "AR": "mon",
         "AS": "sun",
         "AT": "mon",
         "AU": "sun",
@@ -229,6 +228,7 @@
         "SA": "fri",
         "SD": "fri",
         "SY": "fri",
+        "UG": "sun",
         "YE": "fri"
       },
       "weekendEnd": {
