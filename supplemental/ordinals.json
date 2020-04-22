@@ -1,8 +1,8 @@
 {
   "supplemental": {
     "version": {
-      "_unicodeVersion": "12.1.0",
-      "_cldrVersion": "36"
+      "_unicodeVersion": "13.0.0",
+      "_cldrVersion": "37"
     },
     "plurals-type-ordinal": {
       "af": {

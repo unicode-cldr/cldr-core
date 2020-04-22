@@ -1,8 +1,8 @@
 {
   "supplemental": {
     "version": {
-      "_unicodeVersion": "12.1.0",
-      "_cldrVersion": "36"
+      "_unicodeVersion": "13.0.0",
+      "_cldrVersion": "37"
     },
     "languageData": {
       "aa": {
@@ -2285,6 +2285,7 @@
           "ZA"
         ],
         "_scripts": [
+          "Latn",
           "Mahj"
         ]
       },
@@ -4865,7 +4866,7 @@
       },
       "sat": {
         "_scripts": [
-          "Latn"
+          "Olck"
         ]
       },
       "sat-alt-secondary": {
@@ -4875,7 +4876,7 @@
         "_scripts": [
           "Beng",
           "Deva",
-          "Olck",
+          "Latn",
           "Orya"
         ]
       },

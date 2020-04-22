@@ -1,8 +1,8 @@
 {
   "supplemental": {
     "version": {
-      "_unicodeVersion": "12.1.0",
-      "_cldrVersion": "36"
+      "_unicodeVersion": "13.0.0",
+      "_cldrVersion": "37"
     },
     "metaZones": {
       "metazoneInfo": {
@@ -751,7 +751,14 @@
                 {
                   "usesMetazone": {
                     "_mzone": "Argentina_Western",
-                    "_from": "2008-01-21 02:00"
+                    "_from": "2008-01-21 02:00",
+                    "_to": "2009-10-11 04:00"
+                  }
+                },
+                {
+                  "usesMetazone": {
+                    "_mzone": "Argentina",
+                    "_from": "2009-10-11 04:00"
                   }
                 }
               ],
@@ -2628,7 +2635,7 @@
               {
                 "usesMetazone": {
                   "_mzone": "Kazakhstan_Western",
-                  "_from": "2005-10-30 21:00"
+                  "_from": "2004-10-30 21:00"
                 }
               }
             ],
@@ -2762,7 +2769,14 @@
               {
                 "usesMetazone": {
                   "_mzone": "Choibalsan",
-                  "_from": "1983-03-31 16:00"
+                  "_from": "1983-03-31 16:00",
+                  "_to": "2008-03-30 15:00"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "Mongolia",
+                  "_from": "2008-03-30 15:00"
                 }
               }
             ],
@@ -5906,6 +5920,13 @@
             "_other": "Europe_Central",
             "_type": "Europe/Ljubljana",
             "_territory": "SI"
+          }
+        },
+        {
+          "mapZone": {
+            "_other": "Europe_Central",
+            "_type": "Arctic/Longyearbyen",
+            "_territory": "SJ"
           }
         },
         {

@@ -1,8 +1,8 @@
 {
   "supplemental": {
     "version": {
-      "_unicodeVersion": "12.1.0",
-      "_cldrVersion": "36"
+      "_unicodeVersion": "13.0.0",
+      "_cldrVersion": "37"
     },
     "metadata": {
       "alias": {
@@ -4254,6 +4254,584 @@
           "ZZZ": {
             "_reason": "overlong",
             "_replacement": "ZZ"
+          }
+        },
+        "subdivisionAlias": {
+          "cn11": {
+            "_reason": "deprecated",
+            "_replacement": "cnbj"
+          },
+          "cn12": {
+            "_reason": "deprecated",
+            "_replacement": "cntj"
+          },
+          "cn13": {
+            "_reason": "deprecated",
+            "_replacement": "cnhe"
+          },
+          "cn14": {
+            "_reason": "deprecated",
+            "_replacement": "cnsx"
+          },
+          "cn15": {
+            "_reason": "deprecated",
+            "_replacement": "cnmn"
+          },
+          "cn21": {
+            "_reason": "deprecated",
+            "_replacement": "cnln"
+          },
+          "cn22": {
+            "_reason": "deprecated",
+            "_replacement": "cnjl"
+          },
+          "cn23": {
+            "_reason": "deprecated",
+            "_replacement": "cnhl"
+          },
+          "cn31": {
+            "_reason": "deprecated",
+            "_replacement": "cnsh"
+          },
+          "cn32": {
+            "_reason": "deprecated",
+            "_replacement": "cnjs"
+          },
+          "cn33": {
+            "_reason": "deprecated",
+            "_replacement": "cnzj"
+          },
+          "cn34": {
+            "_reason": "deprecated",
+            "_replacement": "cnah"
+          },
+          "cn35": {
+            "_reason": "deprecated",
+            "_replacement": "cnfj"
+          },
+          "cn36": {
+            "_reason": "deprecated",
+            "_replacement": "cnjx"
+          },
+          "cn37": {
+            "_reason": "deprecated",
+            "_replacement": "cnsd"
+          },
+          "cn41": {
+            "_reason": "deprecated",
+            "_replacement": "cnha"
+          },
+          "cn42": {
+            "_reason": "deprecated",
+            "_replacement": "cnhb"
+          },
+          "cn43": {
+            "_reason": "deprecated",
+            "_replacement": "cnhn"
+          },
+          "cn44": {
+            "_reason": "deprecated",
+            "_replacement": "cngd"
+          },
+          "cn45": {
+            "_reason": "deprecated",
+            "_replacement": "cngx"
+          },
+          "cn46": {
+            "_reason": "deprecated",
+            "_replacement": "cnhi"
+          },
+          "cn50": {
+            "_reason": "deprecated",
+            "_replacement": "cncq"
+          },
+          "cn51": {
+            "_reason": "deprecated",
+            "_replacement": "cnsc"
+          },
+          "cn52": {
+            "_reason": "deprecated",
+            "_replacement": "cngz"
+          },
+          "cn53": {
+            "_reason": "deprecated",
+            "_replacement": "cnyn"
+          },
+          "cn54": {
+            "_reason": "deprecated",
+            "_replacement": "cnxz"
+          },
+          "cn61": {
+            "_reason": "deprecated",
+            "_replacement": "cnsn"
+          },
+          "cn62": {
+            "_reason": "deprecated",
+            "_replacement": "cngs"
+          },
+          "cn63": {
+            "_reason": "deprecated",
+            "_replacement": "cnqh"
+          },
+          "cn64": {
+            "_reason": "deprecated",
+            "_replacement": "cnnx"
+          },
+          "cn65": {
+            "_reason": "deprecated",
+            "_replacement": "cnxj"
+          },
+          "cn71": {
+            "_reason": "overlong",
+            "_replacement": "TW"
+          },
+          "cn91": {
+            "_reason": "overlong",
+            "_replacement": "HK"
+          },
+          "cn92": {
+            "_reason": "overlong",
+            "_replacement": "MO"
+          },
+          "cz10a": {
+            "_reason": "deprecated",
+            "_replacement": "cz110"
+          },
+          "cz10b": {
+            "_reason": "deprecated",
+            "_replacement": "cz111"
+          },
+          "cz10c": {
+            "_reason": "deprecated",
+            "_replacement": "cz112"
+          },
+          "cz10d": {
+            "_reason": "deprecated",
+            "_replacement": "cz113"
+          },
+          "cz10e": {
+            "_reason": "deprecated",
+            "_replacement": "cz114"
+          },
+          "cz10f": {
+            "_reason": "deprecated",
+            "_replacement": "cz115"
+          },
+          "cz611": {
+            "_reason": "deprecated",
+            "_replacement": "cz663"
+          },
+          "cz612": {
+            "_reason": "deprecated",
+            "_replacement": "cz632"
+          },
+          "cz613": {
+            "_reason": "deprecated",
+            "_replacement": "cz633"
+          },
+          "cz614": {
+            "_reason": "deprecated",
+            "_replacement": "cz634"
+          },
+          "cz615": {
+            "_reason": "deprecated",
+            "_replacement": "cz635"
+          },
+          "cz621": {
+            "_reason": "deprecated",
+            "_replacement": "cz641"
+          },
+          "cz622": {
+            "_reason": "deprecated",
+            "_replacement": "cz642"
+          },
+          "cz623": {
+            "_reason": "deprecated",
+            "_replacement": "cz643"
+          },
+          "cz624": {
+            "_reason": "deprecated",
+            "_replacement": "cz644"
+          },
+          "cz626": {
+            "_reason": "deprecated",
+            "_replacement": "cz646"
+          },
+          "cz627": {
+            "_reason": "deprecated",
+            "_replacement": "cz647"
+          },
+          "czjc": {
+            "_reason": "deprecated",
+            "_replacement": "cz31"
+          },
+          "czjm": {
+            "_reason": "deprecated",
+            "_replacement": "cz64"
+          },
+          "czka": {
+            "_reason": "deprecated",
+            "_replacement": "cz41"
+          },
+          "czkr": {
+            "_reason": "deprecated",
+            "_replacement": "cz52"
+          },
+          "czli": {
+            "_reason": "deprecated",
+            "_replacement": "cz51"
+          },
+          "czmo": {
+            "_reason": "deprecated",
+            "_replacement": "cz80"
+          },
+          "czol": {
+            "_reason": "deprecated",
+            "_replacement": "cz71"
+          },
+          "czpa": {
+            "_reason": "deprecated",
+            "_replacement": "cz53"
+          },
+          "czpl": {
+            "_reason": "deprecated",
+            "_replacement": "cz32"
+          },
+          "czpr": {
+            "_reason": "deprecated",
+            "_replacement": "cz10"
+          },
+          "czst": {
+            "_reason": "deprecated",
+            "_replacement": "cz20"
+          },
+          "czus": {
+            "_reason": "deprecated",
+            "_replacement": "cz42"
+          },
+          "czvy": {
+            "_reason": "deprecated",
+            "_replacement": "cz63"
+          },
+          "czzl": {
+            "_reason": "deprecated",
+            "_replacement": "cz72"
+          },
+          "fi01": {
+            "_reason": "overlong",
+            "_replacement": "AX"
+          },
+          "fra": {
+            "_reason": "deprecated",
+            "_replacement": "frges"
+          },
+          "frb": {
+            "_reason": "deprecated",
+            "_replacement": "frnaq"
+          },
+          "frbl": {
+            "_reason": "overlong",
+            "_replacement": "BL"
+          },
+          "frc": {
+            "_reason": "deprecated",
+            "_replacement": "frara"
+          },
+          "frcp": {
+            "_reason": "overlong",
+            "_replacement": "CP"
+          },
+          "frd": {
+            "_reason": "deprecated",
+            "_replacement": "frbfc"
+          },
+          "fre": {
+            "_reason": "deprecated",
+            "_replacement": "frbre"
+          },
+          "frf": {
+            "_reason": "deprecated",
+            "_replacement": "frcvl"
+          },
+          "frg": {
+            "_reason": "deprecated",
+            "_replacement": "frges"
+          },
+          "frgf": {
+            "_reason": "overlong",
+            "_replacement": "GF"
+          },
+          "frgp": {
+            "_reason": "overlong",
+            "_replacement": "GP"
+          },
+          "frh": {
+            "_reason": "deprecated",
+            "_replacement": "frcor"
+          },
+          "fri": {
+            "_reason": "deprecated",
+            "_replacement": "frbfc"
+          },
+          "frj": {
+            "_reason": "deprecated",
+            "_replacement": "fridf"
+          },
+          "frk": {
+            "_reason": "deprecated",
+            "_replacement": "frocc"
+          },
+          "frl": {
+            "_reason": "deprecated",
+            "_replacement": "frnaq"
+          },
+          "frm": {
+            "_reason": "deprecated",
+            "_replacement": "frges"
+          },
+          "frmf": {
+            "_reason": "overlong",
+            "_replacement": "MF"
+          },
+          "frmq": {
+            "_reason": "overlong",
+            "_replacement": "MQ"
+          },
+          "frn": {
+            "_reason": "deprecated",
+            "_replacement": "frocc"
+          },
+          "frnc": {
+            "_reason": "overlong",
+            "_replacement": "NC"
+          },
+          "fro": {
+            "_reason": "deprecated",
+            "_replacement": "frhdf"
+          },
+          "frp": {
+            "_reason": "deprecated",
+            "_replacement": "frnor"
+          },
+          "frpf": {
+            "_reason": "overlong",
+            "_replacement": "PF"
+          },
+          "frpm": {
+            "_reason": "overlong",
+            "_replacement": "PM"
+          },
+          "frq": {
+            "_reason": "deprecated",
+            "_replacement": "frnor"
+          },
+          "frr": {
+            "_reason": "deprecated",
+            "_replacement": "frpdl"
+          },
+          "frre": {
+            "_reason": "overlong",
+            "_replacement": "RE"
+          },
+          "frs": {
+            "_reason": "deprecated",
+            "_replacement": "frhdf"
+          },
+          "frt": {
+            "_reason": "deprecated",
+            "_replacement": "frnaq"
+          },
+          "frtf": {
+            "_reason": "overlong",
+            "_replacement": "TF"
+          },
+          "fru": {
+            "_reason": "deprecated",
+            "_replacement": "frpac"
+          },
+          "frv": {
+            "_reason": "deprecated",
+            "_replacement": "frara"
+          },
+          "frwf": {
+            "_reason": "overlong",
+            "_replacement": "WF"
+          },
+          "fryt": {
+            "_reason": "overlong",
+            "_replacement": "YT"
+          },
+          "laxn": {
+            "_reason": "deprecated",
+            "_replacement": "laxs"
+          },
+          "lud": {
+            "_reason": "deprecated",
+            "_replacement": "lucl ludi lurd luvd luwi"
+          },
+          "lug": {
+            "_reason": "deprecated",
+            "_replacement": "luec lugr lurm"
+          },
+          "lul": {
+            "_reason": "deprecated",
+            "_replacement": "luca lues lulu lume"
+          },
+          "mrnkc": {
+            "_reason": "deprecated",
+            "_replacement": "mr13 mr14 mr15"
+          },
+          "nlaw": {
+            "_reason": "overlong",
+            "_replacement": "AW"
+          },
+          "nlcw": {
+            "_reason": "overlong",
+            "_replacement": "CW"
+          },
+          "nlsx": {
+            "_reason": "overlong",
+            "_replacement": "SX"
+          },
+          "no23": {
+            "_reason": "deprecated",
+            "_replacement": "no50"
+          },
+          "nzn": {
+            "_reason": "deprecated",
+            "_replacement": "nzauk nzbop nzgis nzhkb nzmwt nzntl nztki nzwgn nzwko"
+          },
+          "nzs": {
+            "_reason": "deprecated",
+            "_replacement": "nzcan nzmbh nznsn nzota nzstl nztas nzwtc"
+          },
+          "omba": {
+            "_reason": "deprecated",
+            "_replacement": "ombj ombs"
+          },
+          "omsh": {
+            "_reason": "deprecated",
+            "_replacement": "omsj omss"
+          },
+          "plds": {
+            "_reason": "deprecated",
+            "_replacement": "pl02"
+          },
+          "plkp": {
+            "_reason": "deprecated",
+            "_replacement": "pl04"
+          },
+          "pllb": {
+            "_reason": "deprecated",
+            "_replacement": "pl08"
+          },
+          "plld": {
+            "_reason": "deprecated",
+            "_replacement": "pl10"
+          },
+          "pllu": {
+            "_reason": "deprecated",
+            "_replacement": "pl06"
+          },
+          "plma": {
+            "_reason": "deprecated",
+            "_replacement": "pl12"
+          },
+          "plmz": {
+            "_reason": "deprecated",
+            "_replacement": "pl14"
+          },
+          "plop": {
+            "_reason": "deprecated",
+            "_replacement": "pl16"
+          },
+          "plpd": {
+            "_reason": "deprecated",
+            "_replacement": "pl20"
+          },
+          "plpk": {
+            "_reason": "deprecated",
+            "_replacement": "pl18"
+          },
+          "plpm": {
+            "_reason": "deprecated",
+            "_replacement": "pl22"
+          },
+          "plsk": {
+            "_reason": "deprecated",
+            "_replacement": "pl26"
+          },
+          "plsl": {
+            "_reason": "deprecated",
+            "_replacement": "pl24"
+          },
+          "plwn": {
+            "_reason": "deprecated",
+            "_replacement": "pl28"
+          },
+          "plwp": {
+            "_reason": "deprecated",
+            "_replacement": "pl30"
+          },
+          "plzp": {
+            "_reason": "deprecated",
+            "_replacement": "pl32"
+          },
+          "shta": {
+            "_reason": "overlong",
+            "_replacement": "TA"
+          },
+          "tteto": {
+            "_reason": "deprecated",
+            "_replacement": "tttob"
+          },
+          "ttrcm": {
+            "_reason": "deprecated",
+            "_replacement": "ttmrc"
+          },
+          "ttwto": {
+            "_reason": "deprecated",
+            "_replacement": "tttob"
+          },
+          "twkhq": {
+            "_reason": "deprecated",
+            "_replacement": "twkhh"
+          },
+          "twtnq": {
+            "_reason": "deprecated",
+            "_replacement": "twtnn"
+          },
+          "twtpq": {
+            "_reason": "deprecated",
+            "_replacement": "twnwt"
+          },
+          "twtxq": {
+            "_reason": "deprecated",
+            "_replacement": "twtxg"
+          },
+          "usas": {
+            "_reason": "overlong",
+            "_replacement": "AS"
+          },
+          "usgu": {
+            "_reason": "overlong",
+            "_replacement": "GU"
+          },
+          "usmp": {
+            "_reason": "overlong",
+            "_replacement": "MP"
+          },
+          "uspr": {
+            "_reason": "overlong",
+            "_replacement": "PR"
+          },
+          "usum": {
+            "_reason": "overlong",
+            "_replacement": "UM"
+          },
+          "usvi": {
+            "_reason": "overlong",
+            "_replacement": "VI"
           }
         },
         "variantAlias": {

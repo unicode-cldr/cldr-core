@@ -305,7 +305,7 @@
       "likelyLanguage": "ccp"
     },
     "Cans": {
-      "rank": 33,
+      "rank": 32,
       "age": {
         "m_version_": 50331648
       },
@@ -367,6 +367,22 @@
       "density": 2,
       "originCountry": "US",
       "likelyLanguage": "chr"
+    },
+    "Chrs": {
+      "rank": 33,
+      "age": {
+        "m_version_": 218103808
+      },
+      "sampleChar": "𐾿",
+      "idUsage": "EXCLUSION",
+      "rtl": "YES",
+      "lbLetters": "NO",
+      "hasCase": "NO",
+      "shapingReq": "YES",
+      "ime": "NO",
+      "density": 1,
+      "originCountry": "UZ",
+      "likelyLanguage": "xco"
     },
     "Copt": {
       "rank": 33,
@@ -431,6 +447,22 @@
       "density": 1,
       "originCountry": "IN",
       "likelyLanguage": "hi"
+    },
+    "Diak": {
+      "rank": 33,
+      "age": {
+        "m_version_": 218103808
+      },
+      "sampleChar": "𑤌",
+      "idUsage": "EXCLUSION",
+      "rtl": "NO",
+      "lbLetters": "NO",
+      "hasCase": "NO",
+      "shapingReq": "YES",
+      "ime": "YES",
+      "density": 1,
+      "originCountry": "MV",
+      "likelyLanguage": "dv"
     },
     "Dogr": {
       "rank": 33,
@@ -529,7 +561,7 @@
       "likelyLanguage": "arc"
     },
     "Ethi": {
-      "rank": 29,
+      "rank": 28,
       "age": {
         "m_version_": 50331648
       },
@@ -1039,6 +1071,22 @@
       "density": 1,
       "originCountry": "IN",
       "likelyLanguage": "sd"
+    },
+    "Kits": {
+      "rank": 33,
+      "age": {
+        "m_version_": 218103808
+      },
+      "sampleChar": "𘱥",
+      "idUsage": "EXCLUSION",
+      "rtl": "NO",
+      "lbLetters": "YES",
+      "hasCase": "NO",
+      "shapingReq": "NO",
+      "ime": "YES",
+      "density": 2,
+      "originCountry": "CN",
+      "likelyLanguage": "zkt"
     },
     "Knda": {
       "rank": 14,
@@ -1649,7 +1697,7 @@
       "likelyLanguage": "otk"
     },
     "Orya": {
-      "rank": 31,
+      "rank": 30,
       "age": {
         "m_version_": 16842752
       },
@@ -2017,7 +2065,7 @@
       "likelyLanguage": "sd"
     },
     "Sinh": {
-      "rank": 28,
+      "rank": 27,
       "age": {
         "m_version_": 50331648
       },
@@ -2305,7 +2353,7 @@
       "likelyLanguage": "fil"
     },
     "Thaa": {
-      "rank": 30,
+      "rank": 29,
       "age": {
         "m_version_": 50331648
       },
@@ -2337,7 +2385,7 @@
       "likelyLanguage": "th"
     },
     "Tibt": {
-      "rank": 27,
+      "rank": 26,
       "age": {
         "m_version_": 33554432
       },
@@ -2464,6 +2512,22 @@
       "originCountry": "IQ",
       "likelyLanguage": "akk"
     },
+    "Yezi": {
+      "rank": 33,
+      "age": {
+        "m_version_": 218103808
+      },
+      "sampleChar": "𐺈",
+      "idUsage": "EXCLUSION",
+      "rtl": "YES",
+      "lbLetters": "NO",
+      "hasCase": "NO",
+      "shapingReq": "NO",
+      "ime": "NO",
+      "density": 1,
+      "originCountry": "GE",
+      "likelyLanguage": "ku"
+    },
     "Yiii": {
       "rank": 33,
       "age": {
@@ -2529,7 +2593,7 @@
       "likelyLanguage": "und"
     },
     "Zzzz": {
-      "rank": 32,
+      "rank": 31,
       "age": {
         "m_version_": 16842752
       },

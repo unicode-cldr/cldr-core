@@ -1,8 +1,8 @@
 {
   "supplemental": {
     "version": {
-      "_unicodeVersion": "12.1.0",
-      "_cldrVersion": "36"
+      "_unicodeVersion": "13.0.0",
+      "_cldrVersion": "37"
     },
     "numberingSystems": {
       "adlm": {
@@ -59,6 +59,10 @@
       },
       "deva": {
         "_digits": "०१२३४५६७८९",
+        "_type": "numeric"
+      },
+      "diak": {
+        "_digits": "𑥐𑥑𑥒𑥓𑥔𑥕𑥖𑥗𑥘𑥙",
         "_type": "numeric"
       },
       "ethi": {
@@ -271,6 +275,10 @@
       },
       "saur": {
         "_digits": "꣐꣑꣒꣓꣔꣕꣖꣗꣘꣙",
+        "_type": "numeric"
+      },
+      "segment": {
+        "_digits": "🯰🯱🯲🯳🯴🯵🯶🯷🯸🯹",
         "_type": "numeric"
       },
       "shrd": {
