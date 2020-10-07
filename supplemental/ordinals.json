@@ -2,7 +2,7 @@
   "supplemental": {
     "version": {
       "_unicodeVersion": "13.0.0",
-      "_cldrVersion": "37"
+      "_cldrVersion": "38"
     },
     "plurals-type-ordinal": {
       "af": {
@@ -205,6 +205,10 @@
       },
       "ky": {
         "pluralRule-count-other": " @integer 0~15, 100, 1000, 10000, 100000, 1000000, …"
+      },
+      "lij": {
+        "pluralRule-count-many": "n = 11,8,80..89,800..899 @integer 8, 11, 80~89, 800~803",
+        "pluralRule-count-other": " @integer 0~7, 9, 10, 12~17, 100, 1000, 10000, 100000, 1000000, …"
       },
       "lo": {
         "pluralRule-count-one": "n = 1 @integer 1",

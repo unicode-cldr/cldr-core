@@ -2,7 +2,7 @@
   "supplemental": {
     "version": {
       "_unicodeVersion": "13.0.0",
-      "_cldrVersion": "37"
+      "_cldrVersion": "38"
     },
     "windowsZones": {
       "mapTimezones": [
@@ -1864,7 +1864,7 @@
         {
           "mapZone": {
             "_other": "Pacific Standard Time",
-            "_type": "America/Vancouver America/Dawson America/Whitehorse",
+            "_type": "America/Vancouver",
             "_territory": "CA"
           }
         },
@@ -2865,7 +2865,7 @@
         {
           "mapZone": {
             "_other": "US Mountain Standard Time",
-            "_type": "America/Dawson_Creek America/Creston America/Fort_Nelson",
+            "_type": "America/Whitehorse America/Creston America/Dawson America/Dawson_Creek America/Fort_Nelson",
             "_territory": "CA"
           }
         },

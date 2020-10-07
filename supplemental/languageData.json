@@ -2,7 +2,7 @@
   "supplemental": {
     "version": {
       "_unicodeVersion": "13.0.0",
-      "_cldrVersion": "37"
+      "_cldrVersion": "38"
     },
     "languageData": {
       "aa": {
@@ -275,6 +275,11 @@
           "Arab"
         ]
       },
+      "ars-alt-secondary": {
+        "_territories": [
+          "SA"
+        ]
+      },
       "arw-alt-secondary": {
         "_scripts": [
           "Latn"
@@ -397,7 +402,6 @@
       },
       "bal-alt-secondary": {
         "_territories": [
-          "AF",
           "IR",
           "PK"
         ],
@@ -591,11 +595,6 @@
       "bhi-alt-secondary": {
         "_territories": [
           "IN"
-        ]
-      },
-      "bhk-alt-secondary": {
-        "_territories": [
-          "PH"
         ]
       },
       "bho": {
@@ -1220,6 +1219,7 @@
           "BR",
           "CZ",
           "DK",
+          "FI",
           "FR",
           "GB",
           "HU",
@@ -1286,7 +1286,7 @@
       },
       "doi": {
         "_scripts": [
-          "Arab"
+          "Deva"
         ]
       },
       "doi-alt-secondary": {
@@ -1294,6 +1294,7 @@
           "IN"
         ],
         "_scripts": [
+          "Arab",
           "Takr"
         ]
       },
@@ -1693,6 +1694,11 @@
       "fan-alt-secondary": {
         "_territories": [
           "GQ"
+        ]
+      },
+      "fbl-alt-secondary": {
+        "_territories": [
+          "PH"
         ]
       },
       "ff": {
@@ -2188,6 +2194,11 @@
           "Latn"
         ]
       },
+      "gur-alt-secondary": {
+        "_territories": [
+          "GH"
+        ]
+      },
       "guz": {
         "_scripts": [
           "Latn"
@@ -2282,6 +2293,7 @@
       "hi-alt-secondary": {
         "_territories": [
           "FJ",
+          "IN",
           "ZA"
         ],
         "_scripts": [
@@ -3388,6 +3400,11 @@
           "Latn"
         ]
       },
+      "loz-alt-secondary": {
+        "_territories": [
+          "ZM"
+        ]
+      },
       "lrc": {
         "_scripts": [
           "Arab"
@@ -4069,6 +4086,11 @@
           "Deva"
         ]
       },
+      "new-alt-secondary": {
+        "_territories": [
+          "NP"
+        ]
+      },
       "ng": {
         "_scripts": [
           "Latn"
@@ -4709,6 +4731,11 @@
       "rng": {
         "_scripts": [
           "Latn"
+        ]
+      },
+      "rng-alt-secondary": {
+        "_territories": [
+          "MZ"
         ]
       },
       "ro": {
@@ -5659,6 +5686,11 @@
           "Latn"
         ]
       },
+      "tly-alt-secondary": {
+        "_territories": [
+          "AZ"
+        ]
+      },
       "tmh": {
         "_scripts": [
           "Latn"
@@ -5738,6 +5770,11 @@
       "trv": {
         "_scripts": [
           "Latn"
+        ]
+      },
+      "trw": {
+        "_scripts": [
+          "Arab"
         ]
       },
       "ts": {

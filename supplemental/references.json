@@ -2,7 +2,7 @@
   "supplemental": {
     "version": {
       "_unicodeVersion": "13.0.0",
-      "_cldrVersion": "37"
+      "_cldrVersion": "38"
     },
     "references": {
       "R1000": {
@@ -1147,6 +1147,7 @@
         "_value": "[missing]",
         "_uri": "http://www.bfs.admin.ch/bfs/portal/en/index/themen/01/05/blank/key/sprachen.html"
       },
+      "R1317": "No hard figures for this yet, so this is a placeholder figure.",
       "R1318": {
         "_value": "Widely spoken less written, and most speakers know standard German as well",
         "_uri": "https://en.wikipedia.org/wiki/Bavarian_language"
@@ -1174,6 +1175,10 @@
       "R1324": {
         "_value": "[missing]",
         "_uri": "http://2001.ukrcensus.gov.ua/eng/results/general/nationality/"
+      },
+      "R1325": {
+        "_value": "[missing]",
+        "_uri": "http://www.portalkaingang.org/index_povo_1default.htm"
       },
       "R1326": {
         "_value": "[missing]",

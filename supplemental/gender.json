@@ -2,7 +2,7 @@
   "supplemental": {
     "version": {
       "_unicodeVersion": "13.0.0",
-      "_cldrVersion": "37"
+      "_cldrVersion": "38"
     },
     "gender": {
       "personList": {
@@ -15,6 +15,7 @@
         "hi": "maleTaints",
         "hr": "maleTaints",
         "it": "maleTaints",
+        "lij": "maleTaints",
         "lt": "maleTaints",
         "lv": "maleTaints",
         "mr": "maleTaints",

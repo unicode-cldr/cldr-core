@@ -2,7 +2,7 @@
   "supplemental": {
     "version": {
       "_unicodeVersion": "13.0.0",
-      "_cldrVersion": "37"
+      "_cldrVersion": "38"
     },
     "metaZones": {
       "metazoneInfo": {
@@ -1116,7 +1116,14 @@
               {
                 "usesMetazone": {
                   "_mzone": "America_Pacific",
-                  "_from": "1973-10-28 09:00"
+                  "_from": "1973-10-28 09:00",
+                  "_to": "2020-03-08 10:00"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "America_Mountain",
+                  "_from": "2020-03-08 10:00"
                 }
               }
             ],
@@ -2369,7 +2376,14 @@
             "Whitehorse": [
               {
                 "usesMetazone": {
-                  "_mzone": "America_Pacific"
+                  "_mzone": "America_Pacific",
+                  "_to": "2020-03-08 10:00"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "America_Mountain",
+                  "_from": "2020-03-08 10:00"
                 }
               }
             ],
