@@ -1,6 +1,6 @@
 {
   "name": "cldr-core",
-  "version": "38.0.0-BETA",
+  "version": "38.0.0",
   "homepage": "http://cldr.unicode.org",
   "author": "The Unicode Consortium",
   "maintainers": [
@@ -14,11 +14,6 @@
     "type": "git",
     "url": "git://github.com/unicode-cldr/cldr-core.git"
   },
-  "licenses": [
-    {
-      "type": "Unicode-TOU",
-      "url": "http://www.unicode.org/copyright.html"
-    }
-  ],
+  "license": "Unicode-DFS-2016",
   "bugs": "https://unicode-org.atlassian.net/projects/CLDR/issues"
 }

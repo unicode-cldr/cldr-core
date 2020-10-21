@@ -1117,13 +1117,13 @@
                 "usesMetazone": {
                   "_mzone": "America_Pacific",
                   "_from": "1973-10-28 09:00",
-                  "_to": "2020-03-08 10:00"
+                  "_to": "2020-11-01 07:00"
                 }
               },
               {
                 "usesMetazone": {
                   "_mzone": "America_Mountain",
-                  "_from": "2020-03-08 10:00"
+                  "_from": "2020-11-01 07:00"
                 }
               }
             ],
@@ -2377,13 +2377,13 @@
               {
                 "usesMetazone": {
                   "_mzone": "America_Pacific",
-                  "_to": "2020-03-08 10:00"
+                  "_to": "2020-11-01 07:00"
                 }
               },
               {
                 "usesMetazone": {
                   "_mzone": "America_Mountain",
-                  "_from": "2020-03-08 10:00"
+                  "_from": "2020-11-01 07:00"
                 }
               }
             ],
@@ -2462,7 +2462,42 @@
               {
                 "usesMetazone": {
                   "_mzone": "Australia_Western",
-                  "_from": "2018-03-10 17:00"
+                  "_from": "2018-03-10 17:00",
+                  "_to": "2018-10-06 20:00"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "Casey",
+                  "_from": "2018-10-06 20:00",
+                  "_to": "2019-03-16 16:00"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "Australia_Western",
+                  "_from": "2019-03-16 16:00",
+                  "_to": "2019-10-03 19:00"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "Casey",
+                  "_from": "2019-10-03 19:00",
+                  "_to": "2020-03-07 16:00"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "Australia_Western",
+                  "_from": "2020-03-07 16:00",
+                  "_to": "2020-10-03 16:01"
+                }
+              },
+              {
+                "usesMetazone": {
+                  "_mzone": "Casey",
+                  "_from": "2020-10-03 16:01"
                 }
               }
             ],
@@ -2483,14 +2518,7 @@
             "Macquarie": [
               {
                 "usesMetazone": {
-                  "_mzone": "Australia_Eastern",
-                  "_to": "2010-04-03 16:00"
-                }
-              },
-              {
-                "usesMetazone": {
-                  "_mzone": "Macquarie",
-                  "_from": "2010-04-03 16:00"
+                  "_mzone": "Australia_Eastern"
                 }
               }
             ],

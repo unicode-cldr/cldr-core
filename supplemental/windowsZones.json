@@ -632,8 +632,8 @@
         {
           "mapZone": {
             "_other": "Central Pacific Standard Time",
-            "_type": "Antarctica/Macquarie",
-            "_territory": "AU"
+            "_type": "Antarctica/Casey",
+            "_territory": "AQ"
           }
         },
         {
@@ -2494,13 +2494,6 @@
         {
           "mapZone": {
             "_other": "Singapore Standard Time",
-            "_type": "Antarctica/Casey",
-            "_territory": "AQ"
-          }
-        },
-        {
-          "mapZone": {
-            "_other": "Singapore Standard Time",
             "_type": "Asia/Brunei",
             "_territory": "BN"
           }
@@ -2697,7 +2690,7 @@
         {
           "mapZone": {
             "_other": "Tasmania Standard Time",
-            "_type": "Australia/Hobart Australia/Currie",
+            "_type": "Australia/Hobart Australia/Currie Antarctica/Macquarie",
             "_territory": "AU"
           }
         },
